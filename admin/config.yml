@@ -15,7 +15,7 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Author", name: "author", widget: "select", options: ["Achilleas Nasios", ""}
+      - {label: "Author", name: "author", widget: "select", options: ["Achilleas Nasios"]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
