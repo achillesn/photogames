@@ -15,16 +15,12 @@ twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 contact_img: /assets/images/placeholder-28.jpg
 social:
-  - name: twitter
-    url:
+  - name: facebook
+    url: https://www.facebook.com/achilles.nasios
   - name: instagram
     url: https://www.instagram.com/achilles.nasios/
-  - name: linkedin
-    url:
   - name: github
     url: https://github.com/achillesn
-  - name: codepen
-    url:
 
 # Disqus settings
 disqus: test-apkdzgmqhj
