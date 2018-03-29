@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Polaroid Williamsburg"
+title: "Giota Tsokou"
 date: 2017-10-23
-description: 
-image: /assets/images/placeholder-9.jpg
-author: Thomas Vaeth
-tags: 
+description:
+image: /assets/images/metamorphosis-02.jpg
+author: Achilleas Nasios
+tags:
   - Dummy Text
   - Moon Drinking
   - Kale
