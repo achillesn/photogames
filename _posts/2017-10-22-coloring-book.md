@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Coloring Book
-description: Test
-date: '2018-10-22T02:00:00+02:00'
+title: Angeliki Drougou
+description: Doctor
+date: '2018-04-06T00:00:00+02:00'
 image: /assets/images/placeholder-8.jpg
-author: Thomas Vaeth
+author: Achilleas Nasios
 ---
-Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
-
-YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh salvia butcher coloring book. Mlkshk sartorial prism master cleanse brooklyn vegan knausgaard PBR&B subway tile swag umami synth distillery. Green juice woke pork belly drinking vinegar williamsburg bitters lyft unicorn hammock. 
+Angeliki Drougou
 
 Hammock whatever paleo, crucifix affogato vice actually vape dreamcatcher franzen fixie hella tofu everyday carry. Keytar gluten-free VHS, wolf scenester swag roof party listicle. Bespoke pabst VHS prism, raclette neutra normcore brunch slow-carb tote bag artisan. Organic DIY venmo, af next level plaid fashion axe 90's activated charcoal.
 
