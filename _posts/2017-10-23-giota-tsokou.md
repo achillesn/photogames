@@ -1,25 +1,12 @@
 ---
 layout: post
 title: Tasos Biris
-description: >-
-  I have become a wonderer and a moment capturer, of an inner photographic
-  exploration of the land and its people.  I capture light and its relation to
-  shapes and forms. I search for the infinitely small moment where we can taste
-  beauty and incorporate it once and for all in our private eternity.  I search
-  for words that will help me manifest the poetic logos of photography.
-  Photography for me becomes an eternal pursue of the Human Being, a journey to
-  the centers of my soul, a path to transcendence of this virtual world toward
-  the world of poetry, so that one day I could speak of the unspoken.  Light
-  capturing is one of the reasons I exist. I was born in Christmas of 1963 and
-  since then Photo graphy ZΩ.
-date: 2017-10-23T00:00:00.000Z
+description: Civil Engeneer
+date: '2018-04-06T02:00:00+02:00'
 image: /assets/images/metamorphosis-02.jpg
 author: Achilleas Nasios
 ---
-## Κάθε που πάει ο καιρός καιρό να συναντήσει
-## καινούρια συμφωνία σκόνης κλείνεται.  
-
-Η μνήμη μου θυμίζει ένα ανοιχτό παράθρο – άλλοτε γκρίζο και άλλοτε χαμογελαστό. Η κουρτίνα που το ντύνει δεν είναι παρά ένα πέπλο που χωρίζει την προσδοκία από την ματαίωση. Τα παιδικά μου μάτια νυχοπατούσαν και απορούσαν. Γύρευαν να ακούσουν το θρόισμα των φύλλων, το παφλασμό του κύματος, το γουργούρισμα της βροχής πάνω στα παραθυρόφυλλα, το άφωνο, μονωτικό χιόνι στο πρεβάζι. Τα παιδικά μου μάτια γύμναζαν την ικανότητα να βλέπουν στους ήχους εικόνες. Με τα χρόνια, η μνήνη απέκτησε τη μορφή που της έδωσα. Στην αρχή, ήταν αυτή η φιγούρα που σχηματιζόταν στο ύφασμα όταν ο αέρας έστρεφε την κουρτίνα προς τα μέσα. Κολλούσε πάνω στο πρόσωπό μου, μετά τραβιόταν, σαν μια καρδιά που παλλόταν. Έπειτα ο αέρας έπνεε από μέσα – την πετούσε με ορμή να μαστιγώνει τον αέρα, σα να διεκδικούσε όλο το ζωτικό χώρο του έξω. Τότε είδα για πρώτη φορά τις αντανακλάσεις του τοπίου στο παλιό καινούριου χρόνου. Είδα χέρια που σφίγγονταν να ζεσταθούν στις γωνιές των λιβαδιών. Πετάχτηκε το σώμα μου με τρόμο, σα σκόνη που τινάχτηκε (ευτυχώς υπήρχε μια άδεια καρέκλα όχι πολύ μακριά). Έγειρα το κεφάλι και συνέχισα να κοιτάζω το τοπίο που εναλλασσόταν.
+I have become a wonderer and a moment capturer, of an inner photographic exploration of the land and its people.  I capture light and its relation to shapes and forms. I search for the infinitely small moment where we can taste beauty and incorporate it once and for all in our private eternity.  I search for words that will help me manifest the poetic logos of photography. Photography for me becomes an eternal pursue of the Human Being, a journey to the centers of my soul, a path to transcendence of this virtual world toward the world of poetry, so that one day I could speak of the unspoken.  Light capturing is one of the reasons I exist. I was born in Christmas of 1963 and since then Photo graphy ZΩ.
 
 ### Μνήμη - Δίπτυχα
 Σαν σκυλί αδέσποτο, η μνήμη παίζει με ένα κόκκαλο, το χρόνο. Έτσι εξηγούνται τα κοφτερά της δόντια,  για να μπορεί να τον κόψει μπουκιές μπουκιές. Η αλεσμένη κατακερμάτισή του, δεν είναι άλλο από μια διήγηση που, αν και θυμάμαι πάντα να ξεχνώ, δεν την αφήνω.
