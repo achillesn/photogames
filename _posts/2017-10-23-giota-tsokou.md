@@ -10,7 +10,7 @@ I have become a wonderer and a moment capturer, of an inner photographic explora
 
 ## Xmass dream
 
-<img src="/assets/images/placeholder-18.jpg" alt="Grid Image"/>
+<img src="/assets/images/TasosBiris-ChristmassDream-1.jpg" alt="Grid Image"/>
 
 When I was just a little boy, every Christmas Eve, before I slept, I would close my eyes and travel high above the earth, searching for the tiny lights, as if I was searching to find the place, Christ was born in, almost like the three Magi had followed the Star of Bethlehem, until I would fall asleep dreaming a Christmas Dream and lose my self in light. Born in Christmas.
 
