@@ -3,7 +3,7 @@ layout: post
 title: Tasos Biris
 description: Civil Engeneer
 date: '2018-04-06T02:00:00+02:00'
-image: /assets/images/metamorphosis-02.jpg
+image: /assets/images/tasosbiris-christmass-dream-4-.jpg
 author: Achilleas Nasios
 ---
 I have become a wonderer and a moment capturer, of an inner photographic exploration of the land and its people.  I capture light and its relation to shapes and forms. I search for the infinitely small moment where we can taste beauty and incorporate it once and for all in our private eternity.  I search for words that will help me manifest the poetic logos of photography. Photography for me becomes an eternal pursue of the Human Being, a journey to the centers of my soul, a path to transcendence of this virtual world toward the world of poetry, so that one day I could speak of the unspoken.  Light capturing is one of the reasons I exist. I was born in Christmas of 1963 and since then Photo graphy ZΩ.
