@@ -2,7 +2,7 @@
 layout: post
 title: Tasos Biris
 description: 3 round
-date: '2018-04-06T02:00:00+02:00'
+date: '2018-04-07T02:00:00+02:00'
 image: /assets/images/tasosbiris-χmassdream8.jpg
 author: Achilleas Nasios
 ---
