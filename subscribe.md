@@ -7,5 +7,3 @@ image: /assets/images/placeholder-9.jpg
   <div class="grid-small">
       <h2>Subscribe</h1>
       <p class="mast__text">You’ve successfully subscribed to {{ site.title }}.</p>
-  </div>
-</section>
