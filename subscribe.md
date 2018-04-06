@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Subscribe
-image: 
+image: /assets/images/placeholder-9.jpg
 ---
 <section class="mast section-padding--double">
   <div class="grid-small">
