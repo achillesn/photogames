@@ -12,7 +12,7 @@ In 2012, I discovered that photography is more than holiday snapshots and at tha
 
 Sometimes I feel that a photographer is trapped inside my Engineer body, but for the moment I am afraid to let him out.
 
-![Placeholder](/assets/images/mantas-presentation1.jpg)
+![Placeholder](/assets/images/mantas-presentation1.jpg#full)
 
 ### Dreams
 
