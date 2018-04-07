@@ -8,7 +8,7 @@ author: Achilleas Nasios
 ---
 I am a Greece-based self-taught photographer. My interest in photography sparked in 2014, when I started experimenting with analog photography. My work has been published in a number of publications such as Agitate (Australia, October 2015), Photoklassik (Germany, September 2016), Adore Noir Magazine (Canada, October 2017), Click Magazine (Italy, December 2017), Photographize (USA, February 2018).
 
-![null](/assets/images/tsokou-presentation-metamorphosis.jpg)
+![null](/assets/images/tsokou-presentation-metamorphosis.jpg#full)
 
 ### Mirage - A tale
 
@@ -22,6 +22,6 @@ Time is a wild horse, kicked into a full gallop.  To ride this fierce horse mean
 
 ![null](/assets/images/tsokou_04.jpg)
 
-![null]()
+![null](/assets/images/tsokou_05.jpg)
 
-![null](/assets/images/tsokou-presentation-metamorphosis.jpg)
+![null]()
