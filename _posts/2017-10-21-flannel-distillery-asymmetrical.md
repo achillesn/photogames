@@ -12,10 +12,7 @@ In 2012, I discovered that photography is more than holiday snapshots and at tha
 
 Sometimes I feel that a photographer is trapped inside my Engineer body, but for the moment I am afraid to let him out.
 
-
-![Placeholder](/assets/images/placeholder-20.jpg)
-
-
+![Placeholder](/assets/images/mantas-presentation1.jpg)
 
 ### Dreams
 
@@ -28,7 +25,6 @@ Next, when reality has caught up with us, we don't dream of the future any more,
 And, inevitably, the moment will come when we will dream of the past - something we lost, something that is missing and we are not whole any more.
 
 Until the time comes when we become a thought too and, if we are lucky, we become the dream for someone else who is left behind.
-
 
 ![Placeholder](/assets/images/placeholder-22.jpg)
 
