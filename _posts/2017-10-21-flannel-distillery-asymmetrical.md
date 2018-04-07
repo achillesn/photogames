@@ -15,7 +15,20 @@ Sometimes I feel that a photographer is trapped inside my Engineer body, but for
 
 ![Placeholder](/assets/images/placeholder-20.jpg)
 
-Jean shorts pour-over chicharrones woke. Kinfolk next level chia master cleanse. Messenger bag green juice tumeric trust fund pour-over vegan. Celiac kogi vinyl taiyaki shaman scenester plaid live-edge whatever tilde subway tile XOXO helvetica you probably haven't heard of them four dollar toast. Knausgaard franzen mumblecore normcore microdosing. Man bun pickled woke, offal twee craft beer vape tilde stumptown retro small batch butcher la croix photo booth. 
+
+
+### Dreams
+
+Dreams are connected to the circle of life. In the beginning, dreams are about the fairytales - within them we become the heroes of the story, somewhere in the sphere of imagination.
+
+Growing up, dreams are what we wish to become. "I want to be a ballerina when I grow up" - "I want to be a vet, a teacher". We will probably become something else at the end but if a child cannot dream, then who can?
+
+Next, when reality has caught up with us, we don't dream of the future any more, but of what we have lost at present – a moment of needed solitude, a moment of peace, losing some of the burden of the daily routine.
+
+And, inevitably, the moment will come when we will dream of the past - something we lost, something that is missing and we are not whole any more.
+
+Until the time comes when we become a thought too and, if we are lucky, we become the dream for someone else who is left behind.
+
 
 ![Placeholder](/assets/images/placeholder-22.jpg)
 
