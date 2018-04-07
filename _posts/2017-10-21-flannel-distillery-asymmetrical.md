@@ -6,11 +6,12 @@ date: '2018-04-07T02:00:00+02:00'
 image: /assets/images/placeholder-12.jpg
 author: Achilleas Nasios
 ---
-Church-key XOXO try-hard, schlitz kickstarter meh marfa sustainable yuccie you probably haven't heard of them. Adaptogen selvage artisan franzen shabby chic listicle YOLO tofu schlitz marfa. Glossier pop-up salvia banh mi, echo park humblebrag hella actually dreamcatcher tumblr meggings iceland. Fanny pack chambray pinterest adaptogen salvia.
+Born in March of 1976, a husband and father of two girls, I had been no more than an occasional consumer of art for most of my life. 
 
-Whatever cornhole single-origin coffee succulents selvage 3 wolf moon prism swag marfa flexitarian. Butcher semiotics gentrify fam. Normcore next level heirloom copper mug sriracha. Poke pop-up cray four loko activated charcoal DIY forage tilde schlitz ethical offal cronut post-ironic. 
+In 2012, I discovered that photography is more than holiday snapshots and at that moment I swear I felt something move inside me. I consider myself a learner of the craft since then. 
 
-Hell of bicycle rights wolf intelligentsia sriracha 90's skateboard fashion axe 3 wolf moon meditation.
+Sometimes I feel that a photographer is trapped inside my Engineer body, but for the moment I am afraid to let him out.
+
 
 ![Placeholder](/assets/images/placeholder-20.jpg)
 
