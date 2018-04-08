@@ -24,4 +24,4 @@ Time is a wild horse, kicked into a full gallop.  To ride this fierce horse mean
 
 ![null](/assets/images/tsokou_05.jpg)
 
-![null]()
+
