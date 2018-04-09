@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giota Tsokou
+title: Yiota Tsokou
 description: 2 round
 date: '2018-04-06T02:00:00+02:00'
 image: /assets/images/tsokou_01.jpg
@@ -23,5 +23,3 @@ Time is a wild horse, kicked into a full gallop.  To ride this fierce horse mean
 ![null](/assets/images/tsokou_04.jpg)
 
 ![null](/assets/images/tsokou_05.jpg)
-
-
