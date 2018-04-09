@@ -12,9 +12,10 @@ Born 1976 in Athens, Greece. I have attended two seminars on Street and Art phot
 
 ### Whatever You Really See
 
-A human being is essentially a spirit-eye.
 
+A human being is essentially a spirit-eye.
 Whatever you really see, you are that.
+
 _(Rumi)_
 
 ![Konidaris](/assets/images/konidaris_1.jpg)
