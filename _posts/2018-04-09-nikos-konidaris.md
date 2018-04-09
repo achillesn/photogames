@@ -10,7 +10,7 @@ Born 1976 in Athens, Greece. I have attended two seminars on Street and Art phot
 
 
 
-\###Metamorphosis
+### Metamorphosis
 
 ![Konidaris](/assets/images/konidaris_1.jpg)
 
