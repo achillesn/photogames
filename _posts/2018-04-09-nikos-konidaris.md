@@ -8,9 +8,14 @@ author: Achilleas Nasios
 ---
 Born 1976 in Athens, Greece. I have attended two seminars on Street and Art photography by Lukas Vasilikos and lessons on Visual Storytelling by Achilles Nasios. I have participated in the group exhibition “Lost & Found” curated by Void Photo and “The Last Game”, a group exhibition curated by Achilles Nasios. Finally I got selected to exhibit my work as part of Eastreet 4 group exhibition in Lublin, Poland.
 
-### Metamorphosis
+### Whatever You Really See
 
-![](/assets/images/konidaris-present-metamorfosis.jpg#full)
+![null](/assets/images/konidaris-present-metamorfosis.jpg#full)
+
+A human being is essentially a spirit-eye.
+Whatever you really see, you are that.
+
+\    _Rumi_
 
 ![Konidaris](/assets/images/konidaris_1.jpg)
 
