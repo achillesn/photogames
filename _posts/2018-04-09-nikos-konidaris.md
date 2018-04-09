@@ -8,7 +8,7 @@ author: Achilleas Nasios
 ---
 Born 1976 in Athens, Greece. I have attended two seminars on Street and Art photography by Lukas Vasilikos and lessons on Visual Storytelling by Achilles Nasios. I have participated in the group exhibition “Lost & Found” curated by Void Photo and “The Last Game”, a group exhibition curated by Achilles Nasios. Finally I got selected to exhibit my work as part of Eastreet 4 group exhibition in Lublin, Poland.
 
-![null](/assets/images/metamorphosis_presentation.jpg)
+![null](/assets/images/metamorphosis_presentation.jpg#full)
 
 ### Whatever You Really See
 
