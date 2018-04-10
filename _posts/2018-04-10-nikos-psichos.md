@@ -6,7 +6,7 @@ date: '2018-04-10T15:39:17+03:00'
 image: /assets/images/psichosnik2.jpg
 author: Achilleas Nasios
 ---
-![null](/assets/images/psichosn-presentation.jpg)
+![null](/assets/images/psichosn-presentation.jpg#full)
 
 ![null](/assets/images/psichosnik1.jpg)
 
