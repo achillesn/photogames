@@ -6,9 +6,10 @@ date: '2018-04-10T15:27:05+03:00'
 image: /assets/images/irinikorinthiou-1.jpg
 author: Achilleas Nasios
 ---
-### Αίθουσα αναμονής
+### The waiting room. 
 
-Η λίμνη παραμένει ασάλευτη.To σήμα δόθηκε και άρχισε η γιορτή. Τα χρώματα θ’ ακολουθήσουν  τη μέρα μέχρι τη γη των Εσπερίδων. Τα χρώματα μας καλούνε να ξαναπλάσουμε τον πηλό. Να ονειρευτούμε την κατάργηση της καθημερινής μας ανίας. 
+The lake remains  motionless.  The signal was given and the feast began. Following the day, there will be colors  , until they reach the Land of  the Hesperides. Colors ask us to reshape the clay. The dream of  abolishing  our daily boredom .
+
 
 ![null](/assets/images/irinikorinthiou-1.jpg)
 
