@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angeliki Drougou
-description: Round 3
+description: 1st round
 date: '2018-04-10T14:53:42+03:00'
 image: /assets/images/drougou-01.jpg
 author: Achilleas Nasios
