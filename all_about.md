@@ -18,6 +18,7 @@ We are not a conventional team, we are people from different places, our profess
 I wish to thank everyone who participated in the Photo Games up to now, considering joy our greatest reward. Without it, we would not have any outcome.
 
 Subscribe, if you like to get all new updates.
+
 Contact us, if you like to have further information.
  
 Enjoy!
