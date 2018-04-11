@@ -3,7 +3,7 @@ email: videoporta@yahoo.com
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics:
 
 name: Achilleas Nasios
