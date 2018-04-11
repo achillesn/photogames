@@ -5,7 +5,7 @@ image: /assets/images/02.-gina-by-a.jpg
 ---
 When I first read Vilem Flusser's "Towards a Philosophy of Photography" 20 years ago, I couldn't even dream that his deep thoughts that were presented almost in fairy tale simplicity were to radically alter my perception of the photographic affairs. It's not the thoughts exactly but the action that changes matters. It's not philosophy as an idea but its implementation that proves its value. Actions are the only way to prove the truth of what is spoken.
 
-Through the years of studying the art of teaching, I gradually saw a new pedagogic method of teaching photography emerging. Inspired from the deep understanding that Flusser suggested in combination with Rudolf Steiner's and Pär Ahlbom's pedagogics I reached the point of perceiving and creating the Photo Games.
+Through the years of studying the art of teaching, I gradually saw a new pedagogic method of teaching photography emerging. Inspired from the deep understanding that Flusser suggested in combination with Rudolf Steiner's and Pär Ahlbom's pedagogics I reached the point of perceiving and creating the <h6>Photo Games</h6>.
 
 Up to now, two different types of games have been planned and implemented. Τheir aim is always a deeper search for the demands of every single photographic procedure. As an outline one could say that The Photo Games utmost goal is to contribute to the methodology of researching the role of the photographer to his/her subject matter, the relationship with it from the initial recognition to the final formation. Sometimes emphasis is given to personal experience as is the requisite of shooting and sometimes to sharpen the mind to prompt it to edit images. The Games have been designed to offer a thorough personal perception of the photographic procedure  but also to lead a step further to the utterance of a lucid visual language.
 
@@ -20,5 +20,5 @@ I wish to thank everyone who participated in the Photo Games up to now, consider
 Subscribe, if you like to get all new updates.
 
 Contact us, if you like to have further information.
- 
+
 Enjoy!
