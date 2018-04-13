@@ -13,14 +13,13 @@ Step by step, taking photographs, not only have I learned to reach the unexplore
 
 ![null](/assets/images/louloudia-present1.jpg#full)
 
-
 With the memory still fluid in my dreams I leave the bitter times behind me affectionately embracing the dark moments that I was born to live. I remember myself  being  in a quandary  and bewildered, in wild places, having  empty  promises  into my hands,  trying to beautify my Sadness. I loved this Sadness. "In the village of my tongue, Sadness is called Brightness", says the poet.
 But what really happened and what were just figments of mind? All remain  indecipherable at the skein of myth.
 And now, in the middle of the path of Time, the shadows are getting thicker  and the truths are unveiling their face.
 I wish I could turn back and let the Time release my mind from the Echoes of the Past in order to try everything again from the beginning.
 To see the light spelling my name slowly and all these pictures that  were born deep in the dark forest of my soul to vindicate the Glory of life.
 
-
+![null](/assets/images/louloudia-present1.1.jpg)
 
 ![null](/assets/images/gredi-1.jpg)
 
