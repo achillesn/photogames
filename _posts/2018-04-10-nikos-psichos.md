@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nikos Psichos
+title: Nikos Psychos
 description: 1st round
 date: '2018-04-10T15:39:17+03:00'
 image: /assets/images/psichosnik2.jpg
