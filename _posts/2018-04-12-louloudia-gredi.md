@@ -19,7 +19,6 @@ And now, in the middle of the path of Time, the shadows are getting thicker  and
 I wish I could turn back and let the Time release my mind from the Echoes of the Past in order to try everything again from the beginning.
 To see the light spelling my name slowly and all these pictures that  were born deep in the dark forest of my soul to vindicate the Glory of life.
 
-![null](/assets/images/louloudia-present1.1.jpg#full)
 
 ![null](/assets/images/gredi-1.jpg)
 
