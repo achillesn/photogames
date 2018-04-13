@@ -9,9 +9,9 @@ author: Achilleas Nasios
 Having lived adrift for long between dream and reality I was found by Photography and it became the means of setting the chaos that existed inside me in some kind of order.
 Step by step, taking photographs, not only have I learned to reach the unexplored aspects of myself, but also to discover, at the same time, new ways of interpreting the world and the enigmas hidden within it. Eventually, I have realized that the images that I create, have always lived inside me, subconsciously, and they seem to be there only to tell my story.
 
-### The Return of Iphigenia
-
 ![null](/assets/images/louloudia-present1.jpg#full)
+
+### The Return of Iphigenia
 
 With the memory still fluid in my dreams I leave the bitter times behind me affectionately embracing the dark moments that I was born to live. I remember myself  being  in a quandary  and bewildered, in wild places, having  empty  promises  into my hands,  trying to beautify my Sadness. I loved this Sadness. "In the village of my tongue, Sadness is called Brightness", says the poet.
 But what really happened and what were just figments of mind? All remain  indecipherable at the skein of myth.
