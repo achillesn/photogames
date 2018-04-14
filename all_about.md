@@ -7,6 +7,8 @@ When I first read Vilem Flusser's "Towards a Philosophy of Photography" 20 years
 
 Through the years of studying the art of teaching, I gradually saw a new pedagogic method of teaching photography emerging. Inspired from the deep understanding that Flusser suggested in combination with Rudolf Steiner's and Pär Ahlbom's pedagogics I reached the point of perceiving and creating the **Photo Games**.
 
+![](/assets/images/02.-gina-by-a.jpg)
+
 Up to now, **two different types** of games have been planned and implemented. Τheir aim is always a deeper search for the demands of every single photographic procedure. As an outline one could say that The Photo Games utmost goal is to contribute to the methodology of researching the role of the photographer to his/her subject matter, the relationship with it from the initial recognition to the final formation. Sometimes emphasis is given to personal experience as is the requisite of shooting and sometimes to sharpen the mind to prompt it to edit images. The Games have been designed to offer a thorough personal perception of the photographic procedure  but also to lead a step further to the utterance of a lucid visual language.
 
 **The works**  presented on this initial stage are a produce of the internet photo games which happened weekly during last year. The most important intend is to develop a complete visual proposal from every participant. Based on the development of our visual propositions we were able to decipher the theory that holds the art of photography.
