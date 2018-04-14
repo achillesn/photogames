@@ -15,6 +15,8 @@ Up to now, **two different types** of games have been planned and implemented. Î
 
 We recognized the importance of style and saw form spreading in front of our eyes the core of substance. We observed the secret unfolding of our subject matter revealing what we did not know about us and even more. Finally overjoyed we saw our work becoming a source of inspiration for the others.
 
+![](/assets/images/02.-gina-by-a.jpg)
+
 **We are not a conventional team**, we are people from different places, our professions differ as do our faces and our gaze. Our connecting link is our common love for photography and the realization of the need to search deeper in the dialectics of photography and the ways the art is expressed through them. This is the reason we decided to widen gradually the results of our study. Hoping that our initiative shall inspire open dialogue as any expression would aspire to.
 
 I wish to **thank everyone** who participated in the Photo Games up to now, considering joy our greatest reward. Without it, we would not have any outcome.
