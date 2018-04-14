@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All about
-image: /assets/images/all2.jpg
+image: /assets/images/allbw.jpg
 ---
 When I first read Vilem Flusser's "Towards a Philosophy of Photography" 20 years ago, I couldn't even dream that his deep thoughts that were presented almost in fairy tale simplicity were to radically alter my perception of the photographic affairs. It's not the thoughts exactly but the action that changes matters. It's not philosophy as an idea but its implementation that proves its value. Actions are the only way to prove the truth of what is spoken.
 
