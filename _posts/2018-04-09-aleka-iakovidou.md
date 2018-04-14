@@ -16,4 +16,3 @@ I was born in 1960 in Athens, Greece, where I live until today. I was employed i
 
 ![null](/assets/images/iakovidou-metallaxis-4.jpg)
 
-![null](/assets/images/iakovidou-metallaxis-5.jpg)
