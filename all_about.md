@@ -19,7 +19,7 @@ We recognized the importance of style and saw form spreading in front of our eye
 
 ![null](/assets/images/01.jpg#full)
 
-**We are not a conventional team**, we are people from different places, our professions differ as do our faces and our gaze. Our connecting link is our common love for photography and the realization of the need to search deeper in the dialectics of photography and the ways the art is expressed through them. This is the reason we decided to widen gradually the results of our study. Hoping that our initiative shall inspire open dialogue as any expression would aspire to.
+**We are not a conventional team**. We are people from different places, our professions differ as do our faces and our gaze. Our connecting link is our common love for photography and the realization of the need to search deeper in the dialectics of photography and the ways the art is expressed through them. This is the reason we decided to widen gradually the results of our study. Hoping that our initiative shall inspire open dialogue as any expression would aspire to.
 
 I wish to **thank everyone** who participated in the Photo Games up to now, considering joy our greatest reward. Without it, we would not have any outcome.
 
