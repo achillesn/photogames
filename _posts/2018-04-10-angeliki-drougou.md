@@ -16,3 +16,14 @@ author: Achilleas Nasios
 
 ![null](/assets/images/drougou-03.jpg)
 
+![null](/assets/images/drougou2-present.jpg)
+
+![null](/assets/images/drougou2.1.jpg)
+
+![null](/assets/images/drougou2.2.jpg)
+
+![null](/assets/images/drougou2.3.jpg)
+
+![null](/assets/images/drougou2.4.jpg)
+
+![null](/assets/images/drougou2.5.jpg)
