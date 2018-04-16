@@ -13,7 +13,7 @@ const PageTransition = (() => {
   return {
     settings() {
       return {
-        transitionLinks: $(`a[href^="http://${top.location.host.toString()}"], a[href^="/"], a[href^="./"], a[href^="../"]`).not(`.${noTransition}`),
+        transitionLinks: $(`a[href^="https://${top.location.host.toString()}"], a[href^="/"], a[href^="./"], a[href^="../"]`).not(`.${noTransition}`),
         body: $('body'),
         window: $(window),
         exit: 400,
