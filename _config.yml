@@ -9,11 +9,11 @@ google_analytics:
 name: Achilles Nasios
 title: Photo Games
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  This website presents the produce of the internet photo games which happened weekly during last year.
 url: https://photogames.tk
 twitter_username:
 default_img: /assets/images/seo.jpg
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/contact.jpg
 social:
   - name: facebook
     url: https://www.facebook.com/achilles.nasios
