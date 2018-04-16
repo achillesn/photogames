@@ -23,7 +23,7 @@ social:
     url: https://github.com/achillesn
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+disqus: 
 
 # MailChimp settings
 mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
@@ -31,7 +31,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Achilleas Nasios
+  - name: Achilles Nasios
     bio: Achilles Nasios is a photographer, video-artist and an art teacher.  He was born in Greece, studied in Prague, Berlin, Athens and Stockholm. Worked as a lecturer of photography at the Greek University. He lives and works in Sweden.
     url: http://anikon.org
 
