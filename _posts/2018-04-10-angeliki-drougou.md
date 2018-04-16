@@ -4,7 +4,7 @@ title: Angeliki Drougou
 description: 1st round
 date: '2018-04-06T13:53:42+02:00'
 image: /assets/images/drougou-01.jpg
-author: Achilleas Nasios
+author: Achilles Nasios
 ---
 ### Ωφέλιμο φορτίο
 

@@ -23,11 +23,11 @@ social:
     url: https://github.com/achillesn
 
 # Disqus settings
-disqus: 
+disqus:
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: https://photogames.us18.list-manage.com/subscribe/post?u=b93eeb446f58622e32bc10a23&amp;id=1e76e85166
+mailchimp_input: b_b93eeb446f58622e32bc10a23_1e76e85166
 
 # Author settings
 author:

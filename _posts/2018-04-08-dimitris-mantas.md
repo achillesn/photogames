@@ -4,11 +4,11 @@ title: Dimitris Mantas
 description: 2nd round
 date: '2018-04-16T01:58:08+02:00'
 image: /assets/images/mantas_central.jpg
-author: Achilleas Nasios
+author: Achilles Nasios
 ---
-Born in March of 1976, a husband and father of two girls, I had been no more than an occasional consumer of art for most of my life. 
+Born in March of 1976, a husband and father of two girls, I had been no more than an occasional consumer of art for most of my life.
 
-In 2012, I discovered that photography is more than holiday snapshots and at that moment I swear I felt something move inside me. I consider myself a learner of the craft since then. 
+In 2012, I discovered that photography is more than holiday snapshots and at that moment I swear I felt something move inside me. I consider myself a learner of the craft since then.
 
 Sometimes I feel that a photographer is trapped inside my Engineer body, but for the moment I am afraid to let him out.
 
