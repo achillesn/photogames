@@ -2,7 +2,7 @@
 layout: post
 title: Dimitris Mantas
 description: 2nd round
-date: '2018-04-08T01:58:08+02:00'
+date: '2018-04-16T01:58:08+02:00'
 image: /assets/images/mantas_central.jpg
 author: Achilleas Nasios
 ---
