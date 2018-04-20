@@ -19,20 +19,20 @@ And Eternity in an hour…’ \[Auguries of Innocence William Blake]
 
 This set of photos is part of an ongoing project which at first began as a photography exercise but in the way was evolved as a family diary for the days of innocence.
 
-![](/assets/images/simos1.jpg)
+![null](/assets/images/simos1.jpg)
 
-![](/assets/images/simos2.jpg)
+![null](/assets/images/simos2.jpg)
 
-![](/assets/images/simos3.jpg)
+![null](/assets/images/simos3.jpg)
 
-![](/assets/images/simos4.jpg)
+![null](/assets/images/simos4.jpg)
 
-![](/assets/images/simos5.jpg)
+![null](/assets/images/simos5.jpg)
 
-![](/assets/images/simos6.jpg)
+![null](/assets/images/simos6.jpg)
 
-![](/assets/images/simos7.jpg)
+![null](/assets/images/simos7.jpg)
 
-![](/assets/images/simos8.jpg)
+![null](/assets/images/simos8.jpg)
 
-![](/assets/images/simos9.jpg)
+![null](/assets/images/simos9.jpg)
