@@ -6,7 +6,7 @@ date: '2018-04-15T12:10:52+02:00'
 image: /assets/images/simos9.jpg
 author: Achilles Nasios
 tags:
-  - games
+  - Games
 ---
 I was born in Pafos \[Cyprus] on August 1981. I am a father of a girl and a boy that are my source of inspiration both in life and in photography. I have participated in the international project ‘HOME’ with tutors Achilles Nasios and Jason Eskenazi. Photography for me is a way to escape my reality. Still searching my voice.  
 
