@@ -4,9 +4,8 @@ title: Louloudia Gredi
 description: 2nd Round
 date: '2018-04-15T02:11:20+02:00'
 image: /assets/images/gredi-2.jpg
+tags: 'List [ "Stories" ]'
 author: Achilles Nasios
-tags:
-  - Stories
 ---
 Having lived adrift for long between dream and reality I was found by Photography and it became the means of setting the chaos that existed inside me in some kind of order.
 Step by step, taking photographs, not only have I learned to reach the unexplored aspects of myself, but also to discover, at the same time, new ways of interpreting the world and the enigmas hidden within it. Eventually, I have realized that the images that I create, have always lived inside me, subconsciously, and they seem to be there only to tell my story.
