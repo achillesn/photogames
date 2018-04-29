@@ -47,7 +47,7 @@ const MailChimp = (() => {
           },
           error: () => {
             setTimeout(() => {
-              s.formMessage.text('You have successfully subscribed. Check your inbox for the email confirmation.');
+              s.formMessage.text('Check your email');
               s.formMessage.removeClass('hidden');
               s.formMessage.addClass(s.animation);
             }, 750);
