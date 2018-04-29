@@ -42,7 +42,7 @@ const MailChimp = (() => {
                 s.formMessage.addClass(s.animation);
               }, 750);
             } else {
-              window.location = `https://${top.location.host.toString()}/subscribe`;
+              window.location = `https://photogames.tk/subscribe`;
             }
           },
           error: () => {
