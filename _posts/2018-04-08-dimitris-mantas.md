@@ -4,6 +4,7 @@ title: Dimitris Mantas
 description: 2nd round
 date: '2018-04-16T01:58:08+02:00'
 image: /assets/images/mantas_central.jpg
+tags: 'List [ "Stories" ]'
 author: Achilles Nasios
 ---
 Born in March of 1976, a husband and father of two girls, I had been no more than an occasional consumer of art for most of my life.
