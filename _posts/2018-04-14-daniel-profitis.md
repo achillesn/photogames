@@ -5,6 +5,8 @@ description: 2nd round
 date: '2018-04-04T00:26:42+02:00'
 image: /assets/images/profitis-series3.jpg
 author: Achilles Nasios
+tags:
+  - students
 ---
 My dream, from the early stages of my life, was to create pictures.
 Starting with analog photography and later experimenting with digital possibilities, in agony to re-define my self, I lost the dream.
