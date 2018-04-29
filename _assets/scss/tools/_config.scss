@@ -22,10 +22,10 @@ $base-lineheight: 1.7;
 //----------------------------------------------
 // Fonts: Size variables
 //----------------------------------------------
-$font-small: 0.9em;
-$font-xsmall: 0.8em;
-$font-xxsmall: 0.7em;
-$font-xxxsmall: 0.6em;
+$font-small: 1em;
+$font-xsmall: 0.9em;
+$font-xxsmall: 0.8em;
+$font-xxxsmall: 0.7em;
 
 //----------------------------------------------
 // Media Queries
@@ -79,7 +79,7 @@ $max-width--xl: 81em;
 //----------------------------------------------
 // Misc
 //----------------------------------------------
-$header-height: 5em;
+$header-height: 3em;
 $border: 1px solid rgba($color-black, 0.1);
 
 $ease-cb-1: cubic-bezier(0.4, 0, 0.2, 1);
