@@ -13,7 +13,8 @@ I experience photography as a way out of the routine and everyday life and I am 
 
 Photography is not just seeing, it's more of a feeling. If you can't feel, then you will never get others to feel anything when looking at your pictures.
 
-# 6####th Game 
+# The 6th Game 
+
 ![null](/assets/images/koutsiaftis-02.jpg)
 
 ![null](/assets/images/koutsiaftis-03.jpg)
