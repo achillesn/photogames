@@ -16,7 +16,7 @@ For me, is always important to find a subject/point that excites me and try to b
 
 Live in Athens, Greece
 
-# The 6th Game
+### The 6th Game
 
 ![null](/assets/images/mylonas-01.jpg)
 
