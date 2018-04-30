@@ -11,7 +11,7 @@ author: Achilles Nasios
 
 I was born in Athens in 1985, where I live until today.
 
-# The 6th Game
+### The 6th Game
 
 ![null](/assets/images/010_001.jpg)
 
