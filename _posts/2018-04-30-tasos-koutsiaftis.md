@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tasos Koutsiaftis
-description: 3rd Round
+description: 6th Game
 date: '2018-04-30T22:41:04+03:00'
 image: /assets/images/koutsiaftis-01.jpg
 tags: 'List [ "Games" ]'
