@@ -14,10 +14,9 @@ For me, is always important to find a subject/point that excites me and try to b
 
 Live in Athens, Greece
 
-
 # The 6th Game
 
-![null](/assets/images/mylonas-09.jpg)
+
 
 ![null](/assets/images/mylonas-01.jpg)
 
@@ -34,5 +33,7 @@ Live in Athens, Greece
 ![null](/assets/images/mylonas-07.jpg)
 
 ![null](/assets/images/mylonas-08.jpg)
+
+![null](/assets/images/mylonas-09.jpg)
 
 ![null](/assets/images/mylonas-10.jpg)
