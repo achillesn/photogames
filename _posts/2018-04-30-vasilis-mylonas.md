@@ -7,7 +7,7 @@ image: /assets/images/mylonas-01.jpg
 tags: 'List [ "Games" ]'
 author: Achilles Nasios
 ---
-# 6
+# "6"
 
 Born in Serres,
 became interested in photography during printing courses – never cease being in love with the process.
