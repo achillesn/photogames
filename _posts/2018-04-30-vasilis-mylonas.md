@@ -7,6 +7,16 @@ image: /assets/images/mylonas-01.jpg
 tags: 'List [ "Games" ]'
 author: Achilles Nasios
 ---
+Born in Serres,
+became interested in photography during printing courses – never cease being in love with the process.
+Love traveling – always feeling freedom and joy with a camera in my hands, in a foreign place.
+For me, is always important to find a subject/point that excites me and try to bring this inspiration to my pictures. 
+
+Live in Athens, Greece
+
+
+# The 6th Game
+
 ![null](/assets/images/mylonas-02.jpg)
 
 ![null](/assets/images/mylonas-03.jpg)
