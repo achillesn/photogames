@@ -7,7 +7,7 @@ image: /assets/images/koutsiaftis-09.jpg
 tags: 'List [ "Games" ]'
 author: Achilles Nasios
 ---
-# 6
+# "6"
 
 I was born and raised in Athens. I studied Mechanical Engineer in Patra City, Greece and took my first steps in photography in 2013 when I bought my first Dslr camera. I have attended many seminars about photography and have exposed my work in several group exhibitions in Greece and abroad. In 2017 I won the first prize on the "Athens photo Marathon" in one category. The past few years I take photos of the Balkan region for the project “common routes”.
 
