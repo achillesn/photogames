@@ -16,8 +16,6 @@ Live in Athens, Greece
 
 # The 6th Game
 
-
-
 ![null](/assets/images/mylonas-01.jpg)
 
 ![null](/assets/images/mylonas-02.jpg)
