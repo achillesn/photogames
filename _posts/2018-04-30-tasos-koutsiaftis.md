@@ -3,7 +3,7 @@ layout: post
 title: Tasos Koutsiaftis
 description: 6th Game
 date: '2018-04-30T22:41:04+03:00'
-image: /assets/images/koutsiaftis-01.jpg
+image: /assets/images/koutsiaftis-09.jpg
 tags: 'List [ "Games" ]'
 author: Achilles Nasios
 ---
