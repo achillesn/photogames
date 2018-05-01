@@ -1,0 +1,20 @@
+---
+layout: post
+title: Chrysalena Antonopoulou
+description: 3rd round
+date: '2018-05-02T00:29:36+03:00'
+image: /assets/images/antonopoulou_-parousiasi.jpg
+tags: 'List [ "Games" ]'
+author: Achilles Nasios
+---
+![](/assets/images/antonopoulou_g03.1.jpg)
+
+![](/assets/images/antonopoulou_g03.2.jpg)
+
+![](/assets/images/antonopoulou_g03.3.jpg)
+
+![](/assets/images/antonopoulou_g03.4.jpg)
+
+![](/assets/images/antonopoulou_g03.5.jpg)
+
+![](/assets/images/antonopoulou_g03.6.jpg)
