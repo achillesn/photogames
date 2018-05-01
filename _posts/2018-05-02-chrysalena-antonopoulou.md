@@ -13,7 +13,7 @@ author: Achilles Nasios
 
 ### The 3rd Game
 
-![null](/assets/images/antonopoulou_g03.2.jpg)
+![null](/assets/images/antonopoulou_g03.1.jpg)
 
 ![null](/assets/images/antonopoulou_g03.2.jpg)
 
@@ -24,4 +24,3 @@ author: Achilles Nasios
 ![null](/assets/images/antonopoulou_g03.5.jpg)
 
 ![null](/assets/images/antonopoulou_g03.6.jpg)
-
