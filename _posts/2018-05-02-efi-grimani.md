@@ -9,7 +9,7 @@ author: Achilles Nasios
 ---
 I was born and raised in Athens, Greece. I have studied psychology. I have taken photography lessons with Thanos Papadopoulos and Achilleas Nasios. I have overcome realities and dreams, I don’t care what it is. Me and the camera in an ongoing relationship, the medium to help me understand what I see. 
 
-![null](/assets/images/grimani-unw-presentation.jpg)
+![null](/assets/images/grimani-unw-presentation.jpg#full)
 
 ### MeStery
 
