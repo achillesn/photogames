@@ -13,7 +13,7 @@ I was born and raised in Athens, Greece. I have studied psychology. I have taken
 
 ### MeStery
 
-![null](/assets/images/grimani-s101.jpg)
+![null](/assets/images/grimani-s101-.jpg)
 
 ![null](/assets/images/grimani-s102.jpg)
 
