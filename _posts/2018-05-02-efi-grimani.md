@@ -36,3 +36,39 @@ I was born and raised in Athens, Greece. I have studied psychology. I have taken
 ![null](/assets/images/grimani-s204.jpg)
 
 ![null](/assets/images/grimani-s205.jpg)
+
+![null](/assets/images/grimani-g03presentation.jpg#full)
+
+### Game 3
+
+![null](/assets/images/grimani-g301.jpg)
+
+![null](/assets/images/grimani-g302.jpg)
+
+![null](/assets/images/grimani-g303.jpg)
+
+![null](/assets/images/grimani-g304.jpg)
+
+![null](/assets/images/grimani-g305.jpg)
+
+![null](/assets/images/grimani-g02-1presentation.jpg#full)
+
+### Game 2
+
+![null](/assets/images/grimani-g201.jpg)
+
+![null](/assets/images/grimani-g202.jpg)
+
+![null](/assets/images/grimani-g203.jpg)
+
+![null](/assets/images/grimani-g204.jpg)
+
+![](/assets/images/grimani-g205.jpg)
+
+![](/assets/images/grimani-g206.jpg)
+
+![](/assets/images/grimani-g207.jpg)
+
+![](/assets/images/grimani-g208.jpg)
+
+![](/assets/images/grimani-g209.jpg)
