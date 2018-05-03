@@ -3,7 +3,7 @@ layout: post
 title: Efi Grimani
 description: round 4
 date: '2018-05-02T00:39:34+03:00'
-image: /assets/images/grimani-s101-.jpg
+image: /assets/images/grimani-s205.jpg
 tags: 'List [ "Stories","Games" ]'
 author: Achilles Nasios
 ---
