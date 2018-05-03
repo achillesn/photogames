@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrysalena Antonopoulou
-description: 3rd round
+description: 3rd game
 date: '2018-05-02T00:29:36+03:00'
 image: /assets/images/antonopoulou_g03.1.jpg
 tags: 'List [ "Games" ]'
@@ -16,8 +16,6 @@ I studied Economics and hold a MSc in Finance. I started studying photography in
 Since 2010, I work as a photoarchivist (chief of the Photographic Archive Service of a Historical Archive).
 
 I have participated with my work in several group exhibitions in Athens.
-
-
 
 ![null](/assets/images/antonopoulou_-parousiasi.jpg#full)
 
