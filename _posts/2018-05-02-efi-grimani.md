@@ -22,3 +22,17 @@ I was born and raised in Athens, Greece. I have studied psychology. I have taken
 ![null](/assets/images/grimani-s104.jpg)
 
 ![null](/assets/images/grimani-s105.jpg)
+
+![null](/assets/images/grimani-unw-presentation2.jpg#full)
+
+### UnWork
+
+![null](/assets/images/grimani-s201.jpg)
+
+![null](/assets/images/grimani-s202.jpg)
+
+![null](/assets/images/grimani-s203.jpg)
+
+![null](/assets/images/grimani-s204.jpg)
+
+![null](/assets/images/grimani-s205.jpg)
