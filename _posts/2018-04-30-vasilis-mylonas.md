@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vasilis Mylonas
-description: 3rd Round
+description: 6th game
 date: '2018-04-30T22:05:55+03:00'
 image: /assets/images/mylonas-01.jpg
 tags: 'List [ "Games" ]'
