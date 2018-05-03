@@ -9,6 +9,16 @@ author: Achilles Nasios
 ---
 # "3"
 
+I was born in Athens, Greece in 1983. I live and work in Athens.
+
+I studied Economics and hold a MSc in Finance. I started studying photography in 2013 at pragma and have attended a series of workshops and courses on photography and art theory, organized by the Athens School of Fine Arts, the Depression Era collective and others.
+
+Since 2010, I work as a photoarchivist (chief of the Photographic Archive Service of a Historical Archive).
+
+I have participated with my work in several group exhibitions in Athens.
+
+
+
 ![null](/assets/images/antonopoulou_-parousiasi.jpg#full)
 
 ### The 3rd Game
