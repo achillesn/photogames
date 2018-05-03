@@ -7,8 +7,6 @@ image: /assets/images/010_001.jpg
 tags: 'List [ "Games" ]'
 author: Achilles Nasios
 ---
-# "6"
-
 I was born in Athens in 1985, where I live until today.
 
 ### The 6th Game
