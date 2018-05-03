@@ -7,8 +7,6 @@ image: /assets/images/antonopoulou_g03.1.jpg
 tags: 'List [ "Games" ]'
 author: Achilles Nasios
 ---
-# "3"
-
 I was born in Athens, Greece in 1983. I live and work in Athens.
 
 I studied Economics and hold a MSc in Finance. I started studying photography in 2013 at pragma and have attended a series of workshops and courses on photography and art theory, organized by the Athens School of Fine Arts, the Depression Era collective and others.
