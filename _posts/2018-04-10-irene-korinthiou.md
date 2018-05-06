@@ -4,10 +4,11 @@ title: Irene Korinthiou
 description: 1st round
 date: '2018-04-10T15:27:05+03:00'
 image: /assets/images/irinikorinthiou-2.jpg
-tags: 'List [ "Stories" ]'
+tags:
+  - Stories
 author: Achilles Nasios
 ---
-Born and raised in the island of Tinos , Cyclades , I live in Athens . I studied Law and French Literature and worked for a Greek Bank .   Since  2011  I have  attended  seminars  on photography,  video art and sound design. Member of the Photography Circle Since 2012 . I have  participated  in  group exhibitions . 
+Born and raised in the island of Tinos , Cyclades , I live in Athens . I studied Law and French Literature and worked for a Greek Bank .   Since  2011  I have  attended  seminars  on photography,  video art and sound design. Member of the Photography Circle Since 2012 . I have  participated  in  group exhibitions .
 
 ![null](/assets/images/korinthiou-pres-1.jpg#full)
 

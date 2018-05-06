@@ -4,7 +4,8 @@ title: Daniel Profitis
 description: 2nd round
 date: '2018-04-04T00:26:42+02:00'
 image: /assets/images/profitis-series3.jpg
-tags: 'List [ "Stories" ]'
+tags:
+  - Stories
 author: Achilles Nasios
 ---
 My dream, from the early stages of my life, was to create pictures.
