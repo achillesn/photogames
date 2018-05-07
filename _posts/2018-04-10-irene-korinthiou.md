@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Irene Korinthiou
-description: 1st round
+description: Stories
 date: '2018-04-10T15:27:05+03:00'
 image: /assets/images/irinikorinthiou-2.jpg
 tags:
