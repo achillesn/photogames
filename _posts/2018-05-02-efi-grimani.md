@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Efi Grimani
-description: round 4
+description: 'Stories and Games '
 date: '2018-05-02T00:39:34+03:00'
 image: /assets/images/grimani-s205.jpg
 tags:
- - Stories
- - Games
+  - Stories
+  - Games
 author: Achilles Nasios
 ---
 I was born and raised in Athens, Greece. I have studied psychology. I have taken photography lessons with Thanos Papadopoulos and Achilleas Nasios. I have overcome realities and dreams, I don’t care what it is. Me and the camera in an ongoing relationship, the medium to help me understand what I see.
@@ -85,10 +85,10 @@ I was born and raised in Athens, Greece. I have studied psychology. I have taken
 
 ![null](/assets/images/grimani-g103.jpg)
 
-![](/assets/images/grimani-g104.jpg)
+![null](/assets/images/grimani-g104.jpg)
 
-![](/assets/images/grimani-g105.jpg)
+![null](/assets/images/grimani-g105.jpg)
 
-![](/assets/images/grimani-g106.jpg)
+![null](/assets/images/grimani-g106.jpg)
 
-![](/assets/images/grimani-g107.jpg)
+![null](/assets/images/grimani-g107.jpg)
