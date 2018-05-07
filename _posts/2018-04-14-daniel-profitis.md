@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daniel Profitis
-description: 2nd round
+description: Stories and Games
 date: '2018-04-04T00:26:42+02:00'
 image: /assets/images/profitis-series3.jpg
 tags:
