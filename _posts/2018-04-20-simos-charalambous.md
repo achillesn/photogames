@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simos Charalambous
-description: 1st round
+description: Stories '17-'18
 date: '2018-04-15T12:10:52+02:00'
 image: /assets/images/simos9.jpg
 tags:
