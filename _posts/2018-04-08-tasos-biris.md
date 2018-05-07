@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tasos Biris
-description: 3rd Round
+description: Stories
 date: '2018-04-16T01:59:00+02:00'
 image: /assets/images/4dsc03569-1.jpg
 tags:
