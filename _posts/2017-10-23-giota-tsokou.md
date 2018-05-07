@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yiota Tsokou
-description: 2nd round
+description: Stories
 date: '2018-04-16T02:00:00+02:00'
 image: /assets/images/tsokou_01.jpg
 tags:
