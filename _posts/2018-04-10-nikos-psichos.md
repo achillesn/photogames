@@ -21,3 +21,37 @@ I was born and raised in the region of Arcadia, central Peloponnese, Greece. My 
 ![null](/assets/images/psichosnik4.jpg)
 
 ![null](/assets/images/psichosnik5.jpg)
+
+
+
+
+
+Όλα γύρω αλλάζουν.
+
+Ο χρόνος τρέχει.
+
+Μα πού να κοιτάξω;
+
+Αχανές το βλέμμα.
+
+Μήπως υπάρχει κάτι;
+
+Λίγο φως;
+
+Ένα σχήμα;
+
+Μια λεπτομέρεια;
+
+Μήπως;
+
+## 
+
+![](/assets/images/psichosn-presentation.jpg)
+
+![](/assets/images/psychosn_met11.jpg)
+
+![](/assets/images/psychosn_met12.jpg)
+
+![](/assets/images/psychosn_met13.jpg)
+
+![](/assets/images/psychosn_met14.jpg)
