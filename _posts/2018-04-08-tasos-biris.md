@@ -36,30 +36,24 @@ When I was just a little boy, every Christmas Eve, before I slept, I would close
 
 ## No one has ever seen Bahamut
 
-
-
-
-
-
-
 ![placeholder](/assets/images/1-2018-01-28_203249.jpg)
 
-![](/assets/images/2-2018-01-28_183902.jpg)
+![null](/assets/images/2-2018-01-28_183902.jpg)
 
-![](/assets/images/3-2018-01-28_193549.jpg)
+![null](/assets/images/3-2018-01-28_193549.jpg)
 
-![](/assets/images/4-2018-01-28_202648.jpg)
+![null](/assets/images/4-2018-01-28_202648.jpg)
 
-![](/assets/images/5-2018-01-28_183219.jpg)
+![null](/assets/images/5-2018-01-28_183219.jpg)
 
-![](/assets/images/6-2018-01-28_192218.jpg)
+![null](/assets/images/6-2018-01-28_192218.jpg)
 
-![](/assets/images/7-2018-01-28_183518.jpg)
+![null](/assets/images/7-2018-01-28_183518.jpg)
 
-![](/assets/images/8-2018-01-28_191807.jpg)
+![null](/assets/images/8-2018-01-28_191807.jpg)
 
-![](/assets/images/9-2018-01-28_210624.jpg)
+![null](/assets/images/9-2018-01-28_210624.jpg)
 
-![](/assets/images/10-2018-01-28_193951.jpg)
+![null](/assets/images/10-2018-01-28_193951.jpg)
 
-![](/assets/images/11-2018-01-28_182308.jpg)
+![null](/assets/images/11-2018-01-28_182308.jpg)
