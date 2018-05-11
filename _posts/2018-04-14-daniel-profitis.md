@@ -23,3 +23,29 @@ It feels like that through the photogames I started to be reconnected to this dr
 ![null](/assets/images/profitis-metafora4.jpg)
 
 ![null](/assets/images/profitis-metafora5.jpg)
+
+
+
+## The 6th Game
+
+
+
+![](/assets/images/profitis-g61.jpg)
+
+![](/assets/images/profitis-g62.jpg)
+
+![](/assets/images/profitis-g63.jpg)
+
+![](/assets/images/profitis-g64.jpg)
+
+![](/assets/images/profitis-g65.jpg)
+
+![](/assets/images/profitis-g66.jpg)
+
+![](/assets/images/profitis-g67.jpg)
+
+![](/assets/images/profitis-g68.jpg)
+
+![](/assets/images/profitis-g69.jpg)
+
+![](/assets/images/profitis-g610.jpg)
