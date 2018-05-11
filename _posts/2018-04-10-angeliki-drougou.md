@@ -39,7 +39,7 @@ This is a series of images that decided to manifest themselves during the last f
 ![null](/assets/images/drougou-present-s3.jpg#full)
 
 ### Trans-fair-mation
-    
+
 Through childhood I heard many fairy tales that tell of princesses, fairies, mermaids, witches and other wondrous creatures who carry with them symbols and found their way into my mind. According to Eliade, all fairy tales are an initiation for the listener, especially children, into the adult world. Refusing to grow up, I still play with my magic photographic wand attempting to transform my loved ones to mythical creatures.
 
 ![null](/assets/images/α.jpg)
@@ -47,3 +47,33 @@ Through childhood I heard many fairy tales that tell of princesses, fairies, mer
 ![null](/assets/images/β.jpg)
 
 ![null](/assets/images/γ1.jpg)
+
+
+
+## The 5th Game
+
+
+
+![](/assets/images/drougou00.jpg)
+
+![](/assets/images/drougou01.jpg)
+
+![](/assets/images/drougou02.jpg)
+
+![](/assets/images/drougou03.jpg)
+
+![](/assets/images/drougou04.jpg)
+
+![](/assets/images/drougou05.jpg)
+
+![](/assets/images/drougou06.jpg)
+
+![](/assets/images/drougou07.jpg)
+
+![](/assets/images/drougou08.jpg)
+
+![](/assets/images/drougou09.jpg)
+
+![](/assets/images/drougou10.jpg)
+
+![](/assets/images/drougou11.jpg)
