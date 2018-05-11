@@ -43,3 +43,33 @@ _(Rumi)_
 ![](/assets/images/konidaris-2.jpg)
 
 ![](/assets/images/konidaris-3.jpg)
+
+
+
+## The 5th Game
+
+
+
+![](/assets/images/konidaris_game_presentation.jpg)
+
+![](/assets/images/konidaris_game_01.jpg)
+
+![](/assets/images/konidaris_game_02.jpg)
+
+![](/assets/images/konidaris_game_03.jpg)
+
+![](/assets/images/konidaris_game_04.jpg)
+
+![](/assets/images/konidaris_game_05.jpg)
+
+![](/assets/images/konidaris_game_06.jpg)
+
+![](/assets/images/konidaris_game_07.jpg)
+
+![](/assets/images/konidaris_game_08.jpg)
+
+![](/assets/images/konidaris_game_09.jpg)
+
+![](/assets/images/konidaris_game_10.jpg)
+
+![](/assets/images/konidaris_game_11.jpg)
