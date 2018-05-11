@@ -40,8 +40,6 @@ I was born and raised in the region of Arcadia, central Peloponnese, Greece. My 
 
 Μήπως;
 
-
-
 ![null](/assets/images/psichosn-present-met.jpg)
 
 ![null](/assets/images/psychosn_met11.jpg)
