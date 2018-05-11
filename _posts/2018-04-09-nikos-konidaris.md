@@ -29,3 +29,17 @@ _(Rumi)_
 ![Konidaris](/assets/images/konidaris_3.jpg)
 
 ![Konidaris](/assets/images/konidaris_4.jpg)
+
+
+
+## Diptychs
+
+
+
+![](/assets/images/konidaris-presentation-diptychs.jpg)
+
+![](/assets/images/konidaris-1.jpg)
+
+![](/assets/images/konidaris-2.jpg)
+
+![](/assets/images/konidaris-3.jpg)
