@@ -6,6 +6,7 @@ date: '2018-04-04T00:26:42+02:00'
 image: /assets/images/profitis-series3.jpg
 tags:
   - Stories
+  - Games
 author: Achilles Nasios
 ---
 My dream, from the early stages of my life, was to create pictures.
