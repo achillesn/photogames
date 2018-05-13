@@ -49,9 +49,10 @@ Through childhood I heard many fairy tales that tell of princesses, fairies, mer
 
 ![null](/assets/images/γ1.jpg)
 
-## The 5th Game
 
 ![null](/assets/images/drougou00.jpg#full)
+
+### The 5th Game
 
 ![null](/assets/images/drougou01.jpg)
 
