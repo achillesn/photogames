@@ -33,7 +33,7 @@ _(Rumi)_
 
 
 
-## Diptychs
+### Diptychs
 
 
 
@@ -47,7 +47,7 @@ _(Rumi)_
 
 
 
-## The 5th Game
+### The 5th Game
 
 
 
