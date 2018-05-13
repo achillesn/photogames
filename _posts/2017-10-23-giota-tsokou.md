@@ -27,17 +27,18 @@ Time is a wild horse, kicked into a full gallop.  To ride this fierce horse mean
 ![null](/assets/images/tsokou_05.jpg)
 
 
+![](/assets/images/tsokou-s2-parousiasi.jpg#full)
 
 ## Μνήμη - Δίπτυχα
 
 Σαν σκυλί αδέσποτο, η μνήμη παίζει με ένα κόκκαλο, το χρόνο. Έτσι εξηγούνται τα κοφτερά της δόντια,  για να μπορεί να τον κόψει μπουκιές μπουκιές. Η αλεσμένη κατακερμάτισή του, δεν είναι άλλο από μια διήγηση που, αν και θυμάμαι πάντα να ξεχνώ, δεν την αφήνω.
 
-![](/assets/images/1.jpg)
+![null](/assets/images/1.jpg)
 
-![](/assets/images/2.jpg)
+![null](/assets/images/2.jpg)
 
-![](/assets/images/3.jpg)
+![null](/assets/images/3.jpg)
 
-![](/assets/images/4.jpg)
+![null](/assets/images/4.jpg)
 
-![](/assets/images/5.jpg)
+![null](/assets/images/5.jpg)
