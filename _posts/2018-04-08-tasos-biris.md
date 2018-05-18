@@ -44,11 +44,11 @@ Floating in a single tear
 Of his eye
 _(Rephrased from the lyrics of the song Bahamut, Hazmat Modine)_
 
-![placeholder](/assets/images/1-2018-01-28_203249.jpg#full)
+![placeholder](/assets/images/1-2018-01-28_203249.jpg)
 
-![null](/assets/images/2-2018-01-28_183902.jpg#full)
+![null](/assets/images/2-2018-01-28_183902.jpg)
 
-![null](/assets/images/3-2018-01-28_193549.jpg#full)
+![null](/assets/images/3-2018-01-28_193549.jpg)
 
 ![null](/assets/images/4-2018-01-28_202648.jpg#full)
 
