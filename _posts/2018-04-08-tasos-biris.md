@@ -44,24 +44,24 @@ Floating in a single tear
 Of his eye
 _(Rephrased from the lyrics of the song Bahamut, Hazmat Modine)_
 
-![placeholder](/assets/images/1-2018-01-28_203249.jpg)
+![placeholder](/assets/images/1-2018-01-28_203249.jpg#full)
 
-![null](/assets/images/2-2018-01-28_183902.jpg)
+![null](/assets/images/2-2018-01-28_183902.jpg#full)
 
-![null](/assets/images/3-2018-01-28_193549.jpg)
+![null](/assets/images/3-2018-01-28_193549.jpg#full)
 
-![null](/assets/images/4-2018-01-28_202648.jpg)
+![null](/assets/images/4-2018-01-28_202648.jpg#full)
 
-![null](/assets/images/5-2018-01-28_183219.jpg)
+![null](/assets/images/5-2018-01-28_183219.jpg#full)
 
-![null](/assets/images/6-2018-01-28_192218.jpg)
+![null](/assets/images/6-2018-01-28_192218.jpg#full)
 
-![null](/assets/images/7-2018-01-28_183518.jpg)
+![null](/assets/images/7-2018-01-28_183518.jpg#full)
 
-![null](/assets/images/8-2018-01-28_191807.jpg)
+![null](/assets/images/8-2018-01-28_191807.jpg#full)
 
-![null](/assets/images/9-2018-01-28_210624.jpg)
+![null](/assets/images/9-2018-01-28_210624.jpg#full)
 
-![null](/assets/images/10-2018-01-28_193951.jpg)
+![null](/assets/images/10-2018-01-28_193951.jpg#full)
 
-![null](/assets/images/11-2018-01-28_182308.jpg)
+![null](/assets/images/11-2018-01-28_182308.jpg#full)
