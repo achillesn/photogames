@@ -34,6 +34,8 @@ When I was just a little boy, every Christmas Eve, before I slept, I would close
 
 ## No one has ever seen Bahamut
 
+
+
 No one has ever seen Bahamut
 
 Some think it's a dog
