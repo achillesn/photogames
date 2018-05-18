@@ -2,7 +2,7 @@
 layout: post
 title: Irene Korinthiou
 description: Stories
-date: '2018-04-10T15:27:05+03:00'
+date: '2018-05-17T14:27:05+02:00'
 image: /assets/images/irinikorinthiou-2.jpg
 tags:
   - Stories
