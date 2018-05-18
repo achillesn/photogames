@@ -28,4 +28,20 @@ The lake remains  motionless.  The signal was given and the feast began. Followi
 
 ![null](/assets/images/korinthiou-dr-present.jpg#full)
 
-![null]()
+### A daily route
+
+As he wakes up he opens the eyes and looks around.  He is once more in the usual place, at the window. The bus continues speeding. Outside ,  the city is shredded  into unrelated pieces . Faces are revealed and suddenly occupy the space. The Passersby. Unknown faces even though so familiar. Eye pupils are  dilated . Sensations trigger the mental euphoria. He continues to press the shutter button. Images crash like the waves of a large visual storm  onto his eyes . Images that gradually find   their place at a visual sequence. Very often the bus stops. At the   stops the   Passersby   pass the torch to the others who appear from nowhere. At the beginning of the twenty first century. A common bus route, a daily routine.
+
+![null](/assets/images/korinthiou-6.jpg)
+
+![](/assets/images/korinthiou-7.jpg)
+
+![](/assets/images/korinthiou-8.jpg)
+
+![](/assets/images/korinthiou-9.jpg)
+
+![](/assets/images/korinthiou-10.jpg)
+
+![](/assets/images/korinthiou-11.jpg)
+
+![](/assets/images/korinthiou-12.jpg)
