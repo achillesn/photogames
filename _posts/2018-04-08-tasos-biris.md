@@ -35,21 +35,13 @@ When I was just a little boy, every Christmas Eve, before I slept, I would close
 ## No one has ever seen Bahamut
 
 No one has ever seen Bahamut
-
 Some think it's a dog
-
 Some think it's a newt
-
 All we know is that the lonely Bahamut
-
 Floats endlessly through all time and all space
-
 With all of us and everything
-
 Floating in a single tear
-
 Of his eye
-
 _(Rephrased from the lyrics of the song Bahamut, Hazmat Modine)_
 
 ![placeholder](/assets/images/1-2018-01-28_203249.jpg)
