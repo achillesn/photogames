@@ -26,6 +26,6 @@ The lake remains  motionless.  The signal was given and the feast began. Followi
 
 ![null](/assets/images/irinikorinthiou-5.jpg)
 
-![](/assets/images/korinthiou-6.jpg)
+![null](/assets/images/korinthiou-dr-present.jpg#full)
 
-![](/assets/images/korinthiou-7.jpg)
+![null]()
