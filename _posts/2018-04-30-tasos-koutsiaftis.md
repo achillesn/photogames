@@ -16,6 +16,8 @@ Photography is not just seeing, it's more of a feeling. If you can't feel, then 
 
 ### The 6th Game
 
+_(Dec. 2017)_
+
 ![null](/assets/images/koutsiaftis-01.jpg)
 
 ![null](/assets/images/koutsiaftis-02.jpg)
