@@ -23,18 +23,9 @@ Through childhood I heard many fairy tales that tell of princesses, fairies, mer
 
 ![null](/assets/images/γ1.jpg)
 
-Through childhood I heard many fairy tales that tell of princesses, fairies, mermaids, witches and other wondrous creatures who carry with them symbols and found their way into my mind. According to Eliade, all fairy tales are an initiation for the listener, especially children, into the adult world. Refusing to grow up, I still play with my magic photographic wand attempting to transform my loved ones to mythical creatures.
-
-![null](/assets/images/α.jpg)
-
-![null](/assets/images/β.jpg)
-
-![null](/assets/images/γ1.jpg)
-
 ### A metaphor
 
 _(Jan. 2018)_
-
 
 Metaphor is a Greek word used literally for transportation. Through photography I started giving wheels to forgotten emotions and abstract memories, in the process of reviewing a significant relationship. 
 
@@ -49,7 +40,6 @@ Metaphor is a Greek word used literally for transportation. Through photography 
 ### Coming - of - age
 
 _(Jan. 2018)_
-
 
 This is a series of images that decided to manifest themselves during the last few months, while I was wondering if growing up is a wise thing to do.
 
