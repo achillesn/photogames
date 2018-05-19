@@ -14,6 +14,8 @@ I have become a wonderer and a moment capturer, of an inner photographic explora
 
 ### Xmass dream
 
+_(Jan. 2018)_
+
 When I was just a little boy, every Christmas Eve, before I slept, I would close my eyes and travel high above the earth, searching for the tiny lights, as if I was searching to find the place, Christ was born in, almost like the three Magi had followed the Star of Bethlehem, until I would fall asleep dreaming a Christmas Dream and lose my self in light. Born in Christmas.
 
 ![Placeholder](/assets/images/tasosbiris-christmass-dream-1.jpg)
@@ -34,7 +36,7 @@ When I was just a little boy, every Christmas Eve, before I slept, I would close
 
 ## No one has ever seen Bahamut
 
-
+_(Feb. 2018)_
 
 No one has ever seen Bahamut
 
