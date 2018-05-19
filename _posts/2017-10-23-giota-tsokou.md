@@ -10,8 +10,6 @@ author: Achilles Nasios
 ---
 I am a Greece-based self-taught photographer. My interest in photography sparked in 2014, when I started experimenting with analog photography. My work has been published in a number of publications such as Agitate (Australia, October 2015), Photoklassik (Germany, September 2016), Adore Noir Magazine (Canada, October 2017), Click Magazine (Italy, December 2017), Photographize (USA, February 2018).
 
-![null](/assets/images/tsokou-presentation-metamorphosis.jpg#full)
-
 ![](/assets/images/tsokou-s2-parousiasi.jpg#full)
 
 ### Μνήμη - Δίπτυχα
@@ -29,6 +27,8 @@ _(March 2018)_
 ![null](/assets/images/4.jpg)
 
 ![null](/assets/images/5.jpg)
+
+![null](/assets/images/tsokou-presentation-metamorphosis.jpg#full)
 
 ### Mirage - A tale
 
