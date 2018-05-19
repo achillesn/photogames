@@ -12,6 +12,8 @@ I was born in Athens in 1985, where I live until today.
 
 ### The 6th Game
 
+_(Dec. 2017)_
+
 ![null](/assets/images/010_001.jpg)
 
 ![null](/assets/images/010_002.jpg)
