@@ -17,6 +17,8 @@ Live in Athens, Greece
 
 ### The 6th Game
 
+_(Dec. 2017)_
+
 ![null](/assets/images/mylonas-01.jpg)
 
 ![null](/assets/images/mylonas-02.jpg)
