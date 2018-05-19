@@ -18,6 +18,8 @@ Sometimes I feel that a photographer is trapped inside my Engineer body, but for
 
 ### Dreams
 
+_(Jan. 2018)_
+
 Dreams are connected to the circle of life. In the beginning, dreams are about the fairytales - within them we become the heroes of the story, somewhere in the sphere of imagination.
 
 Growing up, dreams are what we wish to become. "I want to be a ballerina when I grow up" - "I want to be a vet, a teacher". We will probably become something else at the end but if a child cannot dream, then who can?
