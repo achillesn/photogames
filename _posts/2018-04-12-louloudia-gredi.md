@@ -14,6 +14,7 @@ Step by step, taking photographs, not only have I learned to reach the unexplore
 ![null](/assets/images/louloudia-present1.jpg#full)
 
 ### The Return of Iphigenia
+_(Jan. 2018)_
 
 With the memory still fluid in my dreams I leave the bitter times behind me affectionately embracing the dark moments that I was born to live. I remember myself  being  in a quandary  and bewildered, in wild places, having  empty  promises  into my hands,  trying to beautify my Sadness. I loved this Sadness. "In the village of my tongue, Sadness is called Brightness", says the poet.
 But what really happened and what were just figments of mind? All remain  indecipherable at the skein of myth.
