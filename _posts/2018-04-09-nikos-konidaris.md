@@ -27,7 +27,7 @@ _(March 2018)_
 
 ### Whatever You Really See
 
-_(Jan. 2018)
+_(Jan. 2018)_
 
 A human being is essentially a spirit-eye.
 
