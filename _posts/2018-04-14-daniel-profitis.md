@@ -15,6 +15,8 @@ It feels like that through the photogames I started to be reconnected to this dr
 
 ![null](/assets/images/profitis-present.1.1.jpg#full)
 
+_(Jan. 2018)_
+
 ![null](/assets/images/profitis-metafora1.jpg)
 
 ![null](/assets/images/profitis-metafora2.jpg)
@@ -31,7 +33,7 @@ It feels like that through the photogames I started to be reconnected to this dr
 
 ## The 6th Game
 
-
+_(Dec. 2017)_
 
 ![](/assets/images/profitis-g61.jpg)
 
