@@ -15,7 +15,7 @@ Up to now, **two different types** of games have been planned and implemented. Î
 
 All the works that are presented in this website are the outcome of workshops designed as games **(Games)** as well as the products of our weekly web meetings **(Stories)**.
 
-The results of the photo action of each participant are presented in the **Games** page where each photographer was shooting in an dimly lit room within one minute. The aim of this action is to achieve a compact series of pictures which is formed from the combination of a chosen picture from each circle. 
+The results of the photo action of each participant are presented in the **Games** page, where each photographer was shooting in an dimly lit room within one minute. The aim of this action is to achieve a compact series of pictures which is formed from the combination of a chosen picture from each circle. 
 
 In the **Stories** page the most important intend is to develop a complete visual proposal from every participant. Based on the development of our visual propositions we were able to decipher the theory that holds the art of photography.
 
