@@ -11,6 +11,8 @@ author: Achilles Nasios
 ---
 I was born in Athens in 1977. As a pathologist, I look through the lens of my microscope into an inner world made up of human cells. Altering my visual potential through lenses fascinates me as much as discovering new worlds.  I use my camera as a vehicle that carries me away from everyday reality to my fantasy playground, where no rules apply.
 
+![null](/assets/images/drougou-present-s3.jpg#full)
+
 ### Trans-fair-mation
 
 _(March 2018)_
@@ -52,8 +54,6 @@ This is a series of images that decided to manifest themselves during the last f
 ![null](/assets/images/drougou2.4.jpg)
 
 ![null](/assets/images/drougou2.5.jpg)
-
-![null](/assets/images/drougou-present-s3.jpg#full)
 
 
 ![null](/assets/images/drougou00.jpg#full)
