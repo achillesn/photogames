@@ -15,23 +15,16 @@ I was born and raised in the region of Arcadia, central Peloponnese, Greece. My 
 
 _(Mar. 2018)_
 
-Όλα γύρω αλλάζουν.
+Everything around me is changing
+Time is racing
+Where shall I lock my eye? 
+A vacant look, searching
+Is there something lurking?
+Maybe a ray of light
+a shape
+or some sort of a detail?
+Is there..? 
 
-Ο χρόνος τρέχει.
-
-Μα πού να κοιτάξω;
-
-Αχανές το βλέμμα.
-
-Μήπως υπάρχει κάτι;
-
-Λίγο φως;
-
-Ένα σχήμα;
-
-Μια λεπτομέρεια;
-
-Μήπως;
 
 ![null](/assets/images/psychosn_met11.jpg)
 
