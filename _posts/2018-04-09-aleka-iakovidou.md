@@ -28,3 +28,24 @@ I am only touching its end to set out again.
 ![null](/assets/images/iakovidou-diptyxo3.jpg)
 
 ![null](/assets/images/iakovidou-diptyxoo4.jpg)
+
+![null](/assets/images/portraits_game.jpg#full)
+
+### The 3rd Game
+
+_(May 2016)_
+
+![null](/assets/images/iakovidou_1.jpg)
+
+![null](/assets/images/iakovidou_2.jpg)
+
+![null](/assets/images/iakovidou_3.jpg)
+
+![null](/assets/images/iakovidou_4.jpg)
+
+![null](/assets/images/iakovidou_5.jpg)
+
+![null](/assets/images/iakovidou_6.jpg)
+
+![null](/assets/images/iakovidou_7.jpg)
+
