@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrysalena Antonopoulou
-description: 3rd game
+description: 4th game
 date: '2018-05-02T00:29:36+03:00'
 image: /assets/images/antonopoulou_g03.1.jpg
 tags:
- - Games
+  - Games
 author: Achilles Nasios
 ---
 I was born in Athens, Greece in 1983. I live and work in Athens.
@@ -18,7 +18,7 @@ I have participated with my work in several group exhibitions in Athens.
 
 ![null](/assets/images/antonopoulou_-parousiasi.jpg#full)
 
-### The 3rd Game
+### The 4th Game
 
 ![null](/assets/images/antonopoulou_g03.1.jpg)
 
