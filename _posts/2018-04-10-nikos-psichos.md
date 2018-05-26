@@ -13,9 +13,9 @@ I was born and raised in the region of Arcadia, central Peloponnese, Greece. My 
 
 ![null](/assets/images/psichosn-present-met.jpg#full)
 
-_(Mar. 2018)_
-
 ### Searching
+
+_(Mar. 2018)_
 
 Everything around me is changing.
 Time is racing.
