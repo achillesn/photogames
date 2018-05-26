@@ -15,6 +15,8 @@ It feels like that through the photogames I started to be reconnected to this dr
 
 ![null](/assets/images/profitis-s2-pres.jpg#full)
 
+\### Transformation II
+
 _(Febr. 2018)_
 
 ![null](/assets/images/profitis-s2-01.jpg)
@@ -28,6 +30,12 @@ _(Febr. 2018)_
 ![null](/assets/images/profitis-s2-06.jpg)
 
 ![null](/assets/images/profitis-s2-07.jpg)
+
+![null](/assets/images/profitis-present.1.1.jpg)
+
+
+
+\### Transformation I.
 
 _(Jan. 2018)_
 
