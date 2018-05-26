@@ -33,7 +33,6 @@ _(Febr. 2018)_
 
 ![null](/assets/images/profitis-present.1.1.jpg#full)
 
-
 ### Transformation I.
 
 _(Jan. 2018)_
@@ -97,3 +96,7 @@ _(June 2017)_
 ![null](/assets/images/profitis-g5-09.jpg)
 
 ![null](/assets/images/profitis-g5-10.jpg)
+
+![null](/assets/images/profitis-g5-11.jpg)
+
+![null](/assets/images/profitis-g5-012.jpg)
