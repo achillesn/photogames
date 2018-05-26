@@ -31,8 +31,7 @@ _(Febr. 2018)_
 
 ![null](/assets/images/profitis-s2-07.jpg)
 
-![null](/assets/images/profitis-present.1.1.jpg)
-
+![null](/assets/images/profitis-present.1.1.jpg#full)
 
 
 ### Transformation I.
