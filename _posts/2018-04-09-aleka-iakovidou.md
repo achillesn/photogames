@@ -6,6 +6,7 @@ date: '2018-05-25T23:10:53+02:00'
 image: /assets/images/iakovidou-metallaxis-4.jpg
 tags:
   - Stories
+  - Games
 author: Achilles Nasios
 ---
 I was born in 1960 in Athens, Greece, where I live until today. I was employed in the tourism industry. I first became involved with photography in 2011 and I am member of the Photography Circle since 2013. I have participated in group photography exhibitions.
