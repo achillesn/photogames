@@ -41,7 +41,9 @@ I was born and raised in Athens, Greece. I have studied psychology. I have taken
 
 ![null](/assets/images/grimani-g03presentation.jpg#full)
 
-### Game 3
+### The 4th Game 
+
+_(Apr. 2016)_
 
 ![null](/assets/images/grimani-g301.jpg)
 
@@ -55,7 +57,9 @@ I was born and raised in Athens, Greece. I have studied psychology. I have taken
 
 ![null](/assets/images/grimani-g02-1presentation.jpg#full)
 
-### Game 2
+### The 2nd Game 
+
+_(Okt. 2015)_
 
 ![null](/assets/images/grimani-g201.jpg)
 
@@ -77,7 +81,9 @@ I was born and raised in Athens, Greece. I have studied psychology. I have taken
 
 ![null](/assets/images/grimani-g01presentation.jpg#full)
 
-### Game 1
+### The 1st Game 
+
+_(Apr. 2015)_
 
 ![null](/assets/images/grimani-g101.jpg)
 
