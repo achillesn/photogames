@@ -12,11 +12,11 @@ I am a Greece-based self-taught photographer. My interest in photography sparked
 
 ![](/assets/images/tsokou-s2-parousiasi.jpg#full)
 
-### Μνήμη - Δίπτυχα
+### Remembrance 
 
 _(March 2018)_
 
-Σαν σκυλί αδέσποτο, η μνήμη παίζει με ένα κόκκαλο, το χρόνο. Έτσι εξηγούνται τα κοφτερά της δόντια,  για να μπορεί να τον κόψει μπουκιές μπουκιές. Η αλεσμένη κατακερμάτισή του, δεν είναι άλλο από μια διήγηση που, αν και θυμάμαι πάντα να ξεχνώ, δεν την αφήνω.
+Memory reminds me of a stray dog which chews up the bone that time is. That might explain its razor-sharp teeth; biting off chunks of days and grinding mouthfuls of years. Time lies there shattered, its pieces dissolved – a tale unfolding spikes my goneness, compelling me to forget but not let go. 
 
 ![null](/assets/images/1.jpg)
 
