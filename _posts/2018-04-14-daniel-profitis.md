@@ -77,7 +77,7 @@ _(Dec. 2017)_
 
 ![null](/assets/images/profitis-g610.jpg)
 
-![null](/assets/images/20180279_10213326931190147_1000951466_o.jpg#full)
+![null](/assets/images/20180279_10213326931190147_1000951466_o.jpg)
 
 ### The 5th Game
 
