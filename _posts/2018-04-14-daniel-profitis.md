@@ -48,10 +48,6 @@ _(Jan. 2018)_
 
 ![null](/assets/images/profitis-metafora5.jpg)
 
-![null](/assets/images/profitis-metafora4.jpg)
-
-![null](/assets/images/profitis-metafora5.jpg)
-
 ### The 6th Game
 
 _(Dec. 2017)_
