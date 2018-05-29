@@ -10,7 +10,6 @@ author: Achilles Nasios
 ---
 I was born and raised in the region of Arcadia, central Peloponnese, Greece. My relationship with photography started at a very young age; a strange attraction towards the medium itself was its starting point. At the age of 30 I came to the realization that photography can go beyond the obvious, so I started to explore its sea of possibilities. What I came to realize was that through photography I can express things which I cannot otherwise express in words.
 
-
 ![null](/assets/images/psichosn-present-met.jpg#full)
 
 ### Searching
@@ -35,8 +34,21 @@ Is there..?
 
 ![null](/assets/images/psychosn_met14.jpg)
 
-
 ![null](/assets/images/psichosn-presentation.jpg#full)
+
+
+
+\### Blessing
+
+I want to be where your bare foot walks,
+
+because maybe before you step,
+
+you will look at the ground.
+
+I want that blessing.
+
+\_(Rumi)\_
 
 _(Jan. 2018)_
 
@@ -49,4 +61,3 @@ _(Jan. 2018)_
 ![null](/assets/images/psichosnik4.jpg)
 
 ![null](/assets/images/psichosnik5.jpg)
-
