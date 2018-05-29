@@ -40,6 +40,8 @@ Is there..?
 
 \### Blessing
 
+_(Jan. 2018)_
+
 I want to be where your bare foot walks,
 
 because maybe before you step,
@@ -48,9 +50,9 @@ you will look at the ground.
 
 I want that blessing.
 
-\_(Rumi)\_
+_(Rumi)_
 
-_(Jan. 2018)_
+
 
 ![null](/assets/images/psichosnik1.jpg)
 
