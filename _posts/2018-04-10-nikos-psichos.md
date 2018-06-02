@@ -60,6 +60,8 @@ _(Rumi)_
 
 ![null](/assets/images/psichosnik5.jpg)
 
+![](/assets/images/psichosn-gpresent.jpg#full)
+
 ### The 5th Game
 
 _(June 2017)_
