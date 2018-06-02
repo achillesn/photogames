@@ -2,7 +2,7 @@
 layout: post
 title: Dinos Psychos
 description: 'Stories and Games '
-date: '2018-04-04T00:18:49+02:00'
+date: '2018-06-01T00:18:49+02:00'
 image: /assets/images/04-_2bs1946.jpg
 tags:
   - Stories
