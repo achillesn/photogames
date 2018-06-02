@@ -21,9 +21,9 @@ _(Feb. 2018)_
 
 ![null](/assets/images/psichoss2tb1.jpg)
 
-![null](/assets/images/psichoss2tb3.jpg)
+![null](/assets/images/psichoss2tb2.jpg)
 
-![null](/assets/images/psichoss2tb4.jpg)
+![null](/assets/images/psichoss2tb3.jpg)
 
 ![null](/assets/images/psichoss2tb4.jpg)
 
