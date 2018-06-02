@@ -13,6 +13,22 @@ Though, as I delved more into it, my attention started steering towards all the 
 
 Soon I found myself exploring the means of photographic expression and through this exploration I became more sensitive to perceiving the visual information around me.  The photographic process has provided me with a tool to better comprehend oneself and be more receiving of other people’s expression.
 
+![null](/assets/images/psichoss2-transpresent.jpg#full)
+
+### Transformation
+
+_(Feb. 2018)_
+
+![null](/assets/images/psichoss2tb1.jpg)
+
+![null](/assets/images/psichoss2tb3.jpg)
+
+![null](/assets/images/psichoss2tb4.jpg)
+
+![null](/assets/images/psichoss2tb4.jpg)
+
+![null](/assets/images/psichoss2tb5.jpg)
+
 ### 3 triptychs
 
 _(Dec. 2017)_
