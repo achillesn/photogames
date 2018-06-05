@@ -36,6 +36,8 @@ This set is the second part of an ongoing project which at first began as a phot
 
 ![null](/assets/images/charalambousthe-park-ii-10.jpg)
 
+![null](/assets/images/simos-present.jpg)
+
 ### The Park Ι
 
 _(Jan. 2018)_
