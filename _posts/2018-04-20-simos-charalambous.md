@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 I was born in Pafos \[Cyprus] on August 1981. I am a father of a girl and a boy that are my source of inspiration both in life and in photography. I have participated in the international project ‘HOME’ with tutors Achilles Nasios and Jason Eskenazi. Photography for me is a way to escape my reality. Still searching my voice.  
 
-![null](/assets/images/charalambousthe-park-ii-1.jpg)
+![null](/assets/images/charalambousthe-park-ii-1.jpg#full)
 
 ### The Park ΙΙ
 
