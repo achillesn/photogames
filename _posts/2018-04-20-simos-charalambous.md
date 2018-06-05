@@ -18,8 +18,6 @@ _(May 2018)_
 
 This set is the second part of an ongoing project which at first began as a photography exercise but in the way was evolved as a family diary for the days of innocence.
 
-![null](/assets/images/charalambousthe-park-ii-1.jpg)
-
 ![null](/assets/images/charalambousthe-park-ii-2.jpg)
 
 ![null](/assets/images/charalambousthe-park-ii-3.jpg)
