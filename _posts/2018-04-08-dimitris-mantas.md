@@ -18,6 +18,8 @@ Sometimes I feel that a photographer is trapped inside my Engineer body, but for
 
 ### Minus One
 
+_(May 2018)_
+
 He is there. Does this mean he’s not absent?
 You expect him to be present. Everyone sees him, but it’s as if he wants to be invisible.
 Your words left unanswered, leaving you to wonder if he even heard you, although he seems to be right next to you.
