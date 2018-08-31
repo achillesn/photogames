@@ -10,14 +10,12 @@ author: Achilles Nasios
 ---
 \### The 7th Game
 
+![null](/assets/images/garyfalia-12.jpg)
 
+![null](/assets/images/garyfalia-13.jpg)
 
-![](/assets/images/garyfalia-12.jpg)
+![null](/assets/images/garyfalia-14.jpg)
 
-![](/assets/images/garyfalia-13.jpg)
+![null](/assets/images/garyfalia-15.jpg)
 
-![](/assets/images/garyfalia-14.jpg)
-
-![](/assets/images/garyfalia-15.jpg)
-
-![](/assets/images/garyfalia-16.jpg)
+![null](/assets/images/garyfalia-16.jpg)
