@@ -8,7 +8,9 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-### \-The 7th Game-
+### The 7th Game -
+
+_(June 2018)_
 
 ![null](/assets/images/lamprakisp_g7_01.jpg)
 
