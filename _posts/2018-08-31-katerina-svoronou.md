@@ -24,8 +24,6 @@ Katerina Svoronou was born in Athens in 1970 and spent her childhood in Kefaloni
 
 ![null](/assets/images/svoronou_g7_06.jpg)
 
-![null](/assets/images/svoronou_g7_06.jpg)
-
 ![null](/assets/images/svoronou_g7_07.jpg)
 
 ![null](/assets/images/svoronou_g7_08.jpg)
