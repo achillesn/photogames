@@ -8,11 +8,9 @@ tags:
   - Games
 author: Achilles Nasios
 ---
+### The 7th Game -
 
-
-### \-The 7th Game-
-
-
+_(June 2018)_
 
  I grew up in Amfissa in the Delphi area, in an atmosphere full of art with a father who was a painter, so it was almost inevitable to follow in his footsteps. 
 
