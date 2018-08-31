@@ -3,7 +3,7 @@ layout: post
 title: Anna Bouriti
 description: G7
 date: '2018-08-31T15:31:53+02:00'
-image: /assets/images/mpouriti_g7_02.jpg
+image: /assets/images/nasiosa_g7_02.jpg
 tags:
   - Games
 author: Achilles Nasios
