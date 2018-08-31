@@ -2,7 +2,7 @@
 layout: post
 title: Marina Sorovou
 description: The 7th Game
-date: '2018-09-01T00:40:57+02:00'
+date: '2018-09-01T01:05:00+02:00'
 image: /assets/images/nasiosa_g7_08.jpg
 tags:
   - Games
