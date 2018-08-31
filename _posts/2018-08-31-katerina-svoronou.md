@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-Was born in Athens in 1970 and spent her childhood in Kefalonia island. She graduated of the University of Piraeus in the Department of Statistics and Insurance Science. At the same time, he had a degree of 10-year piano studies. She works as a member of a financial institution.In February 2015 she started to deal with amateur photgraphy. She has worked with phtotographic projects such us: Street Artists,Theater Photography, Faces, About us and Threats.
+Was born in Athens in 1970 and spent her childhood in Kefalonia island. She graduated of the University of Piraeus in the Department of Statistics and Insurance Science. At the same time, he had a degree of 10-year piano studies. She works as a member of a financial institution. In February 2015 she started to deal with amateur photgraphy. She has worked with phtotographic projects such us: Street Artists,Theater Photography, Faces, About us and Threats.
 
 ### The 7th Game
 
