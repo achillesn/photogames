@@ -10,9 +10,9 @@ author: Achilles Nasios
 ---
 
 
-### \-The 7th Game-
+### The 7th Game-
 
-_June 2018_
+_(June 2018)._
 
 Katerina was born in Athens in 1970 and spent her childhood in Kefalonia island. She graduated of the University of Piraeus in the Department of Statistics and Insurance Science. At the same time, he had a degree of 10-year piano studies. She works as a member of a financial institution. In February 2015 she started to deal with photography. She has worked with phtotographic projects such us: Street Artists,Theater Photography, Faces, About us and Threats.
 
