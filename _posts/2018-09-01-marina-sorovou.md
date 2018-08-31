@@ -10,26 +10,24 @@ author: Achilles Nasios
 ---
 \### The 7th Game
 
+![null](/assets/images/sorovou-g7-02.jpg)
 
+![null](/assets/images/sorovou-g7-03.jpg)
 
-![](/assets/images/sorovou-g7-02.jpg)
+![null](/assets/images/sorovou-g7-04.jpg)
 
-![](/assets/images/sorovou-g7-03.jpg)
+![null](/assets/images/sorovou-g7-05.jpg)
 
-![](/assets/images/sorovou-g7-04.jpg)
+![null](/assets/images/sorovou-g7-06.jpg)
 
-![](/assets/images/sorovou-g7-05.jpg)
+![null](/assets/images/sorovou-g7-07.jpg)
 
-![](/assets/images/sorovou-g7-06.jpg)
+![null](/assets/images/sorovou-g7-08.jpg)
 
-![](/assets/images/sorovou-g7-07.jpg)
+![null](/assets/images/sorovou-g7-09.jpg)
 
-![](/assets/images/sorovou-g7-08.jpg)
+![null](/assets/images/sorovou-g7-10.jpg)
 
-![](/assets/images/sorovou-g7-09.jpg)
+![null](/assets/images/sorovou-g7-11.jpg)
 
-![](/assets/images/sorovou-g7-10.jpg)
-
-![](/assets/images/sorovou-g7-11.jpg)
-
-![](/assets/images/sorovou-g7-12.jpg)
+![null](/assets/images/sorovou-g7-12.jpg)
