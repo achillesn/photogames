@@ -10,30 +10,28 @@ author: Achilles Nasios
 ---
 ### The 7th Game
 
+![null](/assets/images/papadopoulouch_g7_01.jpg)
 
+![null](/assets/images/papadopoulouch_g7_02.jpg)
 
-![](/assets/images/papadopoulouch_g7_01.jpg)
+![null](/assets/images/papadopoulouch_g7_03.jpg)
 
-![](/assets/images/papadopoulouch_g7_02.jpg)
+![null](/assets/images/papadopoulouch_g7_04.jpg)
 
-![](/assets/images/papadopoulouch_g7_03.jpg)
+![null](/assets/images/papadopoulouch_g7_05.jpg)
 
-![](/assets/images/papadopoulouch_g7_04.jpg)
+![null](/assets/images/papadopoulouch_g7_06.jpg)
 
-![](/assets/images/papadopoulouch_g7_05.jpg)
+![null](/assets/images/papadopoulouch_g7_08.jpg)
 
-![](/assets/images/papadopoulouch_g7_06.jpg)
+![null](/assets/images/papadopoulouch_g7_07.jpg)
 
-![](/assets/images/papadopoulouch_g7_08.jpg)
+![null](/assets/images/papadopoulouch_g7_08.jpg)
 
-![](/assets/images/papadopoulouch_g7_07.jpg)
+![null](/assets/images/papadopoulouch_g7_09.jpg)
 
-![](/assets/images/papadopoulouch_g7_08.jpg)
+![null](/assets/images/papadopoulouch_g7_10.jpg)
 
-![](/assets/images/papadopoulouch_g7_09.jpg)
+![null](/assets/images/papadopoulouch_g7_11.jpg)
 
-![](/assets/images/papadopoulouch_g7_10.jpg)
-
-![](/assets/images/papadopoulouch_g7_11.jpg)
-
-![](/assets/images/papadopoulouch_g7_12.jpg)
+![null](/assets/images/papadopoulouch_g7_12.jpg)
