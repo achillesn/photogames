@@ -8,6 +8,8 @@ tags:
   - Games
 author: Achilles Nasios
 ---
+### The 7th Game
+
 ![](/assets/images/mpouriti_g7_01.jpg)
 
 ![](/assets/images/mpouriti_g7_02.jpg)
