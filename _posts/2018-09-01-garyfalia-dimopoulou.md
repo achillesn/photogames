@@ -10,6 +10,8 @@ author: Achilles Nasios
 ---
 ### The 7th Game -
 
+_(June 2018)_
+
 ![null](/assets/images/garyfalia-12.jpg)
 
 ![null](/assets/images/garyfalia-13.jpg)
