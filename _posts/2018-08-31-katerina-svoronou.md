@@ -3,7 +3,7 @@ layout: post
 title: Katerina Svoronou
 description: The 7th Game
 date: '2018-08-31T18:25:05+02:00'
-image: /assets/images/mpouriti_g7_03.jpg
+image: /assets/images/nasiosa_g7_03.jpg
 tags:
   - Games
 author: Achilles Nasios
