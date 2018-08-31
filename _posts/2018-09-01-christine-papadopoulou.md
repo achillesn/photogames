@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-### The 7th Game
+### \-The 7th Game-
 
 ![null](/assets/images/papadopoulouch_g7_01.jpg)
 
