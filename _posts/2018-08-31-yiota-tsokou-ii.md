@@ -8,13 +8,11 @@ tags:
   - Games
 author: Achilles Nasios
 ---
+
+
+### \-The 7th Game-
+
 I am a Greece-based self-taught photographer. My interest in photography sparked in 2014, when I started experimenting with analog photography. My work has been published in a number of publications such as Agitate (Australia, October 2015), Photoklassik (Germany, September 2016), Adore Noir Magazine (Canada, October 2017), Click Magazine (Italy, December 2017), Photographize (USA, February 2018).
-
-
-
-### The 7th Game
-
-
 
 ![null](/assets/images/tsiokou_g7.01.jpg)
 
