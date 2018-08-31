@@ -3,7 +3,7 @@ layout: post
 title: Panos Lamprakis
 description: The 7th Game
 date: '2018-09-01T00:32:26+02:00'
-image: /assets/images/garyfalia-16.jpg
+image: /assets/images/nasiosa_g7_10.jpg
 tags:
   - Games
 author: Achilles Nasios
