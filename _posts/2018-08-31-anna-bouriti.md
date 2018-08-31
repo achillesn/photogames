@@ -8,29 +8,31 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-### The 7th Game
+### The 7th Game -
 
-![](/assets/images/mpouriti_g7_01.jpg)
+_(June 2018)_
 
-![](/assets/images/mpouriti_g7_02.jpg)
+![null](/assets/images/mpouriti_g7_01.jpg)
 
-![](/assets/images/mpouriti_g7_03.jpg)
+![null](/assets/images/mpouriti_g7_02.jpg)
 
-![](/assets/images/mpouriti_g7_04.jpg)
+![null](/assets/images/mpouriti_g7_03.jpg)
 
-![](/assets/images/mpouriti_g7_05.jpg)
+![null](/assets/images/mpouriti_g7_04.jpg)
 
-![](/assets/images/mpouriti_g7_06.jpg)
+![null](/assets/images/mpouriti_g7_05.jpg)
 
-![](/assets/images/mpouriti_g7_07.jpg)
+![null](/assets/images/mpouriti_g7_06.jpg)
 
-![](/assets/images/mpouriti_g7_08.jpg)
+![null](/assets/images/mpouriti_g7_07.jpg)
 
-![](/assets/images/mpouriti_g7_09.jpg)
+![null](/assets/images/mpouriti_g7_08.jpg)
 
-![](/assets/images/mpouriti_g7_11.jpg)
+![null](/assets/images/mpouriti_g7_09.jpg)
 
-![](/assets/images/mpouriti_g7_12.jpg)
+![null](/assets/images/mpouriti_g7_11.jpg)
+
+![null](/assets/images/mpouriti_g7_12.jpg)
 
 ![](<>)
 ![](<>)
