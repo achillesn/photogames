@@ -2,7 +2,7 @@
 layout: post
 title: Yiota Tsokou II.
 description: 'The 7th Game '
-date: '2018-08-31T13:01:00+02:00'
+date: '2018-08-31T18:15:00+02:00'
 image: /assets/images/nasiosa_g7_11.jpg
 tags:
   - Games
