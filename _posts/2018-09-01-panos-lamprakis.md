@@ -14,7 +14,7 @@ _(June 2018)_
 
 Born in Athens in 1977. Attended various photography courses during the last couple of years. 
 
-My participation to the 7th Game brought to life a more personal interpretation of the _"Guess Who" _game_._
+My participation to the 7th Game brought to life a more personal interpretation of the _"Guess Who" game.
 
 ![null](/assets/images/lamprakisp_g7_01.jpg)
 
