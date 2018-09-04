@@ -28,8 +28,6 @@ I am currently working on my own solo project _“Anthi” (Flowers/Blossoms)._ 
 
 ![null](/assets/images/papadopoulouch_g7_06.jpg)
 
-![null](/assets/images/papadopoulouch_g7_08.jpg)
-
 ![null](/assets/images/papadopoulouch_g7_07.jpg)
 
 ![null](/assets/images/papadopoulouch_g7_08.jpg)
