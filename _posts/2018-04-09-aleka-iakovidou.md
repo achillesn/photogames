@@ -29,5 +29,3 @@ I am only touching its end to set out again.
 
 ![null](/assets/images/iakovidou-diptyxoo4.jpg)
 
-![null](/assets/images/portraits_game.jpg#full)
-
