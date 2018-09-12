@@ -14,6 +14,8 @@ _(May 2016)_
 
 I was born in 1960 in Athens, Greece, where I live until today. I was employed in the tourism industry. I first became involved with photography in 2011 and I am member of the Photography Circle since 2013. I have participated in group photography exhibitions.
 
+![null](/assets/images/portraits_game.jpg#full)
+
 ![null](/assets/images/iakovidou_1.jpg)
 
 ![null](/assets/images/iakovidou_2.jpg)
