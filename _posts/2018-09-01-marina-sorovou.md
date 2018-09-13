@@ -12,7 +12,7 @@ author: Achilles Nasios
 
 _(June 2018) -_
 
-_I live and work in Athens. Several years ago I have attended photography-seminars organized by Fotis Kazazis , Nikos Dimolitsas and Nikos Andrikopoulos and I have taken part in group photo exhibitions. My involvement in photography except for filling me with joy and enthusiasm._
+I live and work in Athens. Several years ago I have attended photography-seminars organized by Fotis Kazazis , Nikos Dimolitsas and Nikos Andrikopoulos and I have taken part in group photo exhibitions. My involvement in photography except for filling me with joy and enthusiasm.
 
 ![null](/assets/images/sorovou-g7-02.jpg)
 
