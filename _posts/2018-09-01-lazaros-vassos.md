@@ -26,6 +26,26 @@ _(June 2018)_
 
 ![null](/assets/images/vassos_g7_07.jpg)
 
+
+
+### The 4th Game
+
+_(Okt. 2017)_
+
+![null](/assets/images/vassos_g4_present.jpg#full)
+
+![null](/assets/images/vassos_g4_01.jpg)
+
+![null](/assets/images/vassos_g4_02.jpg)
+
+![null](/assets/images/vassos_g4_03.jpg)
+
+![null](/assets/images/vassos_g4_04.jpg)
+
+![null](/assets/images/vassos_g4_05.jpg)
+
+
+
 ### The 3rd Game
 
 _(May 2016)_
