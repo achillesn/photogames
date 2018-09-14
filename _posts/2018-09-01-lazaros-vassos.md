@@ -26,11 +26,9 @@ _(June 2018)_
 
 ![null](/assets/images/vassos_g7_07.jpg)
 
-
-
 ### The 4th Game
 
-_(Okt. 2017)_
+_(Okt. 2016)_
 
 ![null](/assets/images/vassos_g4_present.jpg#full)
 
@@ -43,8 +41,6 @@ _(Okt. 2017)_
 ![null](/assets/images/vassos_g4_04.jpg)
 
 ![null](/assets/images/vassos_g4_05.jpg)
-
-
 
 ### The 3rd Game
 
