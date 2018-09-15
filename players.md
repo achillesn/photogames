@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Players
-image: /assets/images/all2.jpg
+image: /assets/images/nasios04.3.jpg
 ---
 ### GAMES
 
