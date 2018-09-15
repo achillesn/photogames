@@ -3,7 +3,7 @@ layout: page
 title: Players
 image: /assets/images/nasios04.3.jpg
 ---
-### GAMES
+## GAMES
 
 #### A
 
@@ -76,7 +76,7 @@ image: /assets/images/nasios04.3.jpg
 
 
 
-### STORIES
+## STORIES
 
 #### A
 
