@@ -3,11 +3,11 @@ layout: page
 title: Players
 image: /assets/images/nasios04.3.jpg
 ---
-\------------
+-------------
 
 ## **GAMES**
 
-\------------
+-------------
 
 #### A
 
@@ -77,11 +77,11 @@ image: /assets/images/nasios04.3.jpg
 
 [Yiota Tsiokou](https://photogames.tk/yiota-tsiokou/)
 
-\--------------
+---------------
 
 ## **STORIES**
 
-\--------------
+---------------
 
 
 
