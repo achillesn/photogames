@@ -8,7 +8,7 @@ tags:
   - Stories
 author: Achilles Nasios
 ---
-_(May 2018)_ - I was already taking family pictures when I discovered how our eyes register in a different way than the camera, and since then I strive to communicate it.
+I was already taking family pictures when I discovered how our eyes register in a different way than the camera, and since then I strive to communicate it.
 Since 2014 I am exploring the art of photographic image.
 To me it is like travelling on a plane. Being up high, some turbulence might shake you up, the plane takes a dive your stomach aches, yet you suddenly feel alive. But you are bound to reach a destination. 
 Everything around us has more than one meaning.
