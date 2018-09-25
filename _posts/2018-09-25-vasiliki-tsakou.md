@@ -13,7 +13,10 @@ Since 2014 I am exploring the art of photographic image.
 To me it is like travelling on a plane. Being up high, some turbulence might shake you up, the plane takes a dive your stomach aches, yet you suddenly feel alive. But you are bound to reach a destination. 
 Everything around us has more than one meaning.
 
-![](/assets/images/tsakous1-presentation.jpg#full)
+![null](/assets/images/tsakous1-presentation.jpg#full)
+
+### Idols 
+_(Mar. 2018)_
 
 ![null](/assets/images/tsakous1-01.jpg)
 
