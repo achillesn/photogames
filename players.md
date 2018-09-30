@@ -69,6 +69,8 @@ image: /assets/images/nasios04.3.jpg
 
 #### V
 
+[Vasiliki Tsakou](https://photogames.tk/vasiliki-tsakou/)
+
 [Vasilis Katsaganis](https://photogames.tk/vasilis-katsaganis/)
 
 [Vasilis Mylonas](https://photogames.tk/vasilis-mylonas/)
