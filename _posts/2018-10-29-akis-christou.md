@@ -10,13 +10,13 @@ author: Achilles Nasios
 ---
 ### The 2nd Game
 
-![](/assets/images/christoua_g2_01.jpg)
+![null](/assets/images/christoua_g2_01.jpg)
 
-![](/assets/images/christoua_g2_02.jpg)
+![null](/assets/images/christoua_g2_02.jpg)
 
-![](/assets/images/christoua_g2_03.jpg)
+![null](/assets/images/christoua_g2_03.jpg)
 
-![](/assets/images/christoua_g2_04.jpg)
+![null](/assets/images/christoua_g2_04.jpg)
 
 ### The 1st Game
 
@@ -32,4 +32,4 @@ author: Achilles Nasios
 
 ![null](/assets/images/christoua_g1_06.jpg)
 
-![](/assets/images/christoua_g1_07.jpg)
+![null](/assets/images/christoua_g1_07.jpg)
