@@ -12,7 +12,7 @@ author: Achilles Nasios
 
 _(March 2016)_
 
-## A drop of me
+#### A drop of me
 
 When my teacher (and friend after all these years) Achilles Nasios, asked me at the 
 first lesson "why photography?" the answer was:
