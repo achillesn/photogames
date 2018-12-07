@@ -9,73 +9,74 @@ image: /assets/images/nasiosa_g6_07.1.jpg
 
 - - -
 
-#### Akis Christou
+Akis Christou
 
 ![null](/assets/images/christoua_i-g.jpg)
 
-#### Eugenia Aravantinou
+Eugenia Aravantinou
 
 ![null](/assets/images/aravantinoue-i-g.jpg)
 
-#### Rania Antypa
+Rania Antypa
 
 ![null](/assets/images/antypar_i_g.jpg)
 
-#### Danai Vlachou
+Danai Vlachou
 
 ![null](/assets/images/vlachoud_i-g.jpg)
 
-#### Giorgos Bolanos
+Giorgos Bolanos
 
 ![null](/assets/images/bolanosg_i-g.jpg)
 
-#### Tasos Biris
+Tasos Biris
 
 ![null](/assets/images/birisa_g9pr..jpg)
 
+Louloudia Gredi
+
 ![null](/assets/images/gredilou-i-g.jpg)
 
-#### Yiota Tsokou
+Yiota Tsokou
 
 ![null](/assets/images/tsokoug_i-g.jpg)
 
-#### Kalliopi Katsidonioti
+Kalliopi Katsidonioti
 
 ![null](/assets/images/katsidoniotik_i-g.jpg)
 
-#### Angeliki Drougou
+Angeliki Drougou
 
 ![null](/assets/images/drougoua_gpr.jpg)
 
-#### Dinos Psychos
+Dinos Psychos
 
 ![null](/assets/images/psichosd_i-g.jpg)
 
-#### Nikos Psychos
+Nikos Psychos
 
 ![null](/assets/images/psichosn_i-g.jpg)
 
-#### Daniel Profitis
+Daniel Profitis
 
 ![null](/assets/images/profitisd-i-g.jpg)
 
-#### Lazaros Vassos
+Lazaros Vassos
 
 ![null](/assets/images/vassosl-i-g.jpg)
 
-#### Jennie Dokou
+Jennie Dokou
 
 ![null](/assets/images/dokouj-i-g.jpg)
 
-#### Marina Sorovou
+Marina Sorovou
 
 ![null](/assets/images/sorovoum-i-g.jpg)
 
-#### Vasilis Mylonas
+Vasilis Mylonas
 
 ![null](/assets/images/mylonasv-i-g.jpg)
 
-#### Achilles Nasios
+Achilles Nasios
 
 ![null](/assets/images/nasiosa_i-g.jpg)
-
