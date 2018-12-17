@@ -15,74 +15,76 @@ We hope that you will enjoy our images, as we did enjoy the process which reveal
 Since our games are not over yet and we are looking forward to continuing, we will eventually get back to share with you the complete works.
 Until then… keep on playing.
 
-Akis Christou
+---
+
+1. Akis Christou
 
 ![null](/assets/images/christoua_i-g.jpg)
 
-Eugenia Aravantinou
+2. Eugenia Aravantinou
 
 ![null](/assets/images/aravantinoue-i-g.jpg)
 
-Rania Antypa
+3. Rania Antypa
 
 ![null](/assets/images/antypar_i_g.jpg)
 
-Danai Vlachou
+4. Danai Vlachou
 
 ![null](/assets/images/vlachoud_i-g.jpg)
 
-Giorgos Bolanos
+5. Giorgos Bolanos
 
 ![null](/assets/images/bolanosg_i-g.jpg)
 
-Tasos Biris
+6. Tasos Biris
 
 ![null](/assets/images/birisa_g9pr..jpg)
 
-Louloudia Gredi
+7. Louloudia Gredi
 
 ![null](/assets/images/gredilou-i-g.jpg)
 
-Yiota Tsokou
+8. Yiota Tsokou
 
 ![null](/assets/images/tsokoug_i-g.jpg)
 
-Kalliopi Katsidonioti
+9. Kalliopi Katsidonioti
 
 ![null](/assets/images/katsidoniotik_i-g.jpg)
 
-Angeliki Drougou
+10. Angeliki Drougou
 
 ![null](/assets/images/drougoua_gpr.jpg)
 
-Dinos Psychos
+11. Dinos Psychos
 
 ![null](/assets/images/psichosd_i-g.jpg)
 
-Nikos Psychos
+12. Nikos Psychos
 
 ![null](/assets/images/psichosn_i-g.jpg)
 
-Daniel Profitis
+13. Daniel Profitis
 
 ![null](/assets/images/profitisd-i-g.jpg)
 
-Lazaros Vassos
+14. Lazaros Vassos
 
 ![null](/assets/images/vassosl-i-g.jpg)
 
-Jennie Dokou
+15. Jennie Dokou
 
 ![null](/assets/images/dokouj-i-g.jpg)
 
-Marina Sorovou
+16. Marina Sorovou
 
 ![null](/assets/images/sorovoum-i-g.jpg)
 
-Vasilis Mylonas
+17. Vasilis Mylonas
 
 ![null](/assets/images/mylonasv-i-g.jpg)
 
-Achilles Nasios
+18. Achilles Nasios
 
 ![null](/assets/images/nasiosa_i-g.jpg)
