@@ -8,6 +8,12 @@ image: /assets/images/nasiosa_g6_07.1.jpg
 ## **INTERGAMES**
 
 - - -
+Before the beginning of the New Year we would like to wish you happy and creative holidays, and to share with you a small sample of our research and the shape it is taking via the inter-games.
+These games are designed to be played on-line, and during them multifaceted ways of learning and knowledge are gradually growing.
+
+We hope that you will enjoy our images, as we did enjoy the process which revealed them to us.
+Since our games are not over yet and we are looking forward to continuing, we will eventually get back to share with you the complete works.
+Until then… keep on playing.
 
 Akis Christou
 
