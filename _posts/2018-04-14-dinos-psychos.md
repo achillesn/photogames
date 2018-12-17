@@ -91,6 +91,4 @@ _(June 2017)_
 
 ![null](/assets/images/psichosdg511-_2bs7275.jpg)
 
-![null]()
 
-![null]()
