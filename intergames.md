@@ -17,74 +17,74 @@ Until then… keep on playing.
 
 ---
 
-1. Akis Christou
+Akis Christou
 
 ![null](/assets/images/christoua_i-g.jpg)
 
-2. Eugenia Aravantinou
+Eugenia Aravantinou
 
 ![null](/assets/images/aravantinoue-i-g.jpg)
 
-3. Rania Antypa
+Rania Antypa
 
 ![null](/assets/images/antypar_i_g.jpg)
 
-4. Danai Vlachou
+Danai Vlachou
 
 ![null](/assets/images/vlachoud_i-g.jpg)
 
-5. Giorgos Bolanos
+Giorgos Bolanos
 
 ![null](/assets/images/bolanosg_i-g.jpg)
 
-6. Tasos Biris
+Tasos Biris
 
 ![null](/assets/images/birisa_g9pr..jpg)
 
-7. Louloudia Gredi
+Louloudia Gredi
 
 ![null](/assets/images/gredilou-i-g.jpg)
 
-8. Yiota Tsokou
+Yiota Tsokou
 
 ![null](/assets/images/tsokoug_i-g.jpg)
 
-9. Kalliopi Katsidonioti
+Kalliopi Katsidonioti
 
 ![null](/assets/images/katsidoniotik_i-g.jpg)
 
-10. Angeliki Drougou
+Angeliki Drougou
 
 ![null](/assets/images/drougoua_gpr.jpg)
 
-11. Dinos Psychos
+Dinos Psychos
 
 ![null](/assets/images/psichosd_i-g.jpg)
 
-12. Nikos Psychos
+Nikos Psychos
 
 ![null](/assets/images/psichosn_i-g.jpg)
 
-13. Daniel Profitis
+Daniel Profitis
 
 ![null](/assets/images/profitisd-i-g.jpg)
 
-14. Lazaros Vassos
+Lazaros Vassos
 
 ![null](/assets/images/vassosl-i-g.jpg)
 
-15. Jennie Dokou
+Jennie Dokou
 
 ![null](/assets/images/dokouj-i-g.jpg)
 
-16. Marina Sorovou
+Marina Sorovou
 
 ![null](/assets/images/sorovoum-i-g.jpg)
 
-17. Vasilis Mylonas
+Vasilis Mylonas
 
 ![null](/assets/images/mylonasv-i-g.jpg)
 
-18. Achilles Nasios
+Achilles Nasios
 
 ![null](/assets/images/nasiosa_i-g.jpg)
