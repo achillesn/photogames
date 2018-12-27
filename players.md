@@ -109,7 +109,7 @@ image: /assets/images/nasios04.3.jpg
 
 #### L
 
-[Louloudia Gredi](https://photogames.tk/louloudia-gradi/)
+[Louloudia Gredi](https://photogames.tk/louloudia-gredi/)
 
 #### N
 
