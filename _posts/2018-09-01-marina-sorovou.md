@@ -8,11 +8,27 @@ tags:
   - Games
 author: Achilles Nasios
 ---
+### The 8th Game (Oceanis) -
+
+_(February 2019) -_
+
+_I live and work in Athens. Several years ago I have attended photography-seminars organized by Fotis Kazazis , Nikos Dimolitsas and Nikos Andrikopoulos and I have taken part in group photo exhibitions. My occupation with photography fills me with joy and enthusiasm._
+
+![null](/assets/images/sorovou_g8_pres.jpg#full)
+
+![null](/assets/images/sorovou_g8_01.jpg)
+
+![null](/assets/images/sorovou_g8_02.jpg)
+
+![null](/assets/images/sorovou_g8_03.jpg)
+
+![null](/assets/images/sorovou_g8_04.jpg)
+
+![](/assets/images/sorovou_g8_05.jpg)
+
 ### The 7th Game -
 
 _(June 2018) -_
-
-_I live and work in Athens. Several years ago I have attended photography-seminars organized by Fotis Kazazis , Nikos Dimolitsas and Nikos Andrikopoulos and I have taken part in group photo exhibitions. My occupation with photography fills me with joy and enthusiasm._
 
 ![null](/assets/images/sorovou-g7-02.jpg)
 
