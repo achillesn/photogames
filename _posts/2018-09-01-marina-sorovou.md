@@ -2,7 +2,7 @@
 layout: post
 title: Marina Sorovou
 description: The 7th Game
-date: '2018-08-31T06:25:00+02:00'
+date: '2019-06-08T06:25:00+02:00'
 image: /assets/images/nasiosa_g7_08.jpg
 tags:
   - Games
@@ -25,6 +25,10 @@ _I live and work in Athens. Several years ago I have attended photography-semina
 ![null](/assets/images/sorovou_g8_04.jpg)
 
 ![](/assets/images/sorovou_g8_05.jpg)
+
+![](/assets/images/sorovou_g8_06.jpg)
+
+
 
 ### The 7th Game -
 
