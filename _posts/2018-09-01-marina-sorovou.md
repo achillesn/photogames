@@ -2,7 +2,7 @@
 layout: post
 title: Marina Sorovou
 description: ' 7th and 8th Games'
-date: '2019-06-06T06:25:00+02:00'
+date: '2019-05-06T00:00:00+02:00'
 image: /assets/images/nasiosa_g7_08.jpg
 tags:
   - Games
