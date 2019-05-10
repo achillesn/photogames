@@ -28,7 +28,7 @@ _(February 2019)
 
 ![null](/assets/images/nasiosa_g8_05.jpg)
 
-### The 7th Game (Oceanis)
+### The 7th Game
 
 _(June 2018)_
 
