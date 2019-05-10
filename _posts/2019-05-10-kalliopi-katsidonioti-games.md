@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-![null](/assets/images/katsidonioti_g8_pres.jpg)
+![null](/assets/images/katsidonioti_g8_pres.jpg#full)
 
 ![null](/assets/images/katsidonioti_g8_01.jpg)
 
