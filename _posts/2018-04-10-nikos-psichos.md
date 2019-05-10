@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nikos Psychos
-description: Stories and Games
+description: 'Stories '
 date: '2018-05-15T14:39:17+02:00'
 image: /assets/images/psichosnik2.jpg
 tags:
@@ -60,28 +60,4 @@ _(Rumi)_
 
 ![null](/assets/images/psichosnik5.jpg)
 
-![](/assets/images/psichosn-gpresent.jpg#full)
-
-### The 5th Game
-
-_(June 2017)_
-
-![null](/assets/images/psichosn01-p6250242.jpg)
-
-![null](/assets/images/psichosn03-p6240036.jpg)
-
-![null](/assets/images/psichosn04-p6250184.jpg)
-
-![null](/assets/images/psichosn05-p6250192.jpg)
-
-![null](/assets/images/psichosn06-p6250163.jpg)
-
-![null](/assets/images/psichosn07-p6250206.jpg)
-
-![null](/assets/images/psichosn08-p6240065.jpg)
-
-![null](/assets/images/psichosn09-p6250245.jpg)
-
-![null](/assets/images/psichosn10-p6250262.jpg)
-
-![null](/assets/images/psichosn11-p6250280.jpg)
+![null](/assets/images/psichosn-gpresent.jpg#full)
