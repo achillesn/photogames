@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Vasilis Mylonas
-description: 6th game
-date: '2018-04-30T22:05:55+03:00'
+description: 6th/8th game
+date: '2019-05-07T21:05:55+02:00'
 image: /assets/images/mylonas-01.jpg
 tags:
   - Games
@@ -14,6 +14,26 @@ Love traveling – always feeling freedom and joy with a camera in my hands, in 
 For me, is always important to find a subject/point that excites me and try to bring this inspiration to my pictures.
 
 Live in Athens, Greece
+
+![null](/assets/images/mylonas_g8_pres.jpg#full)
+
+### The 8th Game
+
+_(February 2019)_
+
+![null](/assets/images/mylonas_g8_01.jpg)
+
+![null](/assets/images/mylonas_g8_02.jpg)
+
+![null](/assets/images/mylonas_g8_04.jpg)
+
+![null](/assets/images/mylonas_g8_05.jpg)
+
+![null](/assets/images/mylonas_g8_06.jpg)
+
+![null](/assets/images/mylonas_g8_07.jpg)
+
+![null](/assets/images/mylonas_g8_08.jpg)
 
 ### The 6th Game
 
