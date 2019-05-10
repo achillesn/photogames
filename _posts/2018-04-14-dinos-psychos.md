@@ -39,4 +39,4 @@ _(Dec. 2017)_
 
 ![null](/assets/images/psichosd-triptychs-3.jpg#full)
 
-![null](/assets/images/wall-setup.jpg#full)
+
