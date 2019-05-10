@@ -2,7 +2,7 @@
 layout: post
 title: Dinos Psychos
 description: 'Stories and Games '
-date: '2018-06-01T00:18:49+02:00'
+date: '2019-05-07T00:18:49+02:00'
 image: /assets/images/04-_2bs1946.jpg
 tags:
   - Stories
@@ -12,6 +12,22 @@ It was the technological progress of cameras and their ever increasing capabilit
 Though, as I delved more into it, my attention started steering towards all the elements of the image that technology alone was not enough  to unveil. 
 
 Soon I found myself exploring the means of photographic expression and through this exploration I became more sensitive to perceiving the visual information around me.  The photographic process has provided me with a tool to better comprehend oneself and be more receiving of other people’s expression.
+
+![null](/assets/images/psychosd_g8_pres.jpg#full)
+
+### The 8th Game (Oceanis)
+
+_(February 2019)_
+
+![null](/assets/images/psychosd_g8_01.jpg)
+
+![null](/assets/images/psychosd_g8_02.jpg)
+
+![null](/assets/images/psychosd_g8_03.jpg)
+
+![null](/assets/images/psychosd_g8_04.jpg)
+
+![null](/assets/images/psychosd_g8_05.jpg)
 
 ![null](/assets/images/psichoss2-transpresent.jpg#full)
 
@@ -90,5 +106,3 @@ _(June 2017)_
 ![null](/assets/images/psichosdg510-_2bs7723.jpg)
 
 ![null](/assets/images/psichosdg511-_2bs7275.jpg)
-
-
