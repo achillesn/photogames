@@ -28,7 +28,7 @@ _(February 2019)_
 
 ![null](/assets/images/profitis_g8_05.jpg)
 
-![null](/assets/images/profitis-s2-pres.jpg#full)
+
 
 ### The 6th Game
 
