@@ -10,6 +10,8 @@ author: Achilles Nasios
 ---
 Through the years of studying the art of teaching, I gradually saw a new pedagogic method of teaching photography emerging. Inspired from the deep understanding that Flusser suggested in combination with Rudolf Steiner’s and Pär Ahlbom’s pedagogics I reached the point of perceiving and creating the Photo Games.
 
+More info: https://anikon.org/
+
 ![null](/assets/images/nasios_g8_pres.jpg#full)
 
 ### The 8th Game (Oceanis)
