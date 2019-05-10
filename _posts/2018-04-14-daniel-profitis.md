@@ -13,8 +13,6 @@ My dream, from the early stages of my life, was to create pictures.
 Starting with analog photography and later experimenting with digital possibilities, in agony to re-define my self, I lost the dream.
 It feels like that through the photogames I started to be reconnected to this dream again. I started to search deeper and that´s fun. Not always easy, but fun.
 
-
-
 ![null](/assets/images/profitis_g8_pres.jpg#full)
 
 ### The 8th Game (Oceanis)
