@@ -2,7 +2,7 @@
 layout: post
 title: Vasilis Mylonas
 description: 6th/8th game
-date: '2019-05-07T21:05:55+02:00'
+date: '2019-05-07T11:05:00+02:00'
 image: /assets/images/mylonas-01.jpg
 tags:
   - Games
