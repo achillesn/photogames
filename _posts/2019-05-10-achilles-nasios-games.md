@@ -62,23 +62,27 @@ _(June 2018)_
 
 _(Dec 2017)_
 
-![null](/assets/images/nasiosa_g8_04.jpg)
+![null](/assets/images/nasios06.1.jpg)
 
-![null](/assets/images/nasiosa_g8_05.jpg)
+![null](/assets/images/nasios06.2.jpg)
 
-![null](/assets/images/nasiosa_g8_01.jpg)
+![null](/assets/images/nasios06.3.jpg)
 
-![null](/assets/images/nasiosa_g8_02.jpg)
+![null](/assets/images/nasios06.4.jpg)
 
-![null](/assets/images/nasiosa_g8_03.jpg)
+![null](/assets/images/nasios06.5.jpg)
 
-![null](/assets/images/nasiosa_g8_04.jpg)
+![null](/assets/images/nasios06.7.jpg)
 
-![null](/assets/images/nasiosa_g8_05.jpg)
+![null](/assets/images/nasios06.8.jpg)
 
-![null](/assets/images/nasiosa_g8_01.jpg)
+![null](/assets/images/nasios06.9.jpg)
 
-![null](/assets/images/nasiosa_g8_02.jpg)
+![null](/assets/images/nasios-g06parousiasi.jpg#full)
+
+The 5th Game
+
+_(June 2017)_
 
 ![null](/assets/images/nasiosa_g8_03.jpg)
 
