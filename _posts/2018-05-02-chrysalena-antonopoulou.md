@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chrysalena Antonopoulou
+title: Chrysalena Antonopoulou (Games)
 description: 4th game
 date: '2018-05-02T00:29:36+03:00'
 image: /assets/images/antonopoulou_g03.1.jpg
