@@ -84,29 +84,29 @@ _(Dec 2017)_
 
 _(June 2017)_
 
-![null](/assets/images/nasiosa_g8_03.jpg)
+![null](/assets/images/nasios05.1.jpg)
 
-![null](/assets/images/nasiosa_g8_04.jpg)
+![null](/assets/images/nasios05.10.jpg)
 
-![null](/assets/images/nasiosa_g8_05.jpg)
+![null](/assets/images/nasios05.11.jpg)
 
-![null](/assets/images/nasiosa_g8_01.jpg)
+![null](/assets/images/nasios05.2.jpg)
 
-![null](/assets/images/nasiosa_g8_02.jpg)
+![null](/assets/images/nasios05.3.jpg)
 
-![null](/assets/images/nasiosa_g8_03.jpg)
+![null](/assets/images/nasios05.4.jpg)
 
-![null](/assets/images/nasiosa_g8_04.jpg)
+![null](/assets/images/nasios05.5.jpg)
 
-![null](/assets/images/nasiosa_g8_05.jpg)
+![null](/assets/images/nasios05.6.jpg)
 
-![null](/assets/images/nasiosa_g8_01.jpg)
+![null](/assets/images/nasios05.7.jpg)
 
-![null](/assets/images/nasiosa_g8_02.jpg)
+![null](/assets/images/nasios05.8.jpg)
 
-![null](/assets/images/nasiosa_g8_03.jpg)
+![null](/assets/images/nasios05.9.jpg)
 
-![null](/assets/images/nasiosa_g8_04.jpg)
+![null](/assets/images/nasios04.-presentationweb.jpg#full)
 
 ![null](/assets/images/nasiosa_g8_05.jpg)
 
