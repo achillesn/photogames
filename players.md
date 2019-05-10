@@ -17,6 +17,8 @@ image: /assets/images/nasios04.3.jpg
 
 [Anna Bouriti](https://photogames.tk/anna-bouriti/)
 
+[Eugenia Aravantinou](https://photogames.tk/eugenia-aravantinou-games/)
+
 #### C
 
 [Christine Papadopoulou](https://photogames.tk/christine-papadopoulou/)
@@ -25,9 +27,11 @@ image: /assets/images/nasios04.3.jpg
 
 #### D
 
-[Daniel Profitis](https://photogames.tk/daniel-profitis/)
+[Danai Vlachou](https://photogames.tk/danai-vlachou-games/)
 
-[Dinos Psychos](https://photogames.tk/dinos-psychos/)
+[Daniel Profitis](https://photogames.tk/daniel-profitis-games/)
+
+[Dinos Psychos](https://photogames.tk/dinos-psychos-games/)
 
 #### E
 
@@ -37,7 +41,13 @@ image: /assets/images/nasios04.3.jpg
 
 [Garyfalia Dimopoulou](https://photogames.tk/garyfalia-dimopoulou/)
 
+#### J
+
+[Jennie Dokou](https://photogames.tk/jennie-dokou-games/)
+
 #### K
+
+[Kalliopi Katsidonioti](https://photogames.tk/kalliopi-katsidonioti-games/)
 
 [Katerina Svoronou](https://photogames.tk/katerina-svoronou/)
 
