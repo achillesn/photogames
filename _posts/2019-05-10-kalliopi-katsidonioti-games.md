@@ -8,16 +8,16 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-![](/assets/images/katsidonioti_g8_pres.jpg)
+![null](/assets/images/katsidonioti_g8_pres.jpg)
 
-![](/assets/images/katsidonioti_g8_01.jpg)
+![null](/assets/images/katsidonioti_g8_01.jpg)
 
-![](/assets/images/katsidonioti_g8_02.jpg)
+![null](/assets/images/katsidonioti_g8_02.jpg)
 
-![](/assets/images/katsidonioti_g8_03.jpg)
+![null](/assets/images/katsidonioti_g8_03.jpg)
 
-![](/assets/images/katsidonioti_g8_04.jpg)
+![null](/assets/images/katsidonioti_g8_04.jpg)
 
-![](/assets/images/katsidonioti_g8_05.jpg)
+![null](/assets/images/katsidonioti_g8_05.jpg)
 
-![](/assets/images/katsidonioti_g8_06.jpg)
+![null](/assets/images/katsidonioti_g8_06.jpg)
