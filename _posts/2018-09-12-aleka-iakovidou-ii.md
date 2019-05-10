@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aleka Iakovidou II
+title: Aleka Iakovidou (Games)
 description: The 3rd Game
 date: '2018-05-01T10:49:30+02:00'
 image: /assets/images/iakovidou-metallaxis-4.jpg
@@ -29,4 +29,3 @@ I was born in 1960 in Athens, Greece, where I live until today. I was employed i
 ![null](/assets/images/iakovidou_6.jpg)
 
 ![null](/assets/images/iakovidou_7.jpg)
-
