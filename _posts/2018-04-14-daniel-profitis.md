@@ -2,7 +2,7 @@
 layout: post
 title: Daniel Profitis
 description: Stories and Games
-date: '2018-05-24T00:26:42+02:00'
+date: '2019-05-07T00:26:42+02:00'
 image: /assets/images/profitis-series3.jpg
 tags:
   - Stories
@@ -12,6 +12,22 @@ author: Achilles Nasios
 My dream, from the early stages of my life, was to create pictures.
 Starting with analog photography and later experimenting with digital possibilities, in agony to re-define my self, I lost the dream.
 It feels like that through the photogames I started to be reconnected to this dream again. I started to search deeper and that´s fun. Not always easy, but fun.
+
+### The 8th Game (Oceanis)
+
+_(February 2019)_
+
+![null](/assets/images/profitis_g8_pres.jpg#full)
+
+![null](/assets/images/profitis_g8_01.jpg)
+
+![null](/assets/images/profitis_g8_02.jpg)
+
+![null](/assets/images/profitis_g8_03.jpg)
+
+![null](/assets/images/profitis_g8_04.jpg)
+
+![null](/assets/images/profitis_g8_05.jpg)
 
 ![null](/assets/images/profitis-s2-pres.jpg#full)
 
