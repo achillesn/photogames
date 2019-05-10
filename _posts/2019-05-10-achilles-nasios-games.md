@@ -10,12 +10,12 @@ author: Achilles Nasios
 ---
 ![null](/assets/images/nasios_g8_pres.jpg#full)
 
-![](/assets/images/nasiosa_g8_01.jpg)
+![null](/assets/images/nasiosa_g8_01.jpg)
 
-![](/assets/images/nasiosa_g8_02.jpg)
+![null](/assets/images/nasiosa_g8_02.jpg)
 
-![](/assets/images/nasiosa_g8_03.jpg)
+![null](/assets/images/nasiosa_g8_03.jpg)
 
-![](/assets/images/nasiosa_g8_04.jpg)
+![null](/assets/images/nasiosa_g8_04.jpg)
 
-![](/assets/images/nasiosa_g8_05.jpg)
+![null](/assets/images/nasiosa_g8_05.jpg)
