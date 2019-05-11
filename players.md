@@ -19,7 +19,6 @@ image: /assets/images/nasios04.3.jpg
 
 [Anna Bouriti](https://photogames.tk/anna-bouriti/)
 
-[Eugenia Aravantinou](https://photogames.tk/eugenia-aravantinou-games/)
 
 #### C
 
@@ -38,6 +37,8 @@ image: /assets/images/nasios04.3.jpg
 #### E
 
 [Efi Grimani](https://photogames.tk/efi-grimani/)
+
+[Eugenia Aravantinou](https://photogames.tk/eugenia-aravantinou-games/)
 
 #### G
 
