@@ -28,6 +28,8 @@ _(February 2019)
 
 ![null](/assets/images/nasiosa_g8_05.jpg)
 
+![null](/assets/images/nasiosa_g07_pres.jpg#full)
+
 ### The 7th Game
 
 _(June 2018)_
