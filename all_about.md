@@ -13,12 +13,14 @@ Up to now, **three different types** of games have been planned and implemented.
 
 ![null](/assets/images/02_mg_0167.jpg)
 
-All the works that are presented in this website are the outcome of workshops designed as games **(Games)** as well as the products of our weekly web meetings **(Stories)**.
+All the works that are presented in this website are the outcome of workshops designed as games **(Games)** as well as the products of our weekly web meetings **(Stories)** and at list of the **(Inter-Games)**, which are designed to be played on-line, and during them multifaceted ways of learning and knowledge are gradually growing..
 
 The results of the photo action of each participant are presented in the **games** page, where each photographer was shooting in an dimly lit room within one minute. The aim of this action is to achieve a compact series of pictures which is formed from the combination of a chosen picture from each circle. 
 
 In the **stories** page the most important intend is to develop a complete visual proposal from every participant. Based on the development of our visual propositions we were able to decipher the theory that holds the art of photography.
 We recognized the importance of style and saw form spreading in front of our eyes the core of substance. We observed the secret unfolding of our subject matter revealing what we did not know about us and even more. Finally overjoyed we saw our work becoming a source of inspiration for the others.
+
+The result of the **Inter-Games** will be shown soon.
 
 ![null](/assets/images/01.jpg#full)
 
