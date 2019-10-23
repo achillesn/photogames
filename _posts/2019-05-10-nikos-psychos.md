@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nikos Psychos
+title: Nikos Psychos (Games)
 description: The 5th Game
 date: '2018-05-15T09:47:55+02:00'
 image: /assets/images/psichosn01-p6250242.jpg
