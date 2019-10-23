@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tasos Biris (GAMES)
+title: Tasos Biris (Games)
 description: the 9th Game
 date: '2019-10-23T12:11:36+02:00'
 image: /assets/images/birisa_g9_-4-.jpg
