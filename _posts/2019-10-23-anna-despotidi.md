@@ -10,4 +10,4 @@ author: Achilles Nasios
 ---
 The 9th Game - June 2019
 
-![](/assets/images/despotidia_g9_pres.jpg#full)
+![null](/assets/images/despotidia_g09_pres.jpg)
