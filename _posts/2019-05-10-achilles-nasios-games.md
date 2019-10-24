@@ -16,7 +16,7 @@ More about me: <a href="https://anikon.org/" target="_blank">anikon.org</a>
 
 _(June 2019)
 
-![null](/assets/images/nasiosa_g9_pres.jpg)
+![null](/assets/images/nasiosa_g9_pres.jpg#full)
 
 ![null](/assets/images/nasios_g8_pres.jpg#full)
 
