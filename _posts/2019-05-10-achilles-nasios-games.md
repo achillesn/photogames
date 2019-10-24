@@ -2,7 +2,7 @@
 layout: post
 title: Achilles Nasios (Games)
 description: Games
-date: '2019-10-25T10:41:44+02:00'
+date: '2019-10-25T00:41:00+02:00'
 image: /assets/images/nasiosa_g9_01.jpg
 tags:
   - Games
@@ -16,7 +16,7 @@ More about me: <a href="https://anikon.org/" target="_blank">anikon.org</a>
 
 _(June 2019)
 
-![](/assets/images/nasiosa_g9_pres.jpg)
+![null](/assets/images/nasiosa_g9_pres.jpg)
 
 ![null](/assets/images/nasios_g8_pres.jpg#full)
 
