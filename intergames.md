@@ -17,47 +17,47 @@ Until then… keep on playing.
 
 Akis Christou
 
-![null](/assets/images/christou.jpg)
+![null](/assets/images/christou.jpg#full)
 
 Eugenia Aravantinou
 
-![null](/assets/images/aravantinou.jpg)
+![null](/assets/images/aravantinou.jpg#full)
 
 Rania Antypa
 
-![null](/assets/images/antypa.jpg)
+![null](/assets/images/antypa.jpg#full)
 
 Danai Vlachou
 
-![null](/assets/images/vlachou.jpg)
+![null](/assets/images/vlachou.jpg#full)
 
 Giorgos Bolanos
 
-![null](/assets/images/bolanos.jpg)
+![null](/assets/images/bolanos.jpg#full)
 
 Tasos Biris
 
-![null](/assets/images/biris.jpg)
+![null](/assets/images/biris.jpg#full)
 
 Louloudia Gredi
 
-![null](/assets/images/gredilou.jpg)
+![null](/assets/images/gredilou.jpg#full)
 
 Yiota Tsokou
 
-![null](/assets/images/tsokou.jpg)
+![null](/assets/images/tsokou.jpg#full)
 
 Kalliopi Katsidonioti
 
-![null](/assets/images/katsidonioti.jpg)
+![null](/assets/images/katsidonioti.jpg#full)
 
 Angeliki Drougou
 
-![null](/assets/images/drougou.jpg)
+![null](/assets/images/drougou.jpg#full)
 
 Dinos Psychos
 
-![null](/assets/images/dpsichos.jpg)
+![null](/assets/images/dpsichos.jpg#full)
 
 Nikos Psychos
 
@@ -65,7 +65,7 @@ Nikos Psychos
 
 Daniel Profitis
 
-![null](/assets/images/profitisok.jpg)
+![null](/assets/images/profitisok.jpg#full)
 
 Lazaros Vassos
 
@@ -73,11 +73,11 @@ Lazaros Vassos
 
 Jennie Dokou
 
-![null](/assets/images/dokou.jpg)
+![null](/assets/images/dokou.jpg#full)
 
 Marina Sorovou
 
-![null](/assets/images/sorovouok.jpg)
+![null](/assets/images/sorovouok.jpg#full)
 
 Vasilis Mylonas
 
@@ -85,4 +85,4 @@ Vasilis Mylonas
 
 Achilles Nasios
 
-![null](/assets/images/nasiosa.jpg)
+![null](/assets/images/nasiosa.jpg#full)
