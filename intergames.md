@@ -7,23 +7,21 @@ image: /assets/images/nasiosa_g6_07.1.jpg
 
 ## **INTERGAMES**
 
-- - -
-Before the beginning of the New Year we would like to wish you happy and creative holidays, and to share with you a small sample of our research and the shape it is taking via the inter-games.
 These games are designed to be played on-line, and during them multifaceted ways of learning and knowledge are gradually growing.
 
-We hope that you will enjoy our images, as we did enjoy the process which revealed them to us.
-Since our games are not over yet and we are looking forward to continuing, we will eventually get back to share with you the complete works.
+We hope that you will enjoy this small sample of our research, as we did enjoy the process which revealed them to us.
+
 Until then… keep on playing.
 
----
+- - -
 
 Akis Christou
 
-![null](/assets/images/christoua_i-g.jpg)
+![null](/assets/images/christou.jpg)
 
 Eugenia Aravantinou
 
-![null](/assets/images/aravantinoue-i-g.jpg)
+![null](/assets/images/aravantinou.jpg)
 
 Rania Antypa
 
@@ -31,35 +29,35 @@ Rania Antypa
 
 Danai Vlachou
 
-![null](/assets/images/vlachoud_i-g.jpg)
+![null](/assets/images/vlachou.jpg)
 
 Giorgos Bolanos
 
-![null](/assets/images/bolanosg_i-g.jpg)
+![null](/assets/images/bolanos.jpg)
 
 Tasos Biris
 
-![null](/assets/images/birisa_g9pr..jpg)
+![null](/assets/images/biris.jpg)
 
 Louloudia Gredi
 
-![null](/assets/images/gredilou-i-g.jpg)
+![null](/assets/images/gredilou.jpg)
 
 Yiota Tsokou
 
-![null](/assets/images/tsokoug_i-g.jpg)
+![null](/assets/images/tsokou.jpg)
 
 Kalliopi Katsidonioti
 
-![null](/assets/images/katsidoniotik_i-g.jpg)
+![null](/assets/images/katsidonioti.jpg)
 
 Angeliki Drougou
 
-![null](/assets/images/drougoua_gpr.jpg)
+![null](/assets/images/drougou.jpg)
 
 Dinos Psychos
 
-![null](/assets/images/psichosd_i-g.jpg)
+![null](/assets/images/dpsichos.jpg)
 
 Nikos Psychos
 
@@ -67,7 +65,7 @@ Nikos Psychos
 
 Daniel Profitis
 
-![null](/assets/images/profitisd-i-g.jpg)
+![null](/assets/images/profitisok.jpg)
 
 Lazaros Vassos
 
@@ -75,11 +73,11 @@ Lazaros Vassos
 
 Jennie Dokou
 
-![null](/assets/images/dokouj-i-g.jpg)
+![null](/assets/images/dokou.jpg)
 
 Marina Sorovou
 
-![null](/assets/images/sorovoum-i-g.jpg)
+![null](/assets/images/sorovouok.jpg)
 
 Vasilis Mylonas
 
@@ -87,4 +85,4 @@ Vasilis Mylonas
 
 Achilles Nasios
 
-![null](/assets/images/nasiosa_i-g.jpg)
+![null](/assets/images/nasiosa.jpg)
