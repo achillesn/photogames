@@ -25,7 +25,7 @@ Eugenia Aravantinou
 
 Rania Antypa
 
-![null](/assets/images/antypar_i_g.jpg)
+![null](/assets/images/antypa.jpg)
 
 Danai Vlachou
 
