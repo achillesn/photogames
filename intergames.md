@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intergames
-image: /assets/images/nasiosa_g6_07.1.jpg
+image: /assets/images/nasiosa_i-g.jpg
 ---
 - - -
 
