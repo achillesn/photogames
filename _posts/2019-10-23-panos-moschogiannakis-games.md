@@ -8,6 +8,8 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-The 9th Game - June 2019
+## The 9th Game 
 
-![](/assets/images/moschogiannakisp.jpg#full)
+_(June 2019)_
+
+![null](/assets/images/moschogiannakisp.jpg#full)
