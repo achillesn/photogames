@@ -81,7 +81,7 @@ Marina Sorovou
 
 Vasilis Mylonas
 
-![null](/assets/images/mylonasv-i-g.jpg)
+![null](/assets/images/mylonas.jpg)
 
 Achilles Nasios
 
