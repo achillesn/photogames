@@ -12,6 +12,10 @@ author: Achilles Nasios
 
 _(June 2019)_
 
+## Depression
+
+Light and dark impression and the illusion of expression.
+
 ![null](/assets/images/michaelidoum_pg1_01.jpg)
 
 ![null](/assets/images/michaelidoum_pg1_02.jpg)
