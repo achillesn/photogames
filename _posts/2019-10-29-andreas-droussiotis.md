@@ -12,32 +12,32 @@ author: Achilles Nasios
 
 _(June 2019)_
 
-![](/assets/images/droussa_pg1__01.jpg)
+![null](/assets/images/droussa_pg1__01.jpg)
 
-![](/assets/images/droussa_pg1__02.jpg)
+![null](/assets/images/droussa_pg1__02.jpg)
 
-![](/assets/images/droussa_pg1__03.jpg)
+![null](/assets/images/droussa_pg1__03.jpg)
 
-![](/assets/images/droussa_pg1__04.jpg)
+![null](/assets/images/droussa_pg1__04.jpg)
 
-![](/assets/images/droussa_pg1__05.jpg)
+![null](/assets/images/droussa_pg1__05.jpg)
 
-![](/assets/images/droussa_pg1__06.jpg)
+![null](/assets/images/droussa_pg1__06.jpg)
 
-![](/assets/images/droussa_pg1__07.jpg)
+![null](/assets/images/droussa_pg1__07.jpg)
 
-![](/assets/images/droussa_pg1__08.jpg)
+![null](/assets/images/droussa_pg1__08.jpg)
 
-![](/assets/images/droussa_pg1__09.jpg)
+![null](/assets/images/droussa_pg1__09.jpg)
 
-![](/assets/images/droussa_pg1__10.jpg)
+![null](/assets/images/droussa_pg1__10.jpg)
 
-![](/assets/images/droussa_pg1__11.jpg)
+![null](/assets/images/droussa_pg1__11.jpg)
 
-![](/assets/images/droussa_pg1__12.jpg)
+![null](/assets/images/droussa_pg1__12.jpg)
 
-![](/assets/images/droussa_pg1__13.jpg)
+![null](/assets/images/droussa_pg1__13.jpg)
 
-![](/assets/images/droussa_pg1__14.jpg)
+![null](/assets/images/droussa_pg1__14.jpg)
 
-![](/assets/images/droussa_pg1__15.jpg)
+![null](/assets/images/droussa_pg1__15.jpg)
