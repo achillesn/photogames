@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Theodora Zggoulou
+title: Theodora Zaggoulou (Games)
 description: The Paphos PhotoGame
 date: '2019-10-29T22:48:36+01:00'
 image: /assets/images/zaggouloud_pg_15.jpg
