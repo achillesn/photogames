@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tasos Koutsiaftis
+title: Tasos Koutsiaftis (Games)
 description: 6th Game
 date: '2018-04-30T22:41:04+03:00'
 image: /assets/images/koutsiaftis-09.jpg
