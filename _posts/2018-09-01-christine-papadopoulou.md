@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christine Papadopoulou
+title: Christine Papadopoulou (Games)
 description: The 7th Game
 date: '2018-09-01T01:03:24+02:00'
 image: /assets/images/nasiosa_g7_04.jpg
