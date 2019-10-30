@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rania Antypa
+title: Rania Antypa (Games)
 description: The 7th Game
 date: '2018-09-12T10:22:52+02:00'
 image: /assets/images/nasiosa_g7_12.jpg
@@ -8,7 +8,8 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-### The 7th Game 
+### The 7th Game
+
 _(June 2018)_
 
 ![null](/assets/images/antypag7_01.jpg)
