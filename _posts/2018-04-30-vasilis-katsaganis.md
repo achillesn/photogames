@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vasilis Katsaganis
+title: Vasilis Katsaganis (Games)
 description: 6th Game
 date: '2018-04-30T22:28:47+03:00'
 image: /assets/images/010_001.jpg
