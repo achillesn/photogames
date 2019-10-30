@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lazaros Vassos
+title: Lazaros Vassos (Games)
 description: The 7th Game
 date: '2018-08-30T18:00:00+02:00'
 image: /assets/images/nasiosa_g7_07.jpg
