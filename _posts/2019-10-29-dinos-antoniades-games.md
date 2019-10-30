@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The Paphos PhotoGame
 
-_(June 2019)_
+_(September 2019)_
 
 The eye fails to see what is. I dive into the pixels to deconstruct, in a world where rules have no place. The digital merges with souls and the familiar resurfaces in strange shapes and forms. In the end one wonders if truth can only exist inside of us.
 
