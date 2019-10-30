@@ -2,8 +2,8 @@
 layout: post
 title: Achilles Nasios (Games)
 description: Games
-date: '2019-10-24T00:41:00+02:00'
-image: /assets/images/nasiosa_g9_01.jpg
+date: '2019-10-30T02:00:00+01:00'
+image: /assets/images/nasiosa_pg_01.jpg
 tags:
   - Games
 author: Achilles Nasios
@@ -12,9 +12,43 @@ Through the years of studying the art of teaching, I gradually saw a new pedagog
 
 More about me: <a href="https://anikon.org/" target="_blank">anikon.org</a>
 
+### The Paphos Game
+
+_(September 2019)_
+
+![](/assets/images/nasiosa_pg_02.jpg)
+
+![](/assets/images/nasiosa_pg_03.jpg)
+
+![](/assets/images/nasiosa_pg_04.jpg)
+
+![](/assets/images/nasiosa_pg_05.jpg)
+
+![](/assets/images/nasiosa_pg_06.jpg)
+
+![](/assets/images/nasiosa_pg_07.jpg)
+
+![](/assets/images/nasiosa_pg_08.jpg)
+
+![](/assets/images/nasiosa_pg_09.jpg)
+
+![](/assets/images/nasiosa_pg_10.jpg)
+
+![](/assets/images/nasiosa_pg_11.jpg)
+
+![](/assets/images/nasiosa_pg_12.jpg)
+
+![](/assets/images/nasiosa_pg_13.jpg)
+
+![](/assets/images/nasiosa_pg_14.jpg)
+
+![](/assets/images/nasiosa_pg_15.jpg)
+
+![](/assets/images/nasiosa_pg_01.jpg)
+
 ### The 9th Game
 
-_(June 2019)
+_(June 2019)_
 
 ![null](/assets/images/nasiosa_g9_pres.jpg#full)
 
@@ -22,7 +56,7 @@ _(June 2019)
 
 ### The 8th Game (Oceanis)
 
-_(February 2019)
+_(February 2019)_
 
 ![null](/assets/images/nasiosa_g8_01.jpg)
 
