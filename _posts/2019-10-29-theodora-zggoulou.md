@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The Paphos PhotoGame
 
-_(June 2019)_
+_(September 2019)_
 
 ![null](/assets/images/zaggouloud_pg_01.jpg)
 
