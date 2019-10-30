@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maria Demetriou
+title: Maria Demetriou (Games)
 description: The Paphos PhotoGame
 date: '2019-10-30T13:01:09+01:00'
 image: /assets/images/demetrioum_pg1_11.jpg
