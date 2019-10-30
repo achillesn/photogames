@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The Paphos PhotoGame
 
-_(June 2019)_
+_(September 2019)_
 
 ![null](/assets/images/pashevai_pg1_01m.jpg)
 
