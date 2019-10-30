@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garyfalia Dimopoulou
+title: Garyfalia Dimopoulou (Games)
 description: The 7th Game
 date: '2018-09-01T00:26:48+02:00'
 image: /assets/images/nasiosa_g7_05.jpg
