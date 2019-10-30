@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anna Bouriti
+title: Anna Bouriti (Games)
 description: The 7th Game
 date: '2018-08-31T15:31:53+02:00'
 image: /assets/images/nasiosa_g7_02.jpg
