@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maria Kanata
+title: Maria Kanata (Games)
 description: The 7th Game
 date: '2018-09-01T01:10:28+02:00'
 image: /assets/images/nasiosa_g7_06.jpg
