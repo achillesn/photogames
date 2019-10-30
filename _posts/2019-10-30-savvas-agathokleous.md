@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Savvas Agathokleous
+title: Savvas Agathokleous (Games)
 description: The Paphos PhotoGame
 date: '2019-10-30T12:51:42+01:00'
 image: /assets/images/agathokleouss_pg_01.jpg
@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The Paphos PhotoGame
 
-_(June 2019)_
+_(September 2019)_
 
 ![null](/assets/images/agathokleouss_pg_01.jpg)
 
