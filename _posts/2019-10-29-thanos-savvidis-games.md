@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The Paphos PhotoGame
 
-_(June 2019)_
+_(September 2019)_
 
 Born in Pafos, 1972. Works as a deputy head-teacher in primary education. Doctorate degree in School Leadership and Multicultural Education. He is a member of the Cyprus Photographic Society since 2009. He participated in seminars and workshops by Nikos Economopoulos, Jason Eskenazi, Achilles Nasios, Platon Rivellis and others. He exhibited in group exhibitions in Cyprus, Spain, UK, Germany, Greece, Romania. His work has been published in ‘Inspired Eye’ and ‘Street Photographer Notebook’ magazines. He participated in international projects: “In & At” (2016), “HOME” (2017).
 
