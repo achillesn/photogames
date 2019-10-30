@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katerina Svoronou
+title: Katerina Svoronou (Games)
 description: The 7th Game
 date: '2018-09-01T01:05:00+02:00'
 image: /assets/images/nasiosa_g7_03.jpg
