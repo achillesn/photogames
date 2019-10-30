@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marcela Michailidou
+title: Marcela Michailidou (Games)
 description: The Paphos PhotoGame
 date: '2019-10-29T13:48:58+01:00'
 image: /assets/images/michaelidoum_pg1_15.jpg
@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The Paphos Photogame
 
-_(June 2019)_
+_(September 2019)_
 
 ## Depression
 
