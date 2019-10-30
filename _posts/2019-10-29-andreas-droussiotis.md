@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andreas Droussiotis
+title: Andreas Droussiotis (Games)
 description: The Paphos PhotoGame
 date: '2019-10-29T18:42:21+01:00'
 image: /assets/images/droussa_pg1__01.jpg
@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The Paphos PhotoGame
 
-_(June 2019)_
+_(September 2019)_
 
 ![null](/assets/images/droussa_pg1__01.jpg)
 
