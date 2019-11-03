@@ -16,8 +16,6 @@ _Light battling with darkness gives us amazing images..._
 
 ![null](/assets/images/symeoud_pg1_01.jpg.jpg)
 
-![null](/assets/images/symeoud_pg1_02.jpg.jpg)
-
 ![null](/assets/images/symeoud_pg1_03.jpg.jpg)
 
 ![null](/assets/images/symeoud_pg1_04.jpg.jpg)
