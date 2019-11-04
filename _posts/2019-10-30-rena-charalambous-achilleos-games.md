@@ -3,7 +3,7 @@ layout: post
 title: Rena Charalambous Achilleos (Games)
 description: The Paphos PhotoGame
 date: '2019-10-30T13:10:59+01:00'
-image: /assets/images/achilleos_pg1_06.jpg
+image: /assets/images/achilleos_pg1_15.jpg
 tags:
   - Games
 author: Achilles Nasios
