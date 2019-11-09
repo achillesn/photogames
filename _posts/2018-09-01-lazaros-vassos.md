@@ -2,12 +2,30 @@
 layout: post
 title: Lazaros Vassos (Games)
 description: The 7th Game
-date: '2018-08-30T18:00:00+02:00'
-image: /assets/images/nasiosa_g7_07.jpg
+date: '2019-11-07T18:00:00+01:00'
+image: /assets/images/vassosl_g10_06.jpg
 tags:
   - Games
 author: Achilles Nasios
 ---
+# The 10th PhotoGame
+
+_(September 2019)_
+
+![](/assets/images/vassosl_g10_01.jpg)
+
+![](/assets/images/vassosl_g10_02.jpg)
+
+![](/assets/images/vassosl_g10_03.jpg)
+
+![](/assets/images/vassosl_g10_04.jpg)
+
+![](/assets/images/vassosl_g10_05.jpg)
+
+![](/assets/images/vassosl_g10_06.jpg)
+
+
+
 ### The 7th Game -
 
 _(June 2018)_
