@@ -3,11 +3,27 @@ layout: post
 title: Rania Antypa (Games)
 description: The 7th Game
 date: '2018-09-12T10:22:52+02:00'
-image: /assets/images/nasiosa_g7_12.jpg
+image: /assets/images/antypar_g10_01.jpg
 tags:
   - Games
 author: Achilles Nasios
 ---
+# The 10th PhotoGame
+
+_(September 2019)_
+
+![](/assets/images/antypar_g10_01.jpg)
+
+![](/assets/images/antypar_g10_02.jpg)
+
+![](/assets/images/antypar_g10_03.jpg)
+
+![](/assets/images/antypar_g10_04.jpg)
+
+![](/assets/images/antypar_g10_05.jpg)
+
+![](/assets/images/antypar_g10_06.jpg)
+
 ### The 7th Game
 
 _(June 2018)_
