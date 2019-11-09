@@ -15,6 +15,8 @@ image: /assets/images/nasios04.3.jpg
 
 [Aleka Iakovidou](https://photogames.tk/aleka-iakovidou/)
 
+[Andreas Droussiotis](https://photogames.tk/andreas-droussiotis/)
+
 [Angeliki Drougou](https://photogames.tk/angeliki-drougou/)
 
 [Anna Despotidi](https://photogames.tk/anna-despotidi/)
@@ -56,6 +58,10 @@ image: /assets/images/nasios04.3.jpg
 #### G
 
 [Garyfalia Dimopoulou](https://photogames.tk/garyfalia-dimopoulou/)
+
+#### I
+
+[Ivet Pasheva](https://photogames.tk/ivet-pasheva-games/)
 
 #### J
 
@@ -110,6 +116,8 @@ image: /assets/images/nasios04.3.jpg
 [Tasos Koutsiaftis](https://photogames.tk/tasos-koutsiaftis/)
 
 [Thanos Savvidis](https://photogames.tk/thanos-savvidis-games/)
+
+[Theodora Zaggoulou](https://photogames.tk/theodora-zggoulou/)
 
 #### V
 
