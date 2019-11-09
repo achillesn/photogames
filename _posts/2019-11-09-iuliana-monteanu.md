@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iuliana Monteanu
+title: Iuliana Monteanu (Games)
 description: The 10th PhotoGame
 date: '2019-11-05T00:00:00+01:00'
 image: /assets/images/munteanui_g10_01.jpg
