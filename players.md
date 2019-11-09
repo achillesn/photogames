@@ -3,11 +3,11 @@ layout: page
 title: Players
 image: /assets/images/nasios04.3.jpg
 ---
--------------
+- - -
 
 ## **GAMES**
 
--------------
+- - -
 
 #### A
 
@@ -17,8 +17,11 @@ image: /assets/images/nasios04.3.jpg
 
 [Angeliki Drougou](https://photogames.tk/angeliki-drougou/)
 
+[Anna Despotidi](https://photogames.tk/anna-despotidi/)
+
 [Anna Bouriti](https://photogames.tk/anna-bouriti/)
 
+[Antonia Polyzou](https://photogames.tk/antonia-polyzou-games/)
 
 #### C
 
@@ -34,11 +37,17 @@ image: /assets/images/nasios04.3.jpg
 
 [Dinos Psychos](https://photogames.tk/dinos-psychos-games/)
 
+[Dimitris Symeou](https://photogames.tk/dimitris-symeou/)
+
 #### E
 
 [Efi Grimani](https://photogames.tk/efi-grimani/)
 
 [Eugenia Aravantinou](https://photogames.tk/eugenia-aravantinou-games/)
+
+#### F
+
+[Foteini Palieraki](https://photogames.tk/foteini-palieraki-games/)
 
 #### G
 
@@ -54,6 +63,8 @@ image: /assets/images/nasios04.3.jpg
 
 [Katerina Svoronou](https://photogames.tk/katerina-svoronou/)
 
+[Konstantinos Zarifis](https://photogames.tk/konstantinos-zarifis/)
+
 #### L
 
 [Lazaros Vassos](https://photogames.tk/lazaros-vassos/)
@@ -68,15 +79,23 @@ image: /assets/images/nasios04.3.jpg
 
 [Nikos Konidaris](https://photogames.tk/nikos-konidaris/)
 
+[Nikos Nikopoulos](https://photogames.tk/nikos-nikopoulos/)
+
 #### P
 
 [Panos Lambrakis](https://photogames.tk/panos-lamprakis/)
+
+[Panos Moschogiannakis](https://photogames.tk/panos-moschogiannakis-games/)
 
 #### R
 
 [Rania Antypa](https://photogames.tk/rania-antypa/)
 
 #### T
+
+[Takis Batsaris](https://photogames.tk/takis-batsaris-games/)
+
+[Tasos Biris](https://photogames.tk/tasos-biris-games/)
 
 [Tasos Koutsiaftis](https://photogames.tk/tasos-koutsiaftis/)
 
@@ -90,13 +109,11 @@ image: /assets/images/nasios04.3.jpg
 
 [Yiota Tsiokou](https://photogames.tk/yiota-tsiokou/)
 
----------------
+- - -
 
 ## **STORIES**
 
----------------
-
-
+- - -
 
 #### A
 
@@ -146,8 +163,8 @@ image: /assets/images/nasios04.3.jpg
 
 [Yiota Tsiokou](https://photogames.tk/yiota-tsiokou/)
 
--------------
+- - -
 
 ## **interGAMES**
 
--------------
+- - -
