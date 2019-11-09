@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nelly Kritikopoulou
+title: Nelly Kritikopoulou (Games)
 description: The 10th PhotoGame
 date: '2019-11-04T12:38:56+01:00'
 image: /assets/images/kritikn_g10_01.jpg
