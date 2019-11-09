@@ -25,6 +25,8 @@ image: /assets/images/nasios04.3.jpg
 
 [Antonia Polyzou](https://photogames.tk/antonia-polyzou-games/)
 
+[Areti Alexandraki](https://photogames.tk/areti-alexandraki/)
+
 #### C
 
 [Christine Papadopoulou](https://photogames.tk/christine-papadopoulou/)
@@ -64,6 +66,8 @@ image: /assets/images/nasios04.3.jpg
 #### I
 
 [Ivet Pasheva](https://photogames.tk/ivet-pasheva-games/)
+
+[Iouliana Monteanu](https://photogames.tk/iuliana-monteanu/)
 
 #### J
 
