@@ -59,6 +59,8 @@ image: /assets/images/nasios04.3.jpg
 
 [Garyfalia Dimopoulou](https://photogames.tk/garyfalia-dimopoulou/)
 
+[Giorgos Agathokleous](https://photogames.tk/giorgos-agathokleous-games/)
+
 #### I
 
 [Ivet Pasheva](https://photogames.tk/ivet-pasheva-games/)
@@ -83,11 +85,15 @@ image: /assets/images/nasios04.3.jpg
 
 [Marcela Michailidou](https://photogames.tk/marcela-michailidou/)
 
+[Maria Demetriou](https://photogames.tk/maria-demetriou/)
+
 [Maria Kanata](https://photogames.tk/maria-kanata/)
 
 [Marina Sorovou](https://photogames.tk/marina-sorovou/)
 
 #### N
+
+[Nelly Kritikopoulou](https://photogames.tk/nelly-kritikopoulou/)
 
 [Nikos Konidaris](https://photogames.tk/nikos-konidaris/)
 
@@ -103,7 +109,11 @@ image: /assets/images/nasios04.3.jpg
 
 [Rania Antypa](https://photogames.tk/rania-antypa/)
 
+[Rena Charalambous-Achilleos](https://photogames.tk/rena-charalambous-achilleos-games/)
+
 #### S
+
+[Savvas Agathokleous](https://photogames.tk/savvas-agathokleous/)
 
 [Simos Charalambous](https://photogames.tk/simos-charalambous-games/)
 
