@@ -37,9 +37,13 @@ image: /assets/images/nasios04.3.jpg
 
 [Dinos Psychos](https://photogames.tk/dinos-psychos-games/)
 
+[Dinos Antoniades](https://photogames.tk/dinos-antoniades-games/)
+
 [Dimitris Symeou](https://photogames.tk/dimitris-symeou/)
 
 #### E
+
+[Eirini Bournou](https://photogames.tk/eirini-bournou-games/)
 
 [Efi Grimani](https://photogames.tk/efi-grimani/)
 
@@ -71,6 +75,8 @@ image: /assets/images/nasios04.3.jpg
 
 #### M
 
+[Marcela Michailidou](https://photogames.tk/marcela-michailidou/)
+
 [Maria Kanata](https://photogames.tk/maria-kanata/)
 
 [Marina Sorovou](https://photogames.tk/marina-sorovou/)
@@ -91,6 +97,10 @@ image: /assets/images/nasios04.3.jpg
 
 [Rania Antypa](https://photogames.tk/rania-antypa/)
 
+#### S
+
+[Simos Charalambous](https://photogames.tk/simos-charalambous-games/)
+
 #### T
 
 [Takis Batsaris](https://photogames.tk/takis-batsaris-games/)
@@ -98,6 +108,8 @@ image: /assets/images/nasios04.3.jpg
 [Tasos Biris](https://photogames.tk/tasos-biris-games/)
 
 [Tasos Koutsiaftis](https://photogames.tk/tasos-koutsiaftis/)
+
+[Thanos Savvidis](https://photogames.tk/thanos-savvidis-games/)
 
 #### V
 
