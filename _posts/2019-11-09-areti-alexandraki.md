@@ -12,14 +12,14 @@ author: Achilles Nasios
 
 _(September 2019)_
 
-![](/assets/images/alexa_g10_03.jpg)
+![null](/assets/images/alexa_g10_03.jpg)
 
-![](/assets/images/alexa_g10_05.jpg)
+![null](/assets/images/alexa_g10_05.jpg)
 
-![](/assets/images/alexa_g10_02.jpg)
+![null](/assets/images/alexa_g10_02.jpg)
 
-![](/assets/images/alexa_g10_04.jpg)
+![null](/assets/images/alexa_g10_04.jpg)
 
-![](/assets/images/alexa_g10_06.jpg)
+![null](/assets/images/alexa_g10_06.jpg)
 
-![](/assets/images/alexa_g10_01.jpg)
+![null](/assets/images/alexa_g10_01.jpg)
