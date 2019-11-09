@@ -2,8 +2,8 @@
 layout: post
 title: Achilles Nasios (Games)
 description: Games
-date: '2019-10-30T14:00:00+01:00'
-image: /assets/images/nasiosa_pg_01.jpg
+date: '2019-11-09T14:00:00+01:00'
+image: /assets/images/nasiosa_g10_01.jpg
 tags:
   - Games
 author: Achilles Nasios
@@ -11,6 +11,24 @@ author: Achilles Nasios
 Through the years of studying the art of teaching, I gradually saw a new pedagogic method of teaching photography emerging. Inspired from the deep understanding that Vilém Flusser suggested in combination with Rudolf Steiner’s and Pär Ahlbom’s pedagogics I reached the point of perceiving and creating the Photo Games.
 
 More about me: <a href="https://anikon.org/" target="_blank">anikon.org</a>
+
+# The 10th PhotoGame
+
+_(September 2019)_
+
+![](/assets/images/nasiosa_g10_01.jpg)
+
+![](/assets/images/nasiosa_g10_02.jpg)
+
+![](/assets/images/nasiosa_g10_03.jpg)
+
+![](/assets/images/nasiosa_g10_04.jpg)
+
+![](/assets/images/nasiosa_g10_05.jpg)
+
+![](/assets/images/nasiosa_g10_06.jpg)
+
+
 
 ### The Paphos Game
 
