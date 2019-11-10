@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-The 8th Game (Oceanis)-_(February 2019)._
+The 8th Game (Oceanis)-(February 2019).
 
 There is color and shadow and light. I think that sometimes they speak to be understood, and sometimes they sing, to be felt. I always took pictures. I recall, I learned to swim, then to cycle, then to take pictures. Sometimes we cycle to get from point A to point B. Sometimes we swim to reach across. Usually we cycle and we swim, simply because it’s delightful to balance and to float. Sometimes I take pictures to get myself from point A to point B, or in order to reach across to other people. Mainly I take pictures as I steer my existence – balancing  through shadows, floating among light and colors.
 
