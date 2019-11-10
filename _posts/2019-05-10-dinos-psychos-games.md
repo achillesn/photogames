@@ -8,6 +8,8 @@ tags:
   - Games
 author: Achilles Nasios
 ---
+The 8th Game (Oceanis)-_(February 2019)_
+
 It was the technological progress of cameras and their ever increasing capabilities of accurately capturing an image that initially drew me to photography.
 Though, as I delved more into it, my attention started steering towards all the elements of the image that technology alone was not enough  to unveil. 
 
@@ -30,7 +32,6 @@ _(February 2019)_
 ![null](/assets/images/psychosd_g8_05.jpg)
 
 ![null](/assets/images/psichoss2-transpresent.jpg#full)
-
 
 ### The 6th Game
 
