@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-The 8th Game (Oceanis)-_(February 2019)._
+The 8th Game (Oceanis)-(February 2019).
 
 Born and raised in Thessaloniki, where she lives until today. She works as an embroidery designer and creates homeware collections. Amateur photographer, member of “F” photography group since 2013. Recent member of the Photography Center of Thessaloniki and participant in Achilles Nasios’s project, “Photo Games”. She has presented her work at Photovision 2016/ 2017, at the Contrast - Antithesis Festival 2014/2017, and Aspects of Balkan Photography and has participated in several group exhibitions.
 
