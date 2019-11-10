@@ -8,6 +8,8 @@ tags:
   - Games
 author: Achilles Nasios
 ---
+The 8th Game (Oceanis)-_(February 2019)._
+
 My dream, from the early stages of my life, was to create pictures.
 Starting with analog photography and later experimenting with digital possibilities, in agony to re-define my self, I lost the dream.
 It feels like that through the photogames I started to be reconnected to this dream again. I started to search deeper and that´s fun. Not always easy, but fun.
@@ -27,8 +29,6 @@ _(February 2019)_
 ![null](/assets/images/profitis_g8_04.jpg)
 
 ![null](/assets/images/profitis_g8_05.jpg)
-
-
 
 ### The 6th Game
 
