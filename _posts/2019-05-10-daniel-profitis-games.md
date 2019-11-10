@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-The 8th Game (Oceanis)-_(February 2019)._
+The 8th Game (Oceanis)-(February 2019).
 
 My dream, from the early stages of my life, was to create pictures.
 Starting with analog photography and later experimenting with digital possibilities, in agony to re-define my self, I lost the dream.
