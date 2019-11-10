@@ -9,6 +9,7 @@ tags:
 author: Achilles Nasios
 ---
 
+The 8th Game (Oceanis)-(February 2019).
 I live and work in Athens. Several years ago I have attended photography-seminars organized by Fotis Kazazis , Nikos Dimolitsas and Nikos Andrikopoulos and I have taken part in group photo exhibitions. My occupation with photography fills me with joy and enthusiasm.
 
 ![null](/assets/images/sorovou_g8_pres.jpg#full)
