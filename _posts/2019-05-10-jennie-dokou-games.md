@@ -8,6 +8,8 @@ tags:
   - Games
 author: Achilles Nasios
 ---
+The 8th Game (Oceanis)-_(February 2019)._
+
 Born and raised in Thessaloniki, where she lives until today. She works as an embroidery designer and creates homeware collections. Amateur photographer, member of “F” photography group since 2013. Recent member of the Photography Center of Thessaloniki and participant in Achilles Nasios’s project, “Photo Games”. She has presented her work at Photovision 2016/ 2017, at the Contrast - Antithesis Festival 2014/2017, and Aspects of Balkan Photography and has participated in several group exhibitions.
 
 ![null](/assets/images/dokou_g8_pres.jpg#full)
@@ -134,26 +136,26 @@ _(April 2015_
 
 ![null](/assets/images/nasios01.1.jpg)
 
-![](/assets/images/nasios01.2.jpg)
+![null](/assets/images/nasios01.2.jpg)
 
-![](/assets/images/nasios01.3.jpg)
+![null](/assets/images/nasios01.3.jpg)
 
-![](/assets/images/nasios01.4.jpg)
+![null](/assets/images/nasios01.4.jpg)
 
-![](/assets/images/nasios01.5.jpg)
+![null](/assets/images/nasios01.5.jpg)
 
-![](/assets/images/nasios01.6.jpg)
+![null](/assets/images/nasios01.6.jpg)
 
-![](/assets/images/nasios01.7.jpg)
+![null](/assets/images/nasios01.7.jpg)
 
-![](/assets/images/nasios01.8.jpg)
+![null](/assets/images/nasios01.8.jpg)
 
-![](/assets/images/nasios01.9.jpg)
+![null](/assets/images/nasios01.9.jpg)
 
-![](/assets/images/nasios01.10.jpg)
+![null](/assets/images/nasios01.10.jpg)
 
-![](/assets/images/nasios01.11.jpg)
+![null](/assets/images/nasios01.11.jpg)
 
-![](/assets/images/nasios01.12.jpg)
+![null](/assets/images/nasios01.12.jpg)
 
-![](/assets/images/nasios01.13.jpg)
+![null](/assets/images/nasios01.13.jpg)
