@@ -14,30 +14,30 @@ author: Achilles Nasios
 
 Behind the eye of the lens, an observer. The machine captures a momentary inner thought using the small amount of available light to draw the forms and lines of that brief moment.
 
-![](/assets/images/theophiloue_pg_01.jpg)
+![null](/assets/images/theophiloue_pg_01.jpg)
 
-![](/assets/images/theophiloue_pg_02.jpg)
+![null](/assets/images/theophiloue_pg_02.jpg)
 
-![](/assets/images/theophiloue_pg_03.jpg)
+![null](/assets/images/theophiloue_pg_03.jpg)
 
-![](/assets/images/theophiloue_pg_04.jpg)
+![null](/assets/images/theophiloue_pg_04.jpg)
 
-![](/assets/images/theophiloue_pg_05.jpg)
+![null](/assets/images/theophiloue_pg_05.jpg)
 
-![](/assets/images/theophiloue_pg_06.jpg)
+![null](/assets/images/theophiloue_pg_06.jpg)
 
-![](/assets/images/theophiloue_pg_07.jpg)
+![null](/assets/images/theophiloue_pg_07.jpg)
 
-![](/assets/images/theophiloue_pg_08.jpg)
+![null](/assets/images/theophiloue_pg_08.jpg)
 
-![](/assets/images/theophiloue_pg_09.jpg)
+![null](/assets/images/theophiloue_pg_09.jpg)
 
-![](/assets/images/theophiloue_pg_10.jpg)
+![null](/assets/images/theophiloue_pg_10.jpg)
 
-![](/assets/images/theophiloue_pg_11.jpg)
+![null](/assets/images/theophiloue_pg_11.jpg)
 
-![](/assets/images/theophiloue_pg_12.jpg)
+![null](/assets/images/theophiloue_pg_12.jpg)
 
-![](/assets/images/theophiloue_pg_13.jpg)
+![null](/assets/images/theophiloue_pg_13.jpg)
 
-![](/assets/images/theophiloue_pg_14.jpg)
+![null](/assets/images/theophiloue_pg_14.jpg)
