@@ -17,13 +17,19 @@ Until then… keep on playing.
 
 - - -
 
+Z1- Evaggeli Betsa
+
+![](/assets/images/δίπτυχο08.betsae.jpg)
+
+![](/assets/images/triptyxo.05.betsae.jpg)
+
+Z1- Ilias Georgouleas
+
 ![null](/assets/images/pg10_02d-georguleaas-.jpg)
 
+![](/assets/images/01georgouleas-triptixo.jpg)
 
-
-
-
-Christina Karamanli
+Z1- Christina Karamanli
 
 ![null](/assets/images/21.jpg)
 
