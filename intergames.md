@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zen-PhotoGames
-image: /assets/images/z1_3_04.nasiosa2.jpg
+image: /assets/images/z2_02.nasiosa.jpg
 ---
 - - -
 
