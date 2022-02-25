@@ -7,7 +7,8 @@ image: /assets/images/z2_02.nasiosa.jpg
 
 ## **Zen-PhotoGames**
 
-Here you can see a selection of the results of the first cycle of the course **"Zen and the Art of Photography"**, organised by the **Hocus Photus** Network.
+Here you can see a selection of the results of the first cycle of the course \
+**"Zen and the Art of Photography"**, organised by the **Hocus Photus** Network.
 
 The study is based on games which are played and studied during the weekly meetings of the participants.  The games are played simultaneously and all participants follow exactly the same rules. The aim is always to formulate a visual proposition which is derived from the experiential process in which each player is involved.
 
