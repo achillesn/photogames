@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intergames
+title: Zen-PhotoGames
 image: /assets/images/nasiosa_i-g.jpg
 ---
 - - -
