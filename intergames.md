@@ -17,13 +17,17 @@ Until then… keep on playing.
 
 - - -
 
-![null](/assets/images/21.jpg)
+![null](/assets/images/pg10_02d-georguleaas-.jpg)
+
+
+
+
 
 Christina Karamanli
 
 ![null](/assets/images/21.jpg)
 
-![null](/assets/images/21.jpg)
+![null](/assets/images/22.jpg)
 
 - - -
 
