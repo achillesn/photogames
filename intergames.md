@@ -5,9 +5,23 @@ image: /assets/images/nasiosa_i-g.jpg
 ---
 - - -
 
+## **Zen-PhotoGames**
+
+Here you can see a selection of the results of the first cycle of the course** "Zen and the Art of Photography", **organised by the** Hocus Photus **Network.
+
+The study is based on games which are played and studied during the weekly meetings of the participants.  The games are played simultaneously and all participants follow exactly the same rules. The aim is always to formulate a visual proposition which is derived from the experiential process in which each player is involved.
+
+We hope that you will enjoy this small sample of our research, as we did enjoy the process which revealed them to us.
+
+Until then… keep on playing.
+
+- - -
+
+- - -
+
 ## **INTERGAMES**
 
-These games are designed to be played on-line, and during them multifaceted ways of learning and knowledge are gradually growing.
+These are photographic games designed to be played online, through which participants are able to actively participate in shaping a series of unexpected outcomes. During them multifaceted ways of learning and knowledge are gradually growing.
 
 We hope that you will enjoy this small sample of our research, as we did enjoy the process which revealed them to us.
 
