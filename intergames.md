@@ -68,9 +68,9 @@ Until then… keep on playing.
 
 **Nelli Kritikopoulou**
 
-![](/assets/images/d05_νέλλη-κρητικοπούλου.jpg)
+![null](/assets/images/d05_νέλλη-κρητικοπούλου.jpg)
 
-![](/assets/images/05_νέλλη-κρητικοπούλου.jpg)
+![null](/assets/images/05_νέλλη-κρητικοπούλου.jpg)
 
 **Evaggeli Mpetsa**
 
@@ -80,15 +80,15 @@ Until then… keep on playing.
 
 **Nikos Sinatsakis**
 
-![](/assets/images/d05_sinatsakisn.jpg)
+![null](/assets/images/d05_sinatsakisn.jpg)
 
-![](/assets/images/trip4.jpg)
+![null](/assets/images/trip4.jpg)
 
 **Yannis Rousounelos**
 
-![](/assets/images/d05_rousounelosy.jpg)
+![null](/assets/images/d05_rousounelosy.jpg)
 
-![](/assets/images/d10_rousounelosy.jpg)
+![null](/assets/images/d10_rousounelosy.jpg)
 
 **Achilles Nasios**
 
