@@ -18,17 +18,23 @@ Until then… keep on playing.
 
 - - -
 
-Z1- Evaggeli Betsa
+**George Koutsouvelis**
 
-![](/assets/images/δίπτυχο08.betsae.jpg)
+![](/assets/images/pg_9_koutsouvelisg_3.jpg)
 
-![](/assets/images/triptyxo.05.betsae.jpg)
+![](/assets/images/triptych_4b.jpg)
+
+**Evaggeli Betsa**
+
+![null](/assets/images/δίπτυχο08.betsae.jpg)
+
+![null](/assets/images/triptyxo.05.betsae.jpg)
 
 Z1- Ilias Georgouleas
 
 ![null](/assets/images/pg10_02d-georguleaas-.jpg)
 
-![](/assets/images/01georgouleas-triptixo.jpg)
+![null](/assets/images/01georgouleas-triptixo.jpg)
 
 Z1- Christina Karamanli
 
