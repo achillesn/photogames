@@ -18,6 +18,14 @@ Until then… keep on playing.
 
 - - -
 
+
+
+**Elena Gkountara**
+
+![](/assets/images/pg06_gkountarae.jpg)
+
+![](/assets/images/triptyph_07_gkountarae.jpg)
+
 **George Koutsouvelis**
 
 ![](/assets/images/pg_9_koutsouvelisg_3.jpg)
