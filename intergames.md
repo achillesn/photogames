@@ -30,13 +30,13 @@ Until then… keep on playing.
 
 ![null](/assets/images/triptyxo.05.betsae.jpg)
 
-Z1- Ilias Georgouleas
+**Ilias Georgouleas**
 
 ![null](/assets/images/pg10_02d-georguleaas-.jpg)
 
 ![null](/assets/images/01georgouleas-triptixo.jpg)
 
-Z1- Christina Karamanli
+**Christina Karamanli**
 
 ![null](/assets/images/21.jpg)
 
