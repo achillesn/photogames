@@ -18,25 +18,17 @@ Until then… keep on playing.
 
 - - -
 
+**Areti Alexandraki**
 
+![null](/assets/images/d08_alexandrakia.jpg)
 
-**Elena Gkountara**
+![null](/assets/images/t8_alexandrakia.jpg)
 
-![](/assets/images/pg06_gkountarae.jpg)
+**Nasos Vassilogiannis**
 
-![](/assets/images/triptyph_07_gkountarae.jpg)
+![null](/assets/images/d11_vassiloyannisn.jpg)
 
-**George Koutsouvelis**
-
-![](/assets/images/pg_9_koutsouvelisg_3.jpg)
-
-![](/assets/images/triptych_4b.jpg)
-
-**Evaggeli Betsa**
-
-![null](/assets/images/δίπτυχο08.betsae.jpg)
-
-![null](/assets/images/triptyxo.05.betsae.jpg)
+![null](/assets/images/tr06_vassiloyannisn.jpg)
 
 **Ilias Georgouleas**
 
@@ -44,11 +36,65 @@ Until then… keep on playing.
 
 ![null](/assets/images/01georgouleas-triptixo.jpg)
 
+**Elena Gkountara**
+
+![null](/assets/images/pg06_gkountarae.jpg)
+
+![null](/assets/images/triptyph_07_gkountarae.jpg)
+
+**Eva Kalpadaki**
+
+![null](/assets/images/d06_kalpadakie.jpg)
+
+![null](/assets/images/triptych09_kalpadakie.jpg)
+
 **Christina Karamanli**
 
 ![null](/assets/images/21.jpg)
 
 ![null](/assets/images/22.jpg)
+
+**Dimitra Kitsiou**
+
+![null](/assets/images/d10_kitsioud.jpg)
+
+![null](/assets/images/z2_kitsioud_triptych_09.jpg)
+
+**George Koutsouvelis**
+
+![null](/assets/images/pg_9_koutsouvelisg_3.jpg)
+
+![null](/assets/images/triptych_4b.jpg)
+
+**Nelli Kritikopoulou**
+
+![](/assets/images/d05_νέλλη-κρητικοπούλου.jpg)
+
+![](/assets/images/05_νέλλη-κρητικοπούλου.jpg)
+
+**Evaggeli Mpetsa**
+
+![null](/assets/images/δίπτυχο08.betsae.jpg)
+
+![null](/assets/images/triptyxo.05.betsae.jpg)
+
+**Nikos Sinatsakis**
+
+![](/assets/images/d05_sinatsakisn.jpg)
+
+![](/assets/images/trip4.jpg)
+
+**Yannis Rousounelos**
+
+![](/assets/images/d05_rousounelosy.jpg)
+
+![](/assets/images/d10_rousounelosy.jpg)
+
+**Achilles Nasios**
+
+![null](/assets/images/z2_06.nasiosa.jpg)
+
+![null](/assets/images/z1_3_04.nasiosa.jpg)
 
 - - -
 
