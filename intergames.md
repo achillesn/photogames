@@ -132,74 +132,74 @@ Until then… keep on playing.
 
 - - -
 
-Akis Christou
+**Akis Christou**
 
 ![null](/assets/images/christou.jpg)
 
-Eugenia Aravantinou
+**Eugenia Aravantinou**
 
 ![null](/assets/images/aravantinou.jpg)
 
-Rania Antypa
+**Rania Antypa**
 
 ![null](/assets/images/antypa.jpg)
 
-Danai Vlachou
+**Danai Vlachou**
 
 ![null](/assets/images/vlachou.jpg)
 
-Giorgos Bolanos
+**Giorgos Bolanos**
 
 ![null](/assets/images/bolanos.jpg)
 
-Tasos Biris
+**Tasos Biris**
 
 ![null](/assets/images/biris.jpg)
 
-Louloudia Gredi
+**Louloudia Gredi**
 
 ![null](/assets/images/gredilou.jpg)
 
-Yiota Tsokou
+**Yiota Tsokou**
 
 ![null](/assets/images/tsokou.jpg)
 
-Kalliopi Katsidonioti
+**Kalliopi Katsidonioti**
 
 ![null](/assets/images/katsidonioti.jpg)
 
-Angeliki Drougou
+**Angeliki Drougou**
 
 ![null](/assets/images/drougou.jpg)
 
-Dinos Psychos
+**Dinos Psychos**
 
 ![null](/assets/images/dpsichos.jpg)
 
-Nikos Psychos
+**Nikos Psychos**
 
 ![null](/assets/images/psichosn_i-g.jpg)
 
-Daniel Profitis
+**Daniel Profitis**
 
 ![null](/assets/images/profitisok.jpg)
 
-Lazaros Vassos
+**Lazaros Vassos**
 
 ![null](/assets/images/vassosl-i-g.jpg)
 
-Jennie Dokou
+**Jennie Dokou**
 
 ![null](/assets/images/dokou.jpg)
 
-Marina Sorovou
+**Marina Sorovou**
 
 ![null](/assets/images/sorovouok.jpg)
 
-Vasilis Mylonas
+**Vasilis Mylonas**
 
 ![null](/assets/images/mylonas.jpg)
 
-Achilles Nasios
+**Achilles Nasios**
 
 ![null](/assets/images/nasiosa.jpg)
