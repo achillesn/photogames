@@ -20,7 +20,7 @@ Until then… keep on playing.
 
 - - -
 
-**Areti Alexandraki**
+* **Areti Alexandraki**
 
 ![null](/assets/images/d08_alexandrakia.jpg)
 
@@ -28,7 +28,7 @@ Until then… keep on playing.
 
 - - -
 
-**Nasos Vassilogiannis**
+* **Nasos Vassilogiannis**
 
 ![null](/assets/images/d11_vassiloyannisn.jpg)
 
@@ -36,7 +36,7 @@ Until then… keep on playing.
 
 - - -
 
-**Ilias Georgouleas**
+* **Ilias Georgouleas**
 
 ![null](/assets/images/pg10_02d-georguleaas-.jpg)
 
@@ -44,7 +44,7 @@ Until then… keep on playing.
 
 - - -
 
-**Elena Gkountara**
+* **Elena Gkountara**
 
 ![null](/assets/images/pg06_gkountarae.jpg)
 
@@ -52,7 +52,7 @@ Until then… keep on playing.
 
 - - -
 
-**Eva Kalpadaki**
+* **Eva Kalpadaki**
 
 ![null](/assets/images/d06_kalpadakie.jpg)
 
@@ -60,7 +60,7 @@ Until then… keep on playing.
 
 - - -
 
-**Christina Karamanli**
+* **Christina Karamanli**
 
 ![null](/assets/images/21.jpg)
 
@@ -68,7 +68,7 @@ Until then… keep on playing.
 
 - - -
 
-**Dimitra Kitsiou**
+* **Dimitra Kitsiou**
 
 ![null](/assets/images/d10_kitsioud.jpg)
 
@@ -76,7 +76,7 @@ Until then… keep on playing.
 
 - - -
 
-**George Koutsouvelis**
+* **George Koutsouvelis**
 
 ![null](/assets/images/pg_9_koutsouvelisg_3.jpg)
 
@@ -84,7 +84,7 @@ Until then… keep on playing.
 
 - - -
 
-**Nelli Kritikopoulou**
+* **Nelli Kritikopoulou**
 
 ![null](/assets/images/d05_νέλλη-κρητικοπούλου.jpg)
 
@@ -92,7 +92,7 @@ Until then… keep on playing.
 
 - - -
 
-**Evaggeli Mpetsa**
+* **Evaggeli Mpetsa**
 
 ![null](/assets/images/δίπτυχο08.betsae.jpg)
 
@@ -100,7 +100,7 @@ Until then… keep on playing.
 
 - - -
 
-**Nikos Sinatsakis**
+* **Nikos Sinatsakis**
 
 ![null](/assets/images/d05_sinatsakisn.jpg)
 
@@ -108,7 +108,7 @@ Until then… keep on playing.
 
 - - -
 
-**Yannis Rousounelos**
+* **Yannis Rousounelos**
 
 ![null](/assets/images/d05_rousounelosy.jpg)
 
@@ -116,7 +116,7 @@ Until then… keep on playing.
 
 - - -
 
-**Achilles Nasios**
+* **Achilles Nasios**
 
 ![null](/assets/images/z2_06.nasiosa.jpg)
 
