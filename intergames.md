@@ -5,7 +5,7 @@ image: /assets/images/z2_02.nasiosa.jpg
 ---
 - - -
 
-## **Zen-PhotoGames **
+## Zen-PhotoGames
 
 _(2021-2022)_
 
