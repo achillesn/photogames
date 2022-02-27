@@ -24,11 +24,15 @@ Until then… keep on playing.
 
 ![null](/assets/images/t8_alexandrakia.jpg)
 
+- - -
+
 **Nasos Vassilogiannis**
 
 ![null](/assets/images/d11_vassiloyannisn.jpg)
 
 ![null](/assets/images/tr06_vassiloyannisn.jpg)
+
+- - -
 
 **Ilias Georgouleas**
 
@@ -36,11 +40,15 @@ Until then… keep on playing.
 
 ![null](/assets/images/01georgouleas-triptixo.jpg)
 
+- - -
+
 **Elena Gkountara**
 
 ![null](/assets/images/pg06_gkountarae.jpg)
 
 ![null](/assets/images/triptyph_07_gkountarae.jpg)
+
+- - -
 
 **Eva Kalpadaki**
 
@@ -48,11 +56,15 @@ Until then… keep on playing.
 
 ![null](/assets/images/triptych09_kalpadakie.jpg)
 
+- - -
+
 **Christina Karamanli**
 
 ![null](/assets/images/21.jpg)
 
 ![null](/assets/images/22.jpg)
+
+- - -
 
 **Dimitra Kitsiou**
 
@@ -60,11 +72,15 @@ Until then… keep on playing.
 
 ![null](/assets/images/z2_kitsioud_triptych_09.jpg)
 
+- - -
+
 **George Koutsouvelis**
 
 ![null](/assets/images/pg_9_koutsouvelisg_3.jpg)
 
 ![null](/assets/images/triptych_4b.jpg)
+
+- - -
 
 **Nelli Kritikopoulou**
 
@@ -72,11 +88,15 @@ Until then… keep on playing.
 
 ![null](/assets/images/05_νέλλη-κρητικοπούλου.jpg)
 
+- - -
+
 **Evaggeli Mpetsa**
 
 ![null](/assets/images/δίπτυχο08.betsae.jpg)
 
 ![null](/assets/images/triptyxo.05.betsae.jpg)
+
+- - -
 
 **Nikos Sinatsakis**
 
@@ -84,11 +104,15 @@ Until then… keep on playing.
 
 ![null](/assets/images/trip4.jpg)
 
+- - -
+
 **Yannis Rousounelos**
 
 ![null](/assets/images/d05_rousounelosy.jpg)
 
 ![null](/assets/images/d10_rousounelosy.jpg)
+
+- - -
 
 **Achilles Nasios**
 
