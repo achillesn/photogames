@@ -5,7 +5,9 @@ image: /assets/images/z2_02.nasiosa.jpg
 ---
 - - -
 
-## **Zen-PhotoGames**
+## **Zen-PhotoGames **
+
+_(2021-2022)_
 
 Here you can see a selection of the results of the first cycle of the course \
 **"Zen and the Art of Photography"**, organised by the **Hocus Photus** Network.
@@ -124,11 +126,11 @@ Until then… keep on playing.
 
 ## **INTERGAMES**
 
+_(2018-2019)_
+
 These are photographic games designed to be played online, through which participants are able to actively participate in shaping a series of unexpected outcomes. During them multifaceted ways of learning and knowledge are gradually growing.
 
 We hope that you will enjoy this small sample of our research, as we did enjoy the process which revealed them to us.
-
-Until then… keep on playing.
 
 - - -
 
