@@ -3,16 +3,14 @@ layout: post
 title: Nelli Kritikopoulou
 description: the 11th game
 date: '2022-09-24T20:24:33+03:00'
-image: /assets/images/08-νέλλη-κρητικοπούλου.jpg
+image: /assets/images/nelli.jpg
 tags:
   - Games
 author: Achilles Nasios
 ---
-The 11th Game - 
+The 11th Game - June 2022
 
-
-
-![](<>)
+![null]()
 
 ![null](/assets/images/01-νέλλη-κρητικοπούλου.jpg)
 
@@ -34,4 +32,4 @@ The 11th Game -
 
 ![null](/assets/images/10-νέλλη-κρητικοπούλου.jpg)
 
-![](/assets/images/11-νέλλη-κρητικοπούλου.jpg)
+![null](/assets/images/11-νέλλη-κρητικοπούλου.jpg)
