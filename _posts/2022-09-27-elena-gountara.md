@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-The 11th Game - _(June 2022) - Since my childhood I had a special relationship with image and art, so my interest in photography did not take long to come. Photography for me is a great journey of self-exploration and understanding of ourselves and the world around us. It is the attempt to transfer our inner world using the represented object. A game with the subconscious._
+The 11th Game - _(June 2022) - _Since my childhood I had a special relationship with image and art, so my interest in photography did not take long to come. Photography for me is a great journey of self-exploration and understanding of ourselves and the world around us. It is the attempt to transfer our inner world using the represented object. A game with the subconscious.
 
 ![null](/assets/images/photogame_01_gkountarae.jpg)
 
