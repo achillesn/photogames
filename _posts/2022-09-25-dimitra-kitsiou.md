@@ -8,7 +8,9 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-The 11th Game - June 2022
+The 11th Game - _(June 2022)_ -
+
+Well, what about it? Photography? It is only just the way I have selected to communicate and meditate. A truly subjective way to perceive fragments of this world, more or less myself instinctively staging the very real around me; a continuous Present, one that includes both the Past and the Future and therefore turning into a timeless one; an "imprint against oblivion"; a world transformed more or less, one more easy to recognize. The camera then, one constant companion, a fellow traveler, provides the means that allows to re-discover beauty even in the non-obvious places. All in an effort to bring order to the chaos inside and around me and take steps towards Knowledge. All in all, the photographic process reveals complete surprises and pure joy.
 
 ![null](/assets/images/dimitra-final-1.jpg)
 
