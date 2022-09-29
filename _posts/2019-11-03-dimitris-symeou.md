@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dimitris Symeou
+title: Dimitris Symeou (Games)
 description: The Paphos PhotoGame
 date: '2019-10-29T11:39:00+01:00'
 image: /assets/images/symeoud_pg1_04.jpg.jpg
