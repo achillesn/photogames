@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eleana Theophilou
+title: Eleana Theophilou (Games)
 description: the Paphos PhotoGame
 date: '2019-10-31T14:08:03+01:00'
 image: /assets/images/theophiloue_pg_14.jpg
