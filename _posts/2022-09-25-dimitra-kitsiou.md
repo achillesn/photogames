@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dimitra Kitsiou
+title: Dimitra Kitsiou (Games)
 description: The 11th Game
 date: '2022-09-25T17:21:04+03:00'
 image: /assets/images/dimitra.jpg
