@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nasos Vassilogiannis
+title: Nasos Vassilogiannis (Games)
 description: 11th game
 date: '2022-09-25T09:23:00+03:00'
 image: /assets/images/nasos.jpg
@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-# The 11th PhotoGame  
+# The 11th PhotoGame
 
 _(June 2022)_
 
