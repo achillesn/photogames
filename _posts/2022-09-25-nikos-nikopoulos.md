@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nikos Nikopoulos
+title: Nikos Nikopoulos (Games)
 description: 11th Game
 date: '2022-09-25T17:14:30+03:00'
 image: /assets/images/nikos.jpg
@@ -8,7 +8,7 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-# The 11th PhotoGame 
+# The 11th PhotoGame
 
 (June 2022) -
 
