@@ -10,7 +10,7 @@ author: Achilles Nasios
 ---
 # The 11th PhotoGame
 
-(June 2022) -
+_(June 2022)_ -
 
 ![null](/assets/images/01_nikos_nikopoulos.jpg)
 
