@@ -51,3 +51,19 @@ _(2021-2022)_ - Diptychs
 ![](/assets/images/08georgouleas-triptixo.jpg)
 
 ![](/assets/images/09georgouleas-triptixo.jpg)
+
+## Photo-tableau
+
+![](/assets/images/tablo-01_georguleasi.jpg)
+
+![](/assets/images/tablo-02_georguleasi.jpg)
+
+![](/assets/images/tablo-03_georguleasi.jpg)
+
+![](/assets/images/tablo-04_georguleasi.jpg)
+
+![](/assets/images/tablo-05_georguleasi.jpg)
+
+![](/assets/images/tablo-06_georguleasi.jpg)
+
+![](/assets/images/tablo-07_georguleasi.jpg)
