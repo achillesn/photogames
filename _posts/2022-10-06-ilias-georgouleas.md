@@ -8,7 +8,7 @@ tags:
   - Stories
 author: Achilles Nasios
 ---
-# ZEN and the Art of Photography - 
+# ZEN and the Art of Photography -
 
 _(2021-2022)_ - Diptychs 
 
@@ -29,3 +29,25 @@ _(2021-2022)_ - Diptychs
 ![null](/assets/images/pg09_02d-georguleaas-.jpg)
 
 ![null](/assets/images/pg10_02di-georguleaas-.jpg)
+
+
+
+## Triptychs
+
+![](/assets/images/01georgouleas-triptixo.jpg)
+
+![](/assets/images/02georgouleas-triptixo.jpg)
+
+![](/assets/images/03georgouleas-triptixo.jpg)
+
+![](/assets/images/04georgouleas-triptixo.jpg)
+
+![](/assets/images/05georgouleas-triptixo.jpg)
+
+![](/assets/images/06georgouleas-triptixo.jpg)
+
+![](/assets/images/07georgouleas-triptixo.jpg)
+
+![](/assets/images/08georgouleas-triptixo.jpg)
+
+![](/assets/images/09georgouleas-triptixo.jpg)
