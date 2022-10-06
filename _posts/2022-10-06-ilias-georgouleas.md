@@ -30,40 +30,38 @@ _(2021-2022)_ - Diptychs
 
 ![null](/assets/images/pg10_02di-georguleaas-.jpg)
 
-
-
 ## Triptychs
 
-![](/assets/images/01georgouleas-triptixo.jpg)
+![null](/assets/images/01georgouleas-triptixo.jpg)
 
-![](/assets/images/02georgouleas-triptixo.jpg)
+![null](/assets/images/02georgouleas-triptixo.jpg)
 
-![](/assets/images/03georgouleas-triptixo.jpg)
+![null](/assets/images/03georgouleas-triptixo.jpg)
 
-![](/assets/images/04georgouleas-triptixo.jpg)
+![null](/assets/images/04georgouleas-triptixo.jpg)
 
-![](/assets/images/05georgouleas-triptixo.jpg)
+![null](/assets/images/05georgouleas-triptixo.jpg)
 
-![](/assets/images/06georgouleas-triptixo.jpg)
+![null](/assets/images/06georgouleas-triptixo.jpg)
 
-![](/assets/images/07georgouleas-triptixo.jpg)
+![null](/assets/images/07georgouleas-triptixo.jpg)
 
-![](/assets/images/08georgouleas-triptixo.jpg)
+![null](/assets/images/08georgouleas-triptixo.jpg)
 
-![](/assets/images/09georgouleas-triptixo.jpg)
+![null](/assets/images/09georgouleas-triptixo.jpg)
 
 ## Photo-tableau
 
-![](/assets/images/tablo-01_georguleasi.jpg)
+![null](/assets/images/tablo-01_georguleasi.jpg)
 
-![](/assets/images/tablo-02_georguleasi.jpg)
+![null](/assets/images/tablo-02_georguleasi.jpg)
 
-![](/assets/images/tablo-03_georguleasi.jpg)
+![null](/assets/images/tablo-03_georguleasi.jpg)
 
-![](/assets/images/tablo-04_georguleasi.jpg)
+![null](/assets/images/tablo-04_georguleasi.jpg)
 
-![](/assets/images/tablo-05_georguleasi.jpg)
+![null](/assets/images/tablo-05_georguleasi.jpg)
 
-![](/assets/images/tablo-06_georguleasi.jpg)
+![null](/assets/images/tablo-06_georguleasi.jpg)
 
-![](/assets/images/tablo-07_georguleasi.jpg)
+![null](/assets/images/tablo-07_georguleasi.jpg)
