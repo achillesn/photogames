@@ -65,3 +65,27 @@ _(2021-2022)_ - Diptychs
 ![null](/assets/images/tablo-06_georguleasi.jpg)
 
 ![null](/assets/images/tablo-07_georguleasi.jpg)
+
+
+
+## Essay
+
+![](/assets/images/01_story-ilias-georgouleas.jpg)
+
+![](/assets/images/02_story-ilias-georgouleas.jpg)
+
+![](/assets/images/03_story-ilias-georgouleas.jpg)
+
+![](/assets/images/04_story-ilias-georgouleas.jpg)
+
+![](/assets/images/05_story-ilias-georgouleas.jpg)
+
+![](/assets/images/06_story-ilias-georgouleas.jpg)
+
+![](/assets/images/07_story-ilias-georgouleas.jpg)
+
+![](/assets/images/08_story-ilias-georgouleas.jpg)
+
+![](/assets/images/09_story-ilias-georgouleas.jpg)
+
+![](/assets/images/11_story-extras.jpg)
