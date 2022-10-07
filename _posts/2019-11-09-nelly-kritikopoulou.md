@@ -3,7 +3,7 @@ layout: post
 title: Nelly Kritikopoulou (Games)
 description: The 10th and 11th PhotoGames
 date: '2022-09-11T13:38:56+03:00'
-image: /assets/images/kritikn_g10_01.jpg
+image: /assets/images/nelli.jpg
 tags:
   - Games
 author: Achilles Nasios
@@ -11,8 +11,6 @@ author: Achilles Nasios
 # The 11th PhotoGame
 
 _June 2022_ -
-
-
 
 ![null](/assets/images/01-νέλλη-κρητικοπούλου.jpg)
 
