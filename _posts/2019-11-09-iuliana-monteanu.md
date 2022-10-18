@@ -2,7 +2,7 @@
 layout: post
 title: Iuliana Munteanu (Games)
 description: The 10th PhotoGame
-date: '2019-11-05T00:00:00+01:00'
+date: '2022-07-09T01:00:00+03:00'
 image: /assets/images/munteanui_g10_01.jpg
 tags:
   - Games
