@@ -10,9 +10,11 @@ author: Achilles Nasios
 ---
 # ZEN and the Art of Photography -
 
+_(2021-2022)_
+
 ##  Diptychs
 
-_(2021-2022)_  
+
 
 ![null](/assets/images/pg02_02d-georguleas-i.jpg)
 
