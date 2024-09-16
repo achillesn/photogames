@@ -7,7 +7,7 @@ image: /assets/images/0zen.jpg
 
 ## Zen-PhotoGames
 
-_(2021-2022)_
+1_(2021-2022)_
 
 Here you can see a selection of the results of the first cycle of the course
 **"Zen and the Art of Photography"**, organised by the **Hocus Photus** Network.
