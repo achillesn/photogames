@@ -12,7 +12,8 @@ The Mobile Photo Game was an introductory game that took place in the framework 
 
 Afterwards, **_George Koutsouvelis_** introduced them to image editing techniques, so that they gained knowledge of editing the photo directly on the mobile phone. 
 
-The aim was to render each one's experience of this event, photographically.\
+The aim was to render each one's experience of this event, photographically.
+
 Here we can see some of the first results:
 
 _**Rania Skendou**_
