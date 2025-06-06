@@ -8,31 +8,31 @@ tags:
   - Games
 author: Achilles Nasios
 ---
-The Mobile Photo Game was an introductory game that took place in the framework of the Hocus Photus Network's activities, during the exhibition **SYNCHRON-e-CITIES** at **TAF** The Art Foundation Gallery the 1st June 2025. Participants were guided by _**Achilles Nasios**_ to take photos in a quick action, from which the material of the final results came from. \
+The Mobile Photo Game was an introductory game that took place in the framework of the Hocus Photus Network's activities, during the exhibition **SYNCHRON-e-CITIES** at **TAF** The Art Foundation Gallery the 1st June 2025. Participants were guided by **_Achilles Nasios_** to take photos in a quick action, from which the material of the final results came from. \
 Afterwards, George Koutsouvelis introduced them to image editing techniques, so that they gained knowledge of editing the photo directly on the mobile phone. \
 The aim was to render each one's experience of this event, photographically.\
 Here we can see some of the first results:
 
-_**Rania Skendou**_
+**_Rania Skendou_**
 
-![](/assets/images/r.-skendou.jpg)
+![null](/assets/images/r.-skendou.jpg)
 
-_**Nasos Vasilogiannis**_
+**_Nasos Vasilogiannis_**
 
-![](/assets/images/ath-vas.jpg)
+![null](/assets/images/ath-vas.jpg)
 
-_**Lazaros Vassos**_
+**_Lazaros Vassos_**
 
-![](/assets/images/lazaros.jpg)
+![null](/assets/images/lazaros.jpg)
 
-_**Ilias Georgouleas**_
+**_Ilias Georgouleas_**
 
-![](/assets/images/ilias.jpg)
+![null](/assets/images/ilias.jpg)
 
-**_David Gizgizyan_**
+_**David Gizgizyan**_
 
-![](/assets/images/david.jpg)
+![null](/assets/images/david.jpg)
 
-_**Elena Gountara**_
+**_Elena Gountara_**
 
-![](/assets/images/elena-goun.jpg)
+![null](/assets/images/elena-goun.jpg)
