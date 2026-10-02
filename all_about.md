@@ -47,7 +47,7 @@ _**Live PhotoGames**_: around 20 participatory performances in Greece, Cyprus an
 
 **Watch**
 
-Videos of our live PhotoGame performances and online games are available on our YouTube channel: \[youtube.com/@hocusphotus](https://www.youtube.com/@hocusphotus){:target="_blank" rel="noopener"}
+Videos of our live PhotoGame performances and online games are available on our YouTube channel: <a href="https://www.youtube.com/@hocusphotus" target="_blank" rel="noopener">youtube.com/@hocusphotus</a>
 
 ![null](/assets/images/01.jpg#full)
 
