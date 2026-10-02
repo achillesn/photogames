@@ -5,7 +5,7 @@ image: /assets/images/all2.jpg
 ---
 **Photo Games** is a participatory method of making and learning photography through play. It was created by photographer and educator Achilles Nasios and, since 2019, has been developed by the Hocus Photus Creative Network, a non-profit initiative based in Greece.
 
-_**How it started**_
+**_How it started_**
 
 When I first read Vilém Flusser's Towards a Philosophy of Photography thirty years ago, I could not imagine that his deep thoughts, presented with almost fairy-tale simplicity, would radically change how I understood photography. It is not thoughts that change things, but action. Philosophy proves its value only when it is put into practice.
 
@@ -13,11 +13,11 @@ Over years of studying the art of teaching, I saw a new way of teaching photogra
 
 ![null](/assets/images/02.-gina-by-a.jpg#full)
 
-_**What the Photo Games are**_
+**_What the Photo Games are_**
 
 Photo Games are creative games with simple rules, in which people photograph together and combine their images into collective artworks. No previous artistic experience is needed. Each game explores a different part of the photographic process, from the first encounter with a subject to the final form of the work. Some games focus on the experience of shooting, others on sharpening the eye for editing and sequencing. Together they help each participant understand the photographic process more deeply and develop a clear visual language.
 
-_**Formats**_
+**_Formats_**
 
 **Live, in person**
 
@@ -25,15 +25,15 @@ _Games_: workshops designed as games, in which participants photograph under spe
 
 **Live, online**
 
-_Inter-Games: _played in real time during live webinars, bringing together participants from different places in a shared creative process.
+**_Inter-Games_**: played in real time during live webinars, bringing together participants from different places in a shared creative process.
 
-_Zen Games: _a separate series of real-time games played during live webinars, each with its own rules and focus.
+_**Zen Games**_: a separate series of real-time games played during live webinars, each with its own rules and focus.
 
 ![null](/assets/images/02_mg_0167.jpg)
 
 **Online, over several weeks**
 
-_e-PhotoGames:_ played on Discord servers and Facebook groups, usually over six weeks or more. Players from different countries respond to one another with images and co-create collective works across borders, without the need to travel.
+_**e-PhotoGames**:_ played on Discord servers and Facebook groups, usually over six weeks or more. Players from different countries respond to one another with images and co-create collective works across borders, without the need to travel.
 
 **Stories**
 
@@ -41,17 +41,17 @@ Weekly online meetings in which each participant develops a complete visual prop
 
 **In numbers**
 
-e-PhotoGames: 250+ games, 160+ photographers from 7 countries
+**_e-PhotoGames_**: 250+ games, 160+ photographers from 7 countries
 
-Live PhotoGames: around 20 participatory performances in Greece and Cyprus, with some 240 participants so far.
+_**Live PhotoGames**_: around 20 participatory performances in Greece, Cyprus and Sweden, with some 240 participants so far.
 
 **Watch**
 
-Videos of our live PhotoGame performances and online games are available on our YouTube channel: [youtube.com/@hocusphotus](youtube.com/@hocusphotus)
+Videos of our live PhotoGame performances and online games are available on our YouTube channel: <https://www.youtube.com/@hocusphotus>
 
 ![null](/assets/images/01.jpg#full)
 
-_**Who we are**_
+**_Who we are_**
 
 We are not a conventional team. We come from different places, our professions differ, as do our faces and our gaze. What connects us is a shared love for photography and the need to look deeper into how the art is expressed. This is why we decided to share the results of our work more widely, hoping our initiative will inspire open dialogue.
 
