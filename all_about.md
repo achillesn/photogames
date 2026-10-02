@@ -3,33 +3,60 @@ layout: page
 title: All about
 image: /assets/images/all2.jpg
 ---
-When I first read Vilem Flusser's "Towards a Philosophy of Photography" 20 years ago, I couldn't even dream that his deep thoughts that were presented almost in fairy tale simplicity were to radically alter my perception of the photographic affairs. It's not the thoughts exactly but the action that changes matters. It's not philosophy as an idea but its implementation that proves its value. Actions are the only way to prove the truth of what is spoken.
+**Photo Games** is a participatory method of making and learning photography through play. It was created by photographer and educator Achilles Nasios and, since 2019, has been developed by the Hocus Photus Creative Network, a non-profit initiative based in Greece.
 
-Through the years of studying the art of teaching, I gradually saw a new pedagogic method of teaching photography emerging. Inspired from the deep understanding that Flusser suggested in combination with Rudolf Steiner's and Pär Ahlbom's pedagogics I reached the point of perceiving and creating the **Photo Games**.
+_**How it started**_
+
+When I first read Vilém Flusser's Towards a Philosophy of Photography thirty years ago, I could not imagine that his deep thoughts, presented with almost fairy-tale simplicity, would radically change how I understood photography. It is not thoughts that change things, but action. Philosophy proves its value only when it is put into practice.
+
+Over years of studying the art of teaching, I saw a new way of teaching photography gradually emerge. Inspired by Flusser and by the pedagogy of Rudolf Steiner and Pär Ahlbom, I came to create the Photo Games.
 
 ![null](/assets/images/02.-gina-by-a.jpg#full)
 
-Up to now, **three different types** of games have been planned and implemented. Τheir aim is always a deeper search for the demands of every single photographic procedure. As an outline one could say that The Photo Games utmost goal is to contribute to the methodology of researching the role of the photographer to his/her subject matter, the relationship with it from the initial recognition to the final formation. Sometimes emphasis is given to personal experience as is the requisite of shooting and sometimes to sharpen the mind to prompt it to edit images. The Games have been designed to offer a thorough personal perception of the photographic procedure  but also to lead a step further to the utterance of a lucid visual language.
+_**What the Photo Games are**_
+
+Photo Games are creative games with simple rules, in which people photograph together and combine their images into collective artworks. No previous artistic experience is needed. Each game explores a different part of the photographic process, from the first encounter with a subject to the final form of the work. Some games focus on the experience of shooting, others on sharpening the eye for editing and sequencing. Together they help each participant understand the photographic process more deeply and develop a clear visual language.
+
+_**Formats**_
+
+**Live, in person**
+
+_Games_: workshops designed as games, in which participants photograph under specific constraints, such as limited time or challenging lighting conditions, and their images come together into a single collective series. Live games are also played as participatory performances in front of an audience, in venues and public spaces across Greece and Cyprus, including Athens and Thessaloniki. Examples include Mobile Photo Game #1 at TAF – The Art Foundation, Athens (1 June 2025, during the exhibition SYNCHRON-e-CITIES), and our most recent live PhotoGame in Thessaloniki in 2026.
+
+**Live, online**
+
+_Inter-Games: _played in real time during live webinars, bringing together participants from different places in a shared creative process.
+
+_Zen Games: _a separate series of real-time games played during live webinars, each with its own rules and focus.
 
 ![null](/assets/images/02_mg_0167.jpg)
 
-All the works that are presented in this website are the outcome of workshops designed as games **(Games)** as well as the products of our weekly web meetings **(Stories)** and at list of the **(Inter-Games)**, which are designed to be played on-line, and during them multifaceted ways of learning and knowledge are gradually growing..
+**Online, over several weeks**
 
-The results of the photo action of each participant are presented in the **games** page, where each photographer was shooting in an dimly lit room within one minute. The aim of this action is to achieve a compact series of pictures which is formed from the combination of a chosen picture from each circle. 
+_e-PhotoGames:_ played on Discord servers and Facebook groups, usually over six weeks or more. Players from different countries respond to one another with images and co-create collective works across borders, without the need to travel.
 
-In the **stories** page the most important intend is to develop a complete visual proposal from every participant. Based on the development of our visual propositions we were able to decipher the theory that holds the art of photography.
-We recognized the importance of style and saw form spreading in front of our eyes the core of substance. We observed the secret unfolding of our subject matter revealing what we did not know about us and even more. Finally overjoyed we saw our work becoming a source of inspiration for the others.
+**Stories**
 
-The result of the **Inter-Games** will be shown soon.
+Weekly online meetings in which each participant develops a complete visual proposal. Working on these proposals, we came to understand the theory behind photography: the importance of style, and how form reveals the core of substance.
+
+**In numbers**
+
+e-PhotoGames: 250+ games, 160+ photographers from 7 countries
+
+Live PhotoGames: around 20 participatory performances in Greece and Cyprus, with some 240 participants so far.
+
+**Watch**
+
+Videos of our live PhotoGame performances and online games are available on our YouTube channel: [youtube.com/@hocusphotus](youtube.com/@hocusphotus)
 
 ![null](/assets/images/01.jpg#full)
 
-**We are not a conventional team**. We are people from different places, our professions differ as do our faces and our gaze. Our connecting link is our common love for photography and the realization of the need to search deeper in the dialectics of photography and the ways the art is expressed through them. This is the reason we decided to widen gradually the results of our study. Hoping that our initiative shall inspire open dialogue as any expression would aspire to.
+_**Who we are**_
 
-I wish to **thank everyone** who participated in the Photo Games up to now, considering joy our greatest reward. Without it, we would not have any outcome.
+We are not a conventional team. We come from different places, our professions differ, as do our faces and our gaze. What connects us is a shared love for photography and the need to look deeper into how the art is expressed. This is why we decided to share the results of our work more widely, hoping our initiative will inspire open dialogue.
 
-**Subscribe**, if you like to get all new updates.
+I wish to thank everyone who has taken part in the Photo Games so far. Joy has been our greatest reward; without it, there would be no outcome.
 
-**Contact us**, if you like to have further information.
+The **Photo Games** method and its game designs are original works by Achilles Nasios and the Hocus Photus Creative Network, developed since 2015.
 
-Enjoy!
+Contact: photogames.tk@gmail.com
