@@ -7,9 +7,9 @@ image: /assets/images/all2.jpg
 
 **_How it started_**
 
-When I first read Vilém Flusser's Towards a Philosophy of Photography thirty years ago, I could not imagine that his deep thoughts, presented with almost fairy-tale simplicity, would radically change how I understood photography. It is not thoughts that change things, but action. Philosophy proves its value only when it is put into practice.
+"_When I first read Vilém Flusser's Towards a Philosophy of Photography thirty years ago, I could not imagine that his deep thoughts, presented with almost fairy-tale simplicity, would radically change how I understood photography. It is not thoughts that change things, but action. Philosophy proves its value only when it is put into practice.
 
-Over years of studying the art of teaching, I saw a new way of teaching photography gradually emerge. Inspired by Flusser and by the pedagogy of Rudolf Steiner and Pär Ahlbom, I came to create the Photo Games.
+Over years of studying the art of teaching, I saw a new way of teaching photography gradually emerge. Inspired by Flusser and by the pedagogy of Rudolf Steiner and Pär Ahlbom, I came to create the Photo Games_".
 
 ![null](/assets/images/02.-gina-by-a.jpg#full)
 
