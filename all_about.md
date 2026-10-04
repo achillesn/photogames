@@ -3,7 +3,7 @@ layout: page
 title: All about
 image: /assets/images/all2.jpg
 ---
-**Photo Games** is a participatory method of making and learning photography through play. It was created by photographer and educator Achilles Nasios and, since 2019, has been developed by the Hocus Photus Creative Network, a non-profit initiative based in Greece.
+**Photo Games** is a participatory method of making and learning photography through play. The specific method and its game designs are original works by Achilles Nasios and the Hocus Photus Creative Network, developed since 2015.
 
 **_How it started_**
 
@@ -59,6 +59,5 @@ We use photography as a starting point for play, encounter, and creation. Throug
 
 We are interested not only in the image that emerges, but above all in the experience, the encounter, and everything that happens between people as the work takes shape.
 
-The **Photo Games** method and its game designs are original works by Achilles Nasios and the Hocus Photus Creative Network, developed since 2015.
 
 Contact: photogames.tk@gmail.com
