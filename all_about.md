@@ -33,7 +33,7 @@ _**Zen Games**_: a separate series of real-time games played during live webinar
 
 **Online, over several weeks**
 
-_**e-PhotoGames**:_ played on Discord servers and Facebook groups, usually over six weeks or more. Players from different countries respond to one another with images and co-create collective works across borders, without the need to travel.
+_**e-PhotoGames**:_ played on-line, usually over six months or more. Players from different countries respond to one another with images and co-create collective works across borders, without the need to travel.
 
 **Stories**
 
@@ -53,9 +53,11 @@ Videos of our live PhotoGame performances and online games are available on our 
 
 **_Who we are_**
 
-We are not a conventional team. We come from different places, our professions differ, as do our faces and our gaze. What connects us is a shared love for photography and the need to look deeper into how the art is expressed. This is why we decided to share the results of our work more widely, hoping our initiative will inspire open dialogue.
+**Hocus Photus Creative Network** is a non-profit organization based in Greece, creating initiatives around photography, art, and collective creativity.
 
-I wish to thank everyone who has taken part in the Photo Games so far. Joy has been our greatest reward; without it, there would be no outcome.
+We use photography as a starting point for play, encounter, and creation. Through photographic games, we engage with art in a direct and experiential way. Observation, chance, choice, and collaboration become part of a creative process in which everyone can participate.
+
+We are interested not only in the image that emerges, but above all in the experience, the encounter, and everything that happens between people as the work takes shape.
 
 The **Photo Games** method and its game designs are original works by Achilles Nasios and the Hocus Photus Creative Network, developed since 2015.
 
