@@ -12,9 +12,7 @@ author: Achilles Nasios
 
 _(2021-2022)_
 
-##  Diptychs
-
-
+## Diptychs
 
 ![null](/assets/images/pg02_02d-georguleas-i.jpg)
 
@@ -54,7 +52,7 @@ _(2021-2022)_
 
 ![null](/assets/images/09georgouleas-triptixo.jpg)
 
-## Photo-tableau
+## Grids
 
 ![null](/assets/images/tablo-01_georguleasi.jpg)
 
