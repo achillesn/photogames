@@ -21,7 +21,7 @@ _**Formats**_
 
 **Live, in person**
 
-_Games_: workshops designed as games, in which participants photograph under specific constraints, such as limited time or challenging lighting conditions, and their images come together into a single collective series. Live games are also played as participatory performances in front of an audience, in venues and public spaces across Greece and Cyprus, including Athens and Thessaloniki. Examples include Mobile Photo Game #1 at TAF – The Art Foundation, Athens (1 June 2025, during the exhibition SYNCHRON-e-CITIES), and our most recent live PhotoGame in Thessaloniki in 2026.
+**_PhotoGames_**: workshops designed as games, in which participants photograph under specific constraints, such as limited time or challenging lighting conditions, and their images come together into a single collective series. Live games are also played as participatory performances in front of an audience, in venues and public spaces.
 
 **Live, online**
 
@@ -31,9 +31,9 @@ _**Inter-Games**_: played in real time during live webinars, bringing together p
 
 ![null](/assets/images/02_mg_0167.jpg)
 
-**Online, over several weeks**
+**Online, over several months**
 
-_**e-PhotoGames**:_ played on-line, usually over six months or more. Players from different countries respond to one another with images and co-create collective works across borders, without the need to travel.
+_**e-PhotoGames**:_ played on-line, usually over six months or more. Players from different countries respond to one another with images and co-create collective works across borders and building networks, without the need to travel.
 
 **Stories**
 
@@ -53,7 +53,7 @@ Videos of our live PhotoGame performances and online games are available on our 
 
 _**Who we are**_
 
-**Hocus Photus Creative Network** is a non-profit organization based in Greece, creating initiatives around photography, art, and collective creativity.
+**Hocus Photus Creative Network** is a non-profit organization based in Greece, creating initiatives around photography, poetry, art, and collective creativity.
 
 We use photography as a starting point for play, encounter, and creation. Through photographic games, we engage with art in a direct and experiential way. Observation, chance, choice, and collaboration become part of a creative process in which everyone can participate.
 
